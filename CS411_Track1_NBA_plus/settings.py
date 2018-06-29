@@ -54,7 +54,7 @@ ROOT_URLCONF = 'CS411_Track1_NBA_plus.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'NBA_plus/templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
