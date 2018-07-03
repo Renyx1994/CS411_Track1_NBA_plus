@@ -73,10 +73,24 @@ WSGI_APPLICATION = 'CS411_Track1_NBA_plus.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/2.0/ref/settings/#databases
 
+#DATABASES = {
+#    'default': {
+#       'ENGINE': 'django.db.backends.sqlite3',
+#       'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+#   }
+#}
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'NBA',
+        'USER': 'root',
+        'PASSWORD': 'YTdTQe9-k,f',
+        'HOST': 'su18-cs411-06.cs.illinois.edu',
+        'PORT': '',
+        'OPTIONS': {
+          'autocommit': True,
+        },
     }
 }
 
