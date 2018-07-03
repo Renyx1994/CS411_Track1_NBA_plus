@@ -86,7 +86,7 @@ DATABASES = {
         'NAME': 'NBA',
         'USER': 'root',
         'PASSWORD': 'YTdTQe9-k,f',
-        'HOST': 'su18-cs411-06.cs.illinois.edu',
+        'HOST': 'localhost',
         'PORT': '',
         'OPTIONS': {
           'autocommit': True,
