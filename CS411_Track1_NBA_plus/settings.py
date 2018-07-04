@@ -31,6 +31,7 @@ ALLOWED_HOSTS = ['10.192.249.1','127.0.0.1','su18-cs411-06.cs.illinois.edu']
 # Application definition
 
 INSTALLED_APPS = [
+    'NBA_plus.apps.NbaPlusConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
