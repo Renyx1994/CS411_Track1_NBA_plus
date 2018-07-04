@@ -7,5 +7,5 @@ def index(request):
     return render(request, 'NBA_plus/index.html')
 
 def test(request):
-#    nbadata = Nba.objects.all()
-    return render(request, 'NBA_plus/test.html')
+    nbadata = Nba.objects.all()
+    return render(request, 'NBA_plus/test.html', {'nbadata':nbadata})
