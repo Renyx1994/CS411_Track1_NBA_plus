@@ -79,26 +79,6 @@
       <div class="starter-template">
         <h1>Bootstrap starter template</h1>
         <h1 class="lead"><br> NBA data is here!</h1>
-
-        <table>
-        <tr>
-            <th>G</th>
-            <th>OPP</th>
-            <th>H_A</th>
-            <th>SC</th>
-            <th>SC2</th>
-        </tr>
-        {% for i in nbadata %}
-        <tr>
-            <td>{{ i.id}}</td>
-            <td>{{ i.opp}}</td>
-            <td>{{ i.h_a}}</td>
-            <td>{{ i.sc}}</td>
-            <td>{{ i.sc2}}</td>
-        </tr>
-        {% endfor %}
-        </table>
-
       </div>
 
     </main><!-- /.container -->

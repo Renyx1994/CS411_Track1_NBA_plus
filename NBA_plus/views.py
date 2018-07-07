@@ -9,3 +9,6 @@ def index(request):
 def test(request):
     nbadata = Nba.objects.raw('SELECT G AS id, Opp, H_A, Sc, Sc2 FROM nba')
     return render(request, 'NBA_plus/test.html', {'nbadata':nbadata})
+
+def player(request):
+    return render(request, 'NBA_plus/player.html')
