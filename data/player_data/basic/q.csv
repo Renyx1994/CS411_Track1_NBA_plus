@@ -1,6 +1,6 @@
-Id,Player,From,To,Pos,Ht,Wt,Birth Date,Colleges
-qizh01,Zhou Qi,2018,2018,F-C,"7-1	",210,"January 16, 1996",
-quartti01,Tim Quarterman,2017,2018,G,"6-6	",195,"October 27, 1994",Louisiana State University
-quickbo01,Bob Quick,1969,1972,F-G,"6-5	",215,"March 5, 1946",Xavier University
-quinnch01,Chris Quinn,2007,2013,G,"6-2	",185,"September 27, 1983",University of Notre Dame
-quinnbr01,Brian Quinnett,1990,1992,F,"6-8	",235,"May 30, 1966",Washington State University
+,Player,From,To,Pos,Ht,Wt,Birth Date,Colleges
+0,Zhou Qi,2018,2018,F-C,7-1	,210,"January 16, 1996",
+1,Tim Quarterman,2017,2018,G,6-6	,195,"October 27, 1994",Louisiana State University
+2,Bob Quick,1969,1972,F-G,6-5	,215,"March 5, 1946",Xavier University
+3,Chris Quinn,2007,2013,G,6-2	,185,"September 27, 1983",University of Notre Dame
+4,Brian Quinnett,1990,1992,F,6-8	,235,"May 30, 1966",Washington State University

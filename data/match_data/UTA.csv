@@ -1,0 +1,3731 @@
+,playoff_regualr,team,year,Unnamed: 0,G,Opponent,Home_away,Tm,Opp
+0,regular,UTA,1975,0,1,New York Knicks,1,74,89
+1,regular,UTA,1975,1,2,Philadelphia 76ers,1,99,112
+2,regular,UTA,1975,2,3,Washington Bullets,1,92,110
+3,regular,UTA,1975,3,4,Buffalo Braves,1,118,134
+4,regular,UTA,1975,4,5,Philadelphia 76ers,0,89,102
+5,regular,UTA,1975,5,6,Cleveland Cavaliers,0,88,90
+6,regular,UTA,1975,6,7,Houston Rockets,0,100,113
+7,regular,UTA,1975,7,8,Detroit Pistons,1,93,103
+8,regular,UTA,1975,8,9,Kansas City-Omaha Kings,1,97,115
+9,regular,UTA,1975,9,10,Buffalo Braves,0,98,110
+10,regular,UTA,1975,10,11,Phoenix Suns,0,102,105
+11,regular,UTA,1975,11,12,Portland Trail Blazers,0,102,101
+12,regular,UTA,1975,12,13,Chicago Bulls,0,79,88
+13,regular,UTA,1975,13,14,Washington Bullets,0,95,104
+14,regular,UTA,1975,14,15,Atlanta Hawks,1,104,130
+15,regular,UTA,1975,15,16,Detroit Pistons,0,85,99
+16,regular,UTA,1975,16,17,Seattle SuperSonics,0,95,99
+17,regular,UTA,1975,17,18,Atlanta Hawks,0,90,86
+18,regular,UTA,1975,18,19,Cleveland Cavaliers,1,100,121
+19,regular,UTA,1975,19,20,Phoenix Suns,1,110,120
+20,regular,UTA,1975,21,21,Los Angeles Lakers,1,122,127
+21,regular,UTA,1975,22,22,Portland Trail Blazers,1,85,117
+22,regular,UTA,1975,23,23,Golden State Warriors,1,101,122
+23,regular,UTA,1975,24,24,Seattle SuperSonics,1,108,121
+24,regular,UTA,1975,25,25,Boston Celtics,0,101,111
+25,regular,UTA,1975,26,26,Golden State Warriors,0,106,103
+26,regular,UTA,1975,27,27,Chicago Bulls,1,76,109
+27,regular,UTA,1975,28,28,Houston Rockets,1,83,109
+28,regular,UTA,1975,29,29,Washington Bullets,1,90,113
+29,regular,UTA,1975,30,30,Boston Celtics,1,106,110
+30,regular,UTA,1975,31,31,Milwaukee Bucks,1,76,96
+31,regular,UTA,1975,32,32,Cleveland Cavaliers,1,79,95
+32,regular,UTA,1975,33,33,New York Knicks,1,94,101
+33,regular,UTA,1975,34,34,Detroit Pistons,1,95,99
+34,regular,UTA,1975,35,35,Seattle SuperSonics,1,89,111
+35,regular,UTA,1975,36,36,Portland Trail Blazers,1,102,111
+36,regular,UTA,1975,37,37,Golden State Warriors,1,94,136
+37,regular,UTA,1975,38,38,Houston Rockets,0,111,108
+38,regular,UTA,1975,39,39,Seattle SuperSonics,0,113,109
+39,regular,UTA,1975,40,40,Buffalo Braves,0,112,117
+40,regular,UTA,1975,42,41,Atlanta Hawks,1,103,135
+41,regular,UTA,1975,43,42,Boston Celtics,0,102,110
+42,regular,UTA,1975,44,43,Los Angeles Lakers,1,108,110
+43,regular,UTA,1975,45,44,Phoenix Suns,1,90,94
+44,regular,UTA,1975,46,45,Milwaukee Bucks,0,115,117
+45,regular,UTA,1975,47,46,Los Angeles Lakers,0,108,112
+46,regular,UTA,1975,48,47,Washington Bullets,0,101,106
+47,regular,UTA,1975,49,48,New York Knicks,0,118,114
+48,regular,UTA,1975,50,49,Houston Rockets,0,97,124
+49,regular,UTA,1975,51,50,Milwaukee Bucks,1,98,119
+50,regular,UTA,1975,52,51,Atlanta Hawks,1,106,102
+51,regular,UTA,1975,53,52,Atlanta Hawks,0,96,89
+52,regular,UTA,1975,54,53,Cleveland Cavaliers,1,86,100
+53,regular,UTA,1975,55,54,Houston Rockets,1,124,112
+54,regular,UTA,1975,56,55,Milwaukee Bucks,0,103,101
+55,regular,UTA,1975,57,56,Philadelphia 76ers,0,103,85
+56,regular,UTA,1975,58,57,Portland Trail Blazers,0,114,102
+57,regular,UTA,1975,59,58,Phoenix Suns,0,98,96
+58,regular,UTA,1975,60,59,Houston Rockets,0,108,99
+59,regular,UTA,1975,61,60,Chicago Bulls,0,105,120
+60,regular,UTA,1975,63,61,Buffalo Braves,1,100,110
+61,regular,UTA,1975,64,62,Kansas City-Omaha Kings,0,114,107
+62,regular,UTA,1975,65,63,Houston Rockets,1,109,121
+63,regular,UTA,1975,66,64,Los Angeles Lakers,0,123,117
+64,regular,UTA,1975,67,65,Golden State Warriors,0,110,107
+65,regular,UTA,1975,68,66,Atlanta Hawks,1,101,113
+66,regular,UTA,1975,69,67,Cleveland Cavaliers,0,90,86
+67,regular,UTA,1975,70,68,Cleveland Cavaliers,1,114,123
+68,regular,UTA,1975,71,69,Atlanta Hawks,0,140,123
+69,regular,UTA,1975,72,70,Cleveland Cavaliers,0,111,113
+70,regular,UTA,1975,73,71,Philadelphia 76ers,1,126,115
+71,regular,UTA,1975,74,72,Kansas City-Omaha Kings,1,95,101
+72,regular,UTA,1975,75,73,Washington Bullets,0,109,122
+73,regular,UTA,1975,76,74,Detroit Pistons,0,114,125
+74,regular,UTA,1975,77,75,Kansas City-Omaha Kings,0,112,110
+75,regular,UTA,1975,78,76,Boston Celtics,1,100,113
+76,regular,UTA,1975,79,77,New York Knicks,0,111,102
+77,regular,UTA,1975,80,78,Houston Rockets,1,105,107
+78,regular,UTA,1975,81,79,Atlanta Hawks,0,108,105
+79,regular,UTA,1975,82,80,Washington Bullets,0,101,110
+80,regular,UTA,1975,84,81,Chicago Bulls,1,87,111
+81,regular,UTA,1975,85,82,Washington Bullets,1,103,119
+0,regular,UTA,1976,0,1,Atlanta Hawks,1,91,109
+1,regular,UTA,1976,1,2,Detroit Pistons,0,114,106
+2,regular,UTA,1976,2,3,New York Knicks,0,125,114
+3,regular,UTA,1976,3,4,Portland Trail Blazers,0,99,90
+4,regular,UTA,1976,4,5,Milwaukee Bucks,0,100,85
+5,regular,UTA,1976,5,6,Cleveland Cavaliers,1,103,91
+6,regular,UTA,1976,6,7,Los Angeles Lakers,0,113,110
+7,regular,UTA,1976,7,8,Cleveland Cavaliers,0,90,94
+8,regular,UTA,1976,8,9,Seattle SuperSonics,0,97,111
+9,regular,UTA,1976,9,10,Portland Trail Blazers,1,104,106
+10,regular,UTA,1976,10,11,Los Angeles Lakers,1,100,116
+11,regular,UTA,1976,11,12,Houston Rockets,1,101,103
+12,regular,UTA,1976,12,13,Golden State Warriors,0,104,112
+13,regular,UTA,1976,13,14,Atlanta Hawks,1,89,85
+14,regular,UTA,1976,14,15,Atlanta Hawks,0,108,113
+15,regular,UTA,1976,15,16,Kansas City Kings,1,97,98
+16,regular,UTA,1976,16,17,Philadelphia 76ers,0,96,113
+17,regular,UTA,1976,17,18,Buffalo Braves,1,108,96
+18,regular,UTA,1976,18,19,Philadelphia 76ers,1,94,102
+19,regular,UTA,1976,19,20,Boston Celtics,1,93,104
+20,regular,UTA,1976,21,21,Phoenix Suns,0,89,104
+21,regular,UTA,1976,22,22,Washington Bullets,1,109,117
+22,regular,UTA,1976,23,23,Cleveland Cavaliers,1,90,112
+23,regular,UTA,1976,24,24,Boston Celtics,0,93,102
+24,regular,UTA,1976,25,25,Washington Bullets,0,105,88
+25,regular,UTA,1976,26,26,Seattle SuperSonics,1,102,113
+26,regular,UTA,1976,27,27,Portland Trail Blazers,1,105,97
+27,regular,UTA,1976,28,28,Phoenix Suns,1,120,107
+28,regular,UTA,1976,29,29,Golden State Warriors,1,97,105
+29,regular,UTA,1976,30,30,Houston Rockets,0,101,99
+30,regular,UTA,1976,31,31,New York Knicks,1,101,108
+31,regular,UTA,1976,32,32,Atlanta Hawks,0,111,95
+32,regular,UTA,1976,33,33,Kansas City Kings,0,120,95
+33,regular,UTA,1976,34,34,Chicago Bulls,1,104,98
+34,regular,UTA,1976,35,35,Kansas City Kings,1,107,97
+35,regular,UTA,1976,36,36,Detroit Pistons,1,104,99
+36,regular,UTA,1976,37,37,Philadelphia 76ers,1,95,100
+37,regular,UTA,1976,38,38,Milwaukee Bucks,1,94,92
+38,regular,UTA,1976,39,39,Houston Rockets,1,103,97
+39,regular,UTA,1976,40,40,Chicago Bulls,0,93,102
+40,regular,UTA,1976,42,41,Washington Bullets,1,86,109
+41,regular,UTA,1976,43,42,Buffalo Braves,1,105,129
+42,regular,UTA,1976,44,43,Buffalo Braves,0,112,126
+43,regular,UTA,1976,45,44,New York Knicks,0,119,97
+44,regular,UTA,1976,46,45,Atlanta Hawks,1,108,95
+45,regular,UTA,1976,47,46,Cleveland Cavaliers,0,96,95
+46,regular,UTA,1976,48,47,Houston Rockets,1,114,111
+47,regular,UTA,1976,49,48,Kansas City Kings,0,108,101
+48,regular,UTA,1976,50,49,Chicago Bulls,0,92,96
+49,regular,UTA,1976,51,50,Golden State Warriors,1,130,124
+50,regular,UTA,1976,52,51,Seattle SuperSonics,1,90,93
+51,regular,UTA,1976,53,52,Los Angeles Lakers,1,112,126
+52,regular,UTA,1976,54,53,Phoenix Suns,1,93,112
+53,regular,UTA,1976,55,54,Los Angeles Lakers,0,101,115
+54,regular,UTA,1976,56,55,Phoenix Suns,0,102,103
+55,regular,UTA,1976,57,56,New York Knicks,1,98,102
+56,regular,UTA,1976,58,57,Atlanta Hawks,0,102,94
+57,regular,UTA,1976,59,58,Washington Bullets,0,105,104
+58,regular,UTA,1976,60,59,Washington Bullets,1,108,118
+59,regular,UTA,1976,61,60,Milwaukee Bucks,0,99,112
+60,regular,UTA,1976,63,61,Milwaukee Bucks,1,109,111
+61,regular,UTA,1976,64,62,Houston Rockets,0,105,113
+62,regular,UTA,1976,65,63,Boston Celtics,0,93,98
+63,regular,UTA,1976,66,64,Seattle SuperSonics,0,124,106
+64,regular,UTA,1976,67,65,Boston Celtics,1,117,99
+65,regular,UTA,1976,68,66,Buffalo Braves,0,105,120
+66,regular,UTA,1976,69,67,Portland Trail Blazers,0,110,101
+67,regular,UTA,1976,70,68,Chicago Bulls,1,117,111
+68,regular,UTA,1976,71,69,Golden State Warriors,0,118,103
+69,regular,UTA,1976,72,70,New York Knicks,0,107,112
+70,regular,UTA,1976,73,71,Cleveland Cavaliers,0,103,81
+71,regular,UTA,1976,74,72,Buffalo Braves,1,101,115
+72,regular,UTA,1976,75,73,Boston Celtics,0,97,101
+73,regular,UTA,1976,76,74,Washington Bullets,0,131,126
+74,regular,UTA,1976,77,75,Philadelphia 76ers,0,110,107
+75,regular,UTA,1976,78,76,Cleveland Cavaliers,0,101,110
+76,regular,UTA,1976,79,77,Detroit Pistons,1,102,116
+77,regular,UTA,1976,80,78,Washington Bullets,1,129,125
+78,regular,UTA,1976,81,79,Philadelphia 76ers,1,99,102
+79,regular,UTA,1976,82,80,Cleveland Cavaliers,1,97,111
+80,regular,UTA,1976,84,81,Houston Rockets,0,99,88
+81,regular,UTA,1976,85,82,Detroit Pistons,0,112,105
+0,regular,UTA,1977,0,1,Phoenix Suns,0,111,98
+1,regular,UTA,1977,1,2,Philadelphia 76ers,0,101,111
+2,regular,UTA,1977,2,3,Washington Bullets,0,111,93
+3,regular,UTA,1977,3,4,New York Knicks,1,115,112
+4,regular,UTA,1977,4,5,Cleveland Cavaliers,1,92,106
+5,regular,UTA,1977,5,6,Boston Celtics,0,115,97
+6,regular,UTA,1977,6,7,San Antonio Spurs,0,127,119
+7,regular,UTA,1977,7,8,Detroit Pistons,0,107,115
+8,regular,UTA,1977,8,9,New York Nets,0,110,99
+9,regular,UTA,1977,9,10,Washington Bullets,1,103,116
+10,regular,UTA,1977,10,11,Boston Celtics,1,110,117
+11,regular,UTA,1977,11,12,Atlanta Hawks,1,115,86
+12,regular,UTA,1977,12,13,Portland Trail Blazers,0,100,98
+13,regular,UTA,1977,13,14,Detroit Pistons,1,95,118
+14,regular,UTA,1977,14,15,Philadelphia 76ers,1,95,100
+15,regular,UTA,1977,15,16,Cleveland Cavaliers,0,97,92
+16,regular,UTA,1977,16,17,Golden State Warriors,0,117,94
+17,regular,UTA,1977,17,18,Houston Rockets,0,99,105
+18,regular,UTA,1977,18,19,Buffalo Braves,0,127,118
+19,regular,UTA,1977,19,20,Milwaukee Bucks,0,126,105
+20,regular,UTA,1977,21,21,Atlanta Hawks,0,121,105
+21,regular,UTA,1977,22,22,Chicago Bulls,1,99,107
+22,regular,UTA,1977,23,23,Denver Nuggets,0,105,117
+23,regular,UTA,1977,24,24,Seattle SuperSonics,0,110,98
+24,regular,UTA,1977,25,25,Chicago Bulls,0,78,92
+25,regular,UTA,1977,26,26,San Antonio Spurs,1,106,121
+26,regular,UTA,1977,27,27,Kansas City Kings,0,120,117
+27,regular,UTA,1977,28,28,Los Angeles Lakers,0,105,115
+28,regular,UTA,1977,29,29,Atlanta Hawks,0,109,113
+29,regular,UTA,1977,30,30,Houston Rockets,1,110,106
+30,regular,UTA,1977,31,31,Detroit Pistons,0,110,125
+31,regular,UTA,1977,32,32,Indiana Pacers,0,123,113
+32,regular,UTA,1977,33,33,New York Nets,1,93,127
+33,regular,UTA,1977,34,34,Washington Bullets,0,109,100
+34,regular,UTA,1977,35,35,Indiana Pacers,1,97,104
+35,regular,UTA,1977,36,36,Atlanta Hawks,1,93,88
+36,regular,UTA,1977,37,37,Portland Trail Blazers,1,118,130
+37,regular,UTA,1977,38,38,Golden State Warriors,1,107,114
+38,regular,UTA,1977,39,39,Seattle SuperSonics,1,76,92
+39,regular,UTA,1977,40,40,Denver Nuggets,1,99,110
+40,regular,UTA,1977,42,41,Buffalo Braves,1,103,131
+41,regular,UTA,1977,43,42,Philadelphia 76ers,1,76,97
+42,regular,UTA,1977,44,43,Boston Celtics,0,99,89
+43,regular,UTA,1977,45,44,Golden State Warriors,0,118,100
+44,regular,UTA,1977,46,45,New York Knicks,0,111,102
+45,regular,UTA,1977,47,46,Kansas City Kings,1,95,101
+46,regular,UTA,1977,48,47,Denver Nuggets,1,96,108
+47,regular,UTA,1977,49,48,Phoenix Suns,1,102,118
+48,regular,UTA,1977,50,49,Los Angeles Lakers,1,99,101
+49,regular,UTA,1977,51,50,Seattle SuperSonics,1,95,120
+50,regular,UTA,1977,52,51,Golden State Warriors,1,105,99
+51,regular,UTA,1977,53,52,Houston Rockets,0,99,90
+52,regular,UTA,1977,54,53,New York Nets,1,89,93
+53,regular,UTA,1977,55,54,Chicago Bulls,1,92,110
+54,regular,UTA,1977,56,55,Milwaukee Bucks,1,106,117
+55,regular,UTA,1977,57,56,San Antonio Spurs,1,109,129
+56,regular,UTA,1977,58,57,New York Knicks,1,102,119
+57,regular,UTA,1977,59,58,Milwaukee Bucks,0,106,96
+58,regular,UTA,1977,60,59,New York Knicks,0,124,107
+59,regular,UTA,1977,61,60,San Antonio Spurs,0,118,135
+60,regular,UTA,1977,63,61,Kansas City Kings,1,104,126
+61,regular,UTA,1977,64,62,Buffalo Braves,0,91,95
+62,regular,UTA,1977,65,63,Washington Bullets,1,105,117
+63,regular,UTA,1977,66,64,Indiana Pacers,0,106,110
+64,regular,UTA,1977,67,65,Seattle SuperSonics,0,91,96
+65,regular,UTA,1977,68,66,Houston Rockets,1,104,120
+66,regular,UTA,1977,69,67,Portland Trail Blazers,1,104,131
+67,regular,UTA,1977,70,68,Phoenix Suns,1,104,100
+68,regular,UTA,1977,71,69,Los Angeles Lakers,1,95,100
+69,regular,UTA,1977,72,70,Portland Trail Blazers,0,106,95
+70,regular,UTA,1977,73,71,Detroit Pistons,1,95,89
+71,regular,UTA,1977,74,72,Cleveland Cavaliers,1,92,87
+72,regular,UTA,1977,75,73,Kansas City Kings,0,100,94
+73,regular,UTA,1977,76,74,Indiana Pacers,1,119,118
+74,regular,UTA,1977,77,75,New York Nets,0,94,85
+75,regular,UTA,1977,78,76,Phoenix Suns,0,112,100
+76,regular,UTA,1977,79,77,Cleveland Cavaliers,0,106,115
+77,regular,UTA,1977,80,78,Chicago Bulls,0,82,101
+78,regular,UTA,1977,81,79,Philadelphia 76ers,0,109,119
+79,regular,UTA,1977,82,80,Buffalo Braves,1,102,107
+80,regular,UTA,1977,84,81,Boston Celtics,1,109,120
+81,regular,UTA,1977,85,82,Denver Nuggets,0,139,125
+0,regular,UTA,1978,0,1,Cleveland Cavaliers,0,104,107
+1,regular,UTA,1978,1,2,New Jersey Nets,1,111,103
+2,regular,UTA,1978,2,3,Philadelphia 76ers,1,104,103
+3,regular,UTA,1978,3,4,New York Knicks,0,123,106
+4,regular,UTA,1978,4,5,Phoenix Suns,0,114,107
+5,regular,UTA,1978,5,6,Chicago Bulls,0,99,88
+6,regular,UTA,1978,6,7,Kansas City Kings,1,102,104
+7,regular,UTA,1978,7,8,Golden State Warriors,0,105,102
+8,regular,UTA,1978,8,9,Washington Bullets,0,97,108
+9,regular,UTA,1978,9,10,Denver Nuggets,1,112,115
+10,regular,UTA,1978,10,11,Phoenix Suns,1,111,127
+11,regular,UTA,1978,11,12,Los Angeles Lakers,1,107,123
+12,regular,UTA,1978,12,13,Seattle SuperSonics,1,83,117
+13,regular,UTA,1978,13,14,New York Knicks,1,105,108
+14,regular,UTA,1978,14,15,Seattle SuperSonics,0,127,116
+15,regular,UTA,1978,15,16,Houston Rockets,1,103,101
+16,regular,UTA,1978,16,17,Indiana Pacers,0,123,108
+17,regular,UTA,1978,17,18,Denver Nuggets,0,131,129
+18,regular,UTA,1978,18,19,Kansas City Kings,0,115,106
+19,regular,UTA,1978,19,20,Chicago Bulls,1,87,95
+20,regular,UTA,1978,21,21,Philadelphia 76ers,0,114,117
+21,regular,UTA,1978,22,22,San Antonio Spurs,1,118,133
+22,regular,UTA,1978,23,23,Buffalo Braves,1,90,113
+23,regular,UTA,1978,24,24,Indiana Pacers,1,103,118
+24,regular,UTA,1978,25,25,Washington Bullets,1,97,101
+25,regular,UTA,1978,26,26,Detroit Pistons,1,86,104
+26,regular,UTA,1978,27,27,Los Angeles Lakers,0,117,94
+27,regular,UTA,1978,28,28,Phoenix Suns,0,113,126
+28,regular,UTA,1978,29,29,Kansas City Kings,1,93,115
+29,regular,UTA,1978,30,30,Detroit Pistons,0,108,117
+30,regular,UTA,1978,31,31,New Jersey Nets,0,131,110
+31,regular,UTA,1978,32,32,San Antonio Spurs,0,105,115
+32,regular,UTA,1978,33,33,Cleveland Cavaliers,1,113,102
+33,regular,UTA,1978,34,34,New York Knicks,1,116,118
+34,regular,UTA,1978,35,35,Indiana Pacers,0,103,104
+35,regular,UTA,1978,36,36,Milwaukee Bucks,1,116,109
+36,regular,UTA,1978,37,37,Atlanta Hawks,0,96,94
+37,regular,UTA,1978,38,38,Portland Trail Blazers,1,100,122
+38,regular,UTA,1978,39,39,Denver Nuggets,1,110,115
+39,regular,UTA,1978,40,40,Phoenix Suns,1,99,142
+40,regular,UTA,1978,42,41,Golden State Warriors,1,118,111
+41,regular,UTA,1978,43,42,Houston Rockets,0,99,95
+42,regular,UTA,1978,44,43,Atlanta Hawks,1,108,106
+43,regular,UTA,1978,45,44,Portland Trail Blazers,0,101,100
+44,regular,UTA,1978,46,45,Detroit Pistons,0,100,97
+45,regular,UTA,1978,47,46,Boston Celtics,0,96,91
+46,regular,UTA,1978,48,47,Kansas City Kings,0,134,117
+47,regular,UTA,1978,49,48,Indiana Pacers,1,107,91
+48,regular,UTA,1978,50,49,Buffalo Braves,0,114,95
+49,regular,UTA,1978,51,50,Chicago Bulls,0,117,111
+50,regular,UTA,1978,52,51,Cleveland Cavaliers,1,99,122
+51,regular,UTA,1978,53,52,Philadelphia 76ers,1,104,117
+52,regular,UTA,1978,54,53,Detroit Pistons,1,96,106
+53,regular,UTA,1978,55,54,Houston Rockets,0,112,119
+54,regular,UTA,1978,56,55,Chicago Bulls,1,95,102
+55,regular,UTA,1978,57,56,Milwaukee Bucks,1,99,112
+56,regular,UTA,1978,58,57,Atlanta Hawks,0,102,111
+57,regular,UTA,1978,59,58,Washington Bullets,1,111,130
+58,regular,UTA,1978,60,59,Golden State Warriors,0,116,91
+59,regular,UTA,1978,61,60,Cleveland Cavaliers,0,101,98
+60,regular,UTA,1978,63,61,Milwaukee Bucks,0,120,122
+61,regular,UTA,1978,64,62,Buffalo Braves,0,125,108
+62,regular,UTA,1978,65,63,Boston Celtics,0,101,100
+63,regular,UTA,1978,66,64,Boston Celtics,1,113,116
+64,regular,UTA,1978,67,65,Seattle SuperSonics,0,113,104
+65,regular,UTA,1978,68,66,San Antonio Spurs,1,97,98
+66,regular,UTA,1978,69,67,Portland Trail Blazers,0,84,82
+67,regular,UTA,1978,70,68,Buffalo Braves,1,108,120
+68,regular,UTA,1978,71,69,New Jersey Nets,1,105,99
+69,regular,UTA,1978,72,70,Portland Trail Blazers,1,109,103
+70,regular,UTA,1978,73,71,Seattle SuperSonics,1,98,123
+71,regular,UTA,1978,74,72,Golden State Warriors,1,96,88
+72,regular,UTA,1978,75,73,New Jersey Nets,0,117,114
+73,regular,UTA,1978,76,74,Washington Bullets,0,109,124
+74,regular,UTA,1978,77,75,Atlanta Hawks,1,94,96
+75,regular,UTA,1978,78,76,Denver Nuggets,0,100,109
+76,regular,UTA,1978,79,77,Los Angeles Lakers,0,103,108
+77,regular,UTA,1978,80,78,New York Knicks,0,116,117
+78,regular,UTA,1978,81,79,Boston Celtics,1,108,119
+79,regular,UTA,1978,82,80,Philadelphia 76ers,0,120,119
+80,regular,UTA,1978,84,81,Houston Rockets,1,117,114
+81,regular,UTA,1978,85,82,San Antonio Spurs,0,153,132
+0,regular,UTA,1979,0,1,Washington Bullets,1,101,117
+1,regular,UTA,1979,1,2,Milwaukee Bucks,0,112,123
+2,regular,UTA,1979,2,3,Detroit Pistons,0,114,109
+3,regular,UTA,1979,3,4,Boston Celtics,0,120,115
+4,regular,UTA,1979,4,5,Philadelphia 76ers,1,111,130
+5,regular,UTA,1979,5,6,Cleveland Cavaliers,1,104,122
+6,regular,UTA,1979,6,7,Kansas City Kings,1,109,114
+7,regular,UTA,1979,7,8,New York Knicks,0,123,111
+8,regular,UTA,1979,8,9,Chicago Bulls,0,97,92
+9,regular,UTA,1979,9,10,Phoenix Suns,0,99,106
+10,regular,UTA,1979,10,11,Milwaukee Bucks,1,116,108
+11,regular,UTA,1979,11,12,San Diego Clippers,0,115,121
+12,regular,UTA,1979,12,13,San Antonio Spurs,0,113,102
+13,regular,UTA,1979,13,14,Phoenix Suns,1,122,128
+14,regular,UTA,1979,14,15,Portland Trail Blazers,1,103,123
+15,regular,UTA,1979,15,16,Seattle SuperSonics,1,118,135
+16,regular,UTA,1979,16,17,Los Angeles Lakers,1,109,121
+17,regular,UTA,1979,17,18,San Diego Clippers,1,111,114
+18,regular,UTA,1979,18,19,New Jersey Nets,0,140,118
+19,regular,UTA,1979,19,20,Golden State Warriors,0,106,98
+20,regular,UTA,1979,21,21,New Jersey Nets,1,100,103
+21,regular,UTA,1979,22,22,New York Knicks,1,96,103
+22,regular,UTA,1979,23,23,Philadelphia 76ers,0,107,103
+23,regular,UTA,1979,24,24,Denver Nuggets,0,111,105
+24,regular,UTA,1979,25,25,Washington Bullets,0,115,117
+25,regular,UTA,1979,26,26,Atlanta Hawks,1,94,128
+26,regular,UTA,1979,27,27,Los Angeles Lakers,0,102,114
+27,regular,UTA,1979,28,28,Houston Rockets,0,106,110
+28,regular,UTA,1979,29,29,Indiana Pacers,0,109,103
+29,regular,UTA,1979,30,30,Boston Celtics,1,96,102
+30,regular,UTA,1979,31,31,Kansas City Kings,1,100,128
+31,regular,UTA,1979,32,32,Golden State Warriors,0,96,104
+32,regular,UTA,1979,33,33,Denver Nuggets,1,112,121
+33,regular,UTA,1979,34,34,Indiana Pacers,1,103,127
+34,regular,UTA,1979,35,35,Los Angeles Lakers,1,125,123
+35,regular,UTA,1979,36,36,Seattle SuperSonics,1,103,122
+36,regular,UTA,1979,37,37,Golden State Warriors,1,106,118
+37,regular,UTA,1979,38,38,Los Angeles Lakers,0,109,105
+38,regular,UTA,1979,39,39,San Antonio Spurs,1,97,123
+39,regular,UTA,1979,40,40,New Jersey Nets,0,112,125
+40,regular,UTA,1979,42,41,Cleveland Cavaliers,0,94,105
+41,regular,UTA,1979,43,42,San Diego Clippers,0,107,114
+42,regular,UTA,1979,44,43,Philadelphia 76ers,1,112,123
+43,regular,UTA,1979,45,44,Philadelphia 76ers,0,100,89
+44,regular,UTA,1979,46,45,Houston Rockets,1,106,117
+45,regular,UTA,1979,47,46,Denver Nuggets,0,100,104
+46,regular,UTA,1979,48,47,Washington Bullets,1,102,112
+47,regular,UTA,1979,49,48,Portland Trail Blazers,0,107,101
+48,regular,UTA,1979,50,49,Atlanta Hawks,1,94,118
+49,regular,UTA,1979,51,50,Atlanta Hawks,0,108,87
+50,regular,UTA,1979,52,51,Kansas City Kings,0,118,116
+51,regular,UTA,1979,53,52,New Jersey Nets,1,104,110
+52,regular,UTA,1979,54,53,Chicago Bulls,1,110,116
+53,regular,UTA,1979,55,54,New York Knicks,0,125,123
+54,regular,UTA,1979,56,55,Houston Rockets,0,99,106
+55,regular,UTA,1979,57,56,Detroit Pistons,1,107,105
+56,regular,UTA,1979,58,57,Portland Trail Blazers,1,101,120
+57,regular,UTA,1979,59,58,Golden State Warriors,1,101,113
+58,regular,UTA,1979,60,59,San Diego Clippers,1,112,122
+59,regular,UTA,1979,61,60,Phoenix Suns,1,112,136
+60,regular,UTA,1979,63,61,Denver Nuggets,1,112,115
+61,regular,UTA,1979,64,62,Seattle SuperSonics,0,94,96
+62,regular,UTA,1979,65,63,Chicago Bulls,0,111,102
+63,regular,UTA,1979,66,64,Cleveland Cavaliers,1,105,96
+64,regular,UTA,1979,67,65,Boston Celtics,1,112,122
+65,regular,UTA,1979,68,66,Detroit Pistons,1,101,110
+66,regular,UTA,1979,69,67,Portland Trail Blazers,0,102,103
+67,regular,UTA,1979,70,68,Houston Rockets,1,109,124
+68,regular,UTA,1979,71,69,New York Knicks,1,91,104
+69,regular,UTA,1979,72,70,Milwaukee Bucks,1,102,158
+70,regular,UTA,1979,73,71,San Antonio Spurs,0,124,122
+71,regular,UTA,1979,74,72,Kansas City Kings,0,112,120
+72,regular,UTA,1979,75,73,Phoenix Suns,0,121,117
+73,regular,UTA,1979,76,74,Washington Bullets,0,107,126
+74,regular,UTA,1979,77,75,Chicago Bulls,1,99,116
+75,regular,UTA,1979,78,76,Cleveland Cavaliers,0,139,117
+76,regular,UTA,1979,79,77,Indiana Pacers,0,101,104
+77,regular,UTA,1979,80,78,San Antonio Spurs,1,94,122
+78,regular,UTA,1979,81,79,Atlanta Hawks,0,109,107
+79,regular,UTA,1979,82,80,Boston Celtics,0,141,125
+80,regular,UTA,1979,84,81,Detroit Pistons,0,104,120
+81,regular,UTA,1979,85,82,Milwaukee Bucks,0,131,140
+0,regular,UTA,1980,0,1,Portland Trail Blazers,1,85,101
+1,regular,UTA,1980,1,2,Milwaukee Bucks,0,107,131
+2,regular,UTA,1980,2,3,Portland Trail Blazers,0,92,107
+3,regular,UTA,1980,3,4,Golden State Warriors,1,96,101
+4,regular,UTA,1980,4,5,San Diego Clippers,0,110,109
+5,regular,UTA,1980,5,6,Los Angeles Lakers,1,87,102
+6,regular,UTA,1980,6,7,Chicago Bulls,0,113,105
+7,regular,UTA,1980,7,8,Denver Nuggets,1,96,116
+8,regular,UTA,1980,8,9,Kansas City Kings,1,108,125
+9,regular,UTA,1980,9,10,New York Knicks,0,118,134
+10,regular,UTA,1980,10,11,San Diego Clippers,1,109,126
+11,regular,UTA,1980,11,12,Phoenix Suns,0,107,120
+12,regular,UTA,1980,12,13,Denver Nuggets,0,92,96
+13,regular,UTA,1980,13,14,Seattle SuperSonics,0,87,88
+14,regular,UTA,1980,14,15,Indiana Pacers,0,105,113
+15,regular,UTA,1980,15,16,Atlanta Hawks,1,97,108
+16,regular,UTA,1980,16,17,Boston Celtics,1,97,113
+17,regular,UTA,1980,17,18,Washington Bullets,1,103,111
+18,regular,UTA,1980,18,19,Cleveland Cavaliers,1,107,119
+19,regular,UTA,1980,19,20,Detroit Pistons,1,93,98
+20,regular,UTA,1980,21,21,Los Angeles Lakers,0,118,122
+21,regular,UTA,1980,22,22,Golden State Warriors,1,112,104
+22,regular,UTA,1980,23,23,Seattle SuperSonics,0,97,95
+23,regular,UTA,1980,24,24,Milwaukee Bucks,0,89,96
+24,regular,UTA,1980,25,25,Seattle SuperSonics,1,96,115
+25,regular,UTA,1980,26,26,Portland Trail Blazers,0,87,82
+26,regular,UTA,1980,27,27,Denver Nuggets,1,119,103
+27,regular,UTA,1980,28,28,Golden State Warriors,0,100,93
+28,regular,UTA,1980,29,29,San Antonio Spurs,0,144,114
+29,regular,UTA,1980,30,30,Kansas City Kings,1,87,103
+30,regular,UTA,1980,31,31,Milwaukee Bucks,1,79,104
+31,regular,UTA,1980,32,32,Cleveland Cavaliers,0,105,103
+32,regular,UTA,1980,33,33,Phoenix Suns,1,99,117
+33,regular,UTA,1980,34,34,San Diego Clippers,0,98,110
+34,regular,UTA,1980,35,35,San Diego Clippers,1,118,124
+35,regular,UTA,1980,36,36,Denver Nuggets,0,122,111
+36,regular,UTA,1980,37,37,Los Angeles Lakers,0,116,124
+37,regular,UTA,1980,38,38,Indiana Pacers,1,116,114
+38,regular,UTA,1980,39,39,Milwaukee Bucks,1,95,88
+39,regular,UTA,1980,40,40,Kansas City Kings,0,121,128
+40,regular,UTA,1980,42,41,Portland Trail Blazers,1,97,115
+41,regular,UTA,1980,43,42,Washington Bullets,0,107,108
+42,regular,UTA,1980,44,43,Detroit Pistons,0,124,110
+43,regular,UTA,1980,45,44,Seattle SuperSonics,1,90,100
+44,regular,UTA,1980,46,45,San Diego Clippers,1,102,119
+45,regular,UTA,1980,47,46,Phoenix Suns,1,103,106
+46,regular,UTA,1980,48,47,Los Angeles Lakers,1,99,112
+47,regular,UTA,1980,49,48,Phoenix Suns,0,108,115
+48,regular,UTA,1980,50,49,Chicago Bulls,1,107,102
+49,regular,UTA,1980,51,50,Golden State Warriors,0,116,99
+50,regular,UTA,1980,52,51,Milwaukee Bucks,0,127,122
+51,regular,UTA,1980,53,52,Kansas City Kings,0,88,110
+52,regular,UTA,1980,54,53,Kansas City Kings,1,107,112
+53,regular,UTA,1980,55,54,Philadelphia 76ers,0,107,101
+54,regular,UTA,1980,56,55,New Jersey Nets,0,102,100
+55,regular,UTA,1980,57,56,Chicago Bulls,0,116,106
+56,regular,UTA,1980,58,57,Atlanta Hawks,0,90,92
+57,regular,UTA,1980,59,58,Houston Rockets,1,95,117
+58,regular,UTA,1980,60,59,San Antonio Spurs,1,128,148
+59,regular,UTA,1980,61,60,Philadelphia 76ers,1,85,107
+60,regular,UTA,1980,63,61,New Jersey Nets,1,96,137
+61,regular,UTA,1980,64,62,New York Knicks,1,121,102
+62,regular,UTA,1980,65,63,Boston Celtics,0,98,105
+63,regular,UTA,1980,66,64,Houston Rockets,0,82,94
+64,regular,UTA,1980,67,65,Seattle SuperSonics,0,95,105
+65,regular,UTA,1980,68,66,Chicago Bulls,1,85,105
+66,regular,UTA,1980,69,67,Phoenix Suns,0,101,111
+67,regular,UTA,1980,70,68,Portland Trail Blazers,1,91,87
+68,regular,UTA,1980,71,69,Seattle SuperSonics,1,91,103
+69,regular,UTA,1980,72,70,Golden State Warriors,0,105,111
+70,regular,UTA,1980,73,71,Portland Trail Blazers,0,117,110
+71,regular,UTA,1980,74,72,Phoenix Suns,1,94,110
+72,regular,UTA,1980,75,73,San Diego Clippers,0,98,113
+73,regular,UTA,1980,76,74,Golden State Warriors,1,103,115
+74,regular,UTA,1980,77,75,Denver Nuggets,1,94,96
+75,regular,UTA,1980,78,76,Chicago Bulls,0,103,100
+76,regular,UTA,1980,79,77,Kansas City Kings,0,98,102
+77,regular,UTA,1980,80,78,Los Angeles Lakers,1,96,101
+78,regular,UTA,1980,81,79,Denver Nuggets,0,109,91
+79,regular,UTA,1980,82,80,Los Angeles Lakers,0,95,97
+80,regular,UTA,1980,84,81,Chicago Bulls,1,106,111
+81,regular,UTA,1980,85,82,Milwaukee Bucks,1,91,107
+0,regular,UTA,1981,0,1,Portland Trail Blazers,0,96,86
+1,regular,UTA,1981,1,2,Kansas City Kings,1,91,98
+2,regular,UTA,1981,2,3,Denver Nuggets,1,125,121
+3,regular,UTA,1981,3,4,Phoenix Suns,0,93,107
+4,regular,UTA,1981,4,5,Denver Nuggets,0,117,115
+5,regular,UTA,1981,5,6,Seattle SuperSonics,0,92,98
+6,regular,UTA,1981,6,7,San Diego Clippers,1,100,103
+7,regular,UTA,1981,7,8,Los Angeles Lakers,0,99,127
+8,regular,UTA,1981,8,9,Dallas Mavericks,1,104,96
+9,regular,UTA,1981,9,10,San Antonio Spurs,0,109,96
+10,regular,UTA,1981,10,11,Dallas Mavericks,0,144,122
+11,regular,UTA,1981,11,12,Portland Trail Blazers,1,95,87
+12,regular,UTA,1981,12,13,Kansas City Kings,0,107,104
+13,regular,UTA,1981,13,14,Cleveland Cavaliers,0,112,96
+14,regular,UTA,1981,14,15,New York Knicks,0,102,109
+15,regular,UTA,1981,15,16,Indiana Pacers,0,108,106
+16,regular,UTA,1981,16,17,Seattle SuperSonics,1,114,106
+17,regular,UTA,1981,17,18,Houston Rockets,0,117,115
+18,regular,UTA,1981,18,19,San Antonio Spurs,1,104,120
+19,regular,UTA,1981,19,20,Milwaukee Bucks,0,93,126
+20,regular,UTA,1981,21,21,Atlanta Hawks,1,93,99
+21,regular,UTA,1981,22,22,Detroit Pistons,1,104,97
+22,regular,UTA,1981,23,23,New Jersey Nets,1,95,122
+23,regular,UTA,1981,24,24,Philadelphia 76ers,1,93,113
+24,regular,UTA,1981,25,25,Milwaukee Bucks,1,108,119
+25,regular,UTA,1981,26,26,Denver Nuggets,0,122,118
+26,regular,UTA,1981,27,27,Seattle SuperSonics,0,98,108
+27,regular,UTA,1981,28,28,Los Angeles Lakers,1,100,113
+28,regular,UTA,1981,29,29,San Antonio Spurs,0,90,115
+29,regular,UTA,1981,30,30,Chicago Bulls,1,98,118
+30,regular,UTA,1981,31,31,Cleveland Cavaliers,1,103,110
+31,regular,UTA,1981,32,32,New York Knicks,1,97,112
+32,regular,UTA,1981,33,33,Atlanta Hawks,0,97,109
+33,regular,UTA,1981,34,34,Phoenix Suns,1,90,108
+34,regular,UTA,1981,35,35,San Diego Clippers,0,91,103
+35,regular,UTA,1981,36,36,Dallas Mavericks,1,101,96
+36,regular,UTA,1981,37,37,Golden State Warriors,0,109,110
+37,regular,UTA,1981,38,38,San Antonio Spurs,1,117,142
+38,regular,UTA,1981,39,39,Los Angeles Lakers,0,110,100
+39,regular,UTA,1981,40,40,Houston Rockets,1,103,117
+40,regular,UTA,1981,42,41,Kansas City Kings,1,95,101
+41,regular,UTA,1981,43,42,Portland Trail Blazers,0,109,103
+42,regular,UTA,1981,44,43,Denver Nuggets,1,121,117
+43,regular,UTA,1981,45,44,Dallas Mavericks,0,99,97
+44,regular,UTA,1981,46,45,Kansas City Kings,0,92,99
+45,regular,UTA,1981,47,46,Golden State Warriors,1,110,107
+46,regular,UTA,1981,48,47,San Diego Clippers,0,112,109
+47,regular,UTA,1981,49,48,Indiana Pacers,1,89,110
+48,regular,UTA,1981,50,49,Washington Bullets,1,113,121
+49,regular,UTA,1981,51,50,Boston Celtics,1,87,117
+50,regular,UTA,1981,52,51,Golden State Warriors,0,101,103
+51,regular,UTA,1981,53,52,Houston Rockets,1,91,106
+52,regular,UTA,1981,54,53,Detroit Pistons,0,102,99
+53,regular,UTA,1981,55,54,Los Angeles Lakers,1,104,111
+54,regular,UTA,1981,56,55,Houston Rockets,0,99,97
+55,regular,UTA,1981,57,56,Phoenix Suns,1,89,114
+56,regular,UTA,1981,58,57,Denver Nuggets,0,116,120
+57,regular,UTA,1981,59,58,Seattle SuperSonics,1,89,96
+58,regular,UTA,1981,60,59,Golden State Warriors,1,101,107
+59,regular,UTA,1981,61,60,Kansas City Kings,1,87,99
+60,regular,UTA,1981,63,61,Boston Celtics,0,104,89
+61,regular,UTA,1981,64,62,Portland Trail Blazers,1,84,118
+62,regular,UTA,1981,65,63,Seattle SuperSonics,0,98,101
+63,regular,UTA,1981,66,64,Chicago Bulls,0,84,92
+64,regular,UTA,1981,67,65,San Diego Clippers,1,93,108
+65,regular,UTA,1981,68,66,Houston Rockets,0,102,106
+66,regular,UTA,1981,69,67,New Jersey Nets,0,132,106
+67,regular,UTA,1981,70,68,Philadelphia 76ers,0,83,87
+68,regular,UTA,1981,71,69,Portland Trail Blazers,1,97,108
+69,regular,UTA,1981,72,70,Washington Bullets,0,93,112
+70,regular,UTA,1981,73,71,Golden State Warriors,1,105,107
+71,regular,UTA,1981,74,72,Phoenix Suns,0,100,112
+72,regular,UTA,1981,75,73,San Diego Clippers,0,97,94
+73,regular,UTA,1981,76,74,Houston Rockets,1,82,101
+74,regular,UTA,1981,77,75,San Antonio Spurs,1,86,94
+75,regular,UTA,1981,78,76,Dallas Mavericks,0,120,113
+76,regular,UTA,1981,79,77,Dallas Mavericks,1,95,105
+77,regular,UTA,1981,80,78,Denver Nuggets,1,108,113
+78,regular,UTA,1981,81,79,Kansas City Kings,0,92,105
+79,regular,UTA,1981,82,80,San Antonio Spurs,0,97,98
+80,regular,UTA,1981,84,81,Los Angeles Lakers,0,112,110
+81,regular,UTA,1981,85,82,Phoenix Suns,1,90,105
+0,regular,UTA,1982,0,1,Dallas Mavericks,0,105,89
+1,regular,UTA,1982,1,2,Golden State Warriors,1,91,106
+2,regular,UTA,1982,2,3,Golden State Warriors,0,110,101
+3,regular,UTA,1982,3,4,Portland Trail Blazers,1,109,119
+4,regular,UTA,1982,4,5,Phoenix Suns,0,95,87
+5,regular,UTA,1982,5,6,San Diego Clippers,1,106,97
+6,regular,UTA,1982,6,7,Denver Nuggets,0,131,124
+7,regular,UTA,1982,7,8,Houston Rockets,1,105,109
+8,regular,UTA,1982,8,9,Los Angeles Lakers,0,110,113
+9,regular,UTA,1982,9,10,Chicago Bulls,1,105,103
+10,regular,UTA,1982,10,11,Detroit Pistons,1,86,95
+11,regular,UTA,1982,11,12,San Diego Clippers,0,102,100
+12,regular,UTA,1982,12,13,Portland Trail Blazers,0,93,103
+13,regular,UTA,1982,13,14,Denver Nuggets,1,124,131
+14,regular,UTA,1982,14,15,Los Angeles Lakers,1,86,117
+15,regular,UTA,1982,15,16,Dallas Mavericks,0,114,103
+16,regular,UTA,1982,16,17,Chicago Bulls,0,101,105
+17,regular,UTA,1982,17,18,Phoenix Suns,1,99,101
+18,regular,UTA,1982,18,19,Dallas Mavericks,1,103,128
+19,regular,UTA,1982,19,20,Indiana Pacers,1,77,113
+20,regular,UTA,1982,21,21,Kansas City Kings,0,122,102
+21,regular,UTA,1982,22,22,San Antonio Spurs,1,97,111
+22,regular,UTA,1982,23,23,San Antonio Spurs,0,108,103
+23,regular,UTA,1982,24,24,Kansas City Kings,1,95,100
+24,regular,UTA,1982,25,25,Seattle SuperSonics,0,103,115
+25,regular,UTA,1982,26,26,Seattle SuperSonics,1,99,113
+26,regular,UTA,1982,27,27,Houston Rockets,0,104,115
+27,regular,UTA,1982,28,28,Los Angeles Lakers,1,114,121
+28,regular,UTA,1982,29,29,Boston Celtics,0,110,121
+29,regular,UTA,1982,30,30,Philadelphia 76ers,0,107,109
+30,regular,UTA,1982,31,31,San Antonio Spurs,0,130,115
+31,regular,UTA,1982,32,32,Indiana Pacers,0,108,102
+32,regular,UTA,1982,33,33,San Diego Clippers,1,118,125
+33,regular,UTA,1982,34,34,New York Knicks,0,121,129
+34,regular,UTA,1982,35,35,Seattle SuperSonics,1,103,115
+35,regular,UTA,1982,36,36,Cleveland Cavaliers,0,120,125
+36,regular,UTA,1982,37,37,Detroit Pistons,0,123,117
+37,regular,UTA,1982,38,38,San Antonio Spurs,1,104,123
+38,regular,UTA,1982,39,39,Houston Rockets,1,110,128
+39,regular,UTA,1982,40,40,Dallas Mavericks,1,110,122
+40,regular,UTA,1982,42,41,New Jersey Nets,0,129,138
+41,regular,UTA,1982,43,42,Milwaukee Bucks,0,101,119
+42,regular,UTA,1982,44,43,Portland Trail Blazers,0,122,118
+43,regular,UTA,1982,45,44,Portland Trail Blazers,1,100,121
+44,regular,UTA,1982,46,45,Seattle SuperSonics,1,103,129
+45,regular,UTA,1982,47,46,Golden State Warriors,0,123,107
+46,regular,UTA,1982,48,47,Denver Nuggets,1,151,148
+47,regular,UTA,1982,49,48,Kansas City Kings,1,129,114
+48,regular,UTA,1982,50,49,Phoenix Suns,0,120,115
+49,regular,UTA,1982,51,50,Denver Nuggets,0,134,145
+50,regular,UTA,1982,52,51,Atlanta Hawks,0,109,117
+51,regular,UTA,1982,53,52,Philadelphia 76ers,1,117,132
+52,regular,UTA,1982,54,53,New Jersey Nets,1,108,125
+53,regular,UTA,1982,55,54,Washington Bullets,1,113,106
+54,regular,UTA,1982,56,55,Boston Celtics,1,90,132
+55,regular,UTA,1982,57,56,Seattle SuperSonics,0,97,98
+56,regular,UTA,1982,58,57,Kansas City Kings,0,117,125
+57,regular,UTA,1982,59,58,Phoenix Suns,1,102,115
+58,regular,UTA,1982,60,59,Houston Rockets,0,124,128
+59,regular,UTA,1982,61,60,Washington Bullets,0,113,127
+60,regular,UTA,1982,63,61,New York Knicks,1,112,126
+61,regular,UTA,1982,64,62,Atlanta Hawks,1,91,107
+62,regular,UTA,1982,65,63,Cleveland Cavaliers,1,115,121
+63,regular,UTA,1982,66,64,Milwaukee Bucks,1,100,129
+64,regular,UTA,1982,67,65,Denver Nuggets,1,138,154
+65,regular,UTA,1982,68,66,Los Angeles Lakers,0,112,120
+66,regular,UTA,1982,69,67,Portland Trail Blazers,0,129,131
+67,regular,UTA,1982,70,68,Golden State Warriors,1,102,113
+68,regular,UTA,1982,71,69,Houston Rockets,0,115,117
+69,regular,UTA,1982,72,70,Golden State Warriors,0,105,107
+70,regular,UTA,1982,73,71,San Antonio Spurs,0,110,114
+71,regular,UTA,1982,74,72,Phoenix Suns,0,102,113
+72,regular,UTA,1982,75,73,Kansas City Kings,0,127,118
+73,regular,UTA,1982,76,74,San Diego Clippers,1,133,124
+74,regular,UTA,1982,77,75,Dallas Mavericks,0,129,114
+75,regular,UTA,1982,78,76,Dallas Mavericks,1,109,123
+76,regular,UTA,1982,79,77,Kansas City Kings,1,99,115
+77,regular,UTA,1982,80,78,Denver Nuggets,0,151,136
+78,regular,UTA,1982,81,79,San Diego Clippers,0,112,107
+79,regular,UTA,1982,82,80,Los Angeles Lakers,1,115,128
+80,regular,UTA,1982,84,81,Houston Rockets,1,100,107
+81,regular,UTA,1982,85,82,San Antonio Spurs,1,128,120
+0,regular,UTA,1983,0,1,San Antonio Spurs,0,114,120
+1,regular,UTA,1983,1,2,Dallas Mavericks,1,128,123
+2,regular,UTA,1983,2,3,Seattle SuperSonics,0,92,120
+3,regular,UTA,1983,3,4,Phoenix Suns,1,104,119
+4,regular,UTA,1983,4,5,Los Angeles Lakers,0,101,104
+5,regular,UTA,1983,5,6,San Antonio Spurs,1,104,118
+6,regular,UTA,1983,6,7,Denver Nuggets,0,125,119
+7,regular,UTA,1983,7,8,Atlanta Hawks,0,98,106
+8,regular,UTA,1983,8,9,New Jersey Nets,0,101,97
+9,regular,UTA,1983,9,10,Chicago Bulls,1,111,127
+10,regular,UTA,1983,10,11,Cleveland Cavaliers,1,121,99
+11,regular,UTA,1983,11,12,Milwaukee Bucks,1,106,119
+12,regular,UTA,1983,12,13,Boston Celtics,1,103,137
+13,regular,UTA,1983,13,14,Philadelphia 76ers,1,113,126
+14,regular,UTA,1983,14,15,New York Knicks,1,93,124
+15,regular,UTA,1983,15,16,Portland Trail Blazers,0,119,112
+16,regular,UTA,1983,16,17,Chicago Bulls,0,131,124
+17,regular,UTA,1983,17,18,Golden State Warriors,1,111,119
+18,regular,UTA,1983,18,19,Portland Trail Blazers,1,121,137
+19,regular,UTA,1983,19,20,Houston Rockets,0,101,93
+20,regular,UTA,1983,21,21,Los Angeles Lakers,0,122,128
+21,regular,UTA,1983,22,22,Houston Rockets,1,101,94
+22,regular,UTA,1983,23,23,San Diego Clippers,0,119,113
+23,regular,UTA,1983,24,24,San Antonio Spurs,1,103,110
+24,regular,UTA,1983,25,25,Houston Rockets,0,116,97
+25,regular,UTA,1983,26,26,Kansas City Kings,0,119,117
+26,regular,UTA,1983,27,27,Los Angeles Lakers,1,100,124
+27,regular,UTA,1983,28,28,Phoenix Suns,0,101,111
+28,regular,UTA,1983,29,29,Kansas City Kings,1,118,120
+29,regular,UTA,1983,30,30,Detroit Pistons,0,105,98
+30,regular,UTA,1983,31,31,Seattle SuperSonics,1,92,109
+31,regular,UTA,1983,32,32,Indiana Pacers,0,114,115
+32,regular,UTA,1983,33,33,Boston Celtics,0,112,127
+33,regular,UTA,1983,34,34,Golden State Warriors,1,100,88
+34,regular,UTA,1983,35,35,San Diego Clippers,0,115,122
+35,regular,UTA,1983,36,36,Kansas City Kings,1,117,139
+36,regular,UTA,1983,37,37,Houston Rockets,1,87,82
+37,regular,UTA,1983,38,38,Kansas City Kings,0,106,98
+38,regular,UTA,1983,39,39,Denver Nuggets,1,118,126
+39,regular,UTA,1983,40,40,Dallas Mavericks,0,107,105
+40,regular,UTA,1983,42,41,San Diego Clippers,1,115,111
+41,regular,UTA,1983,43,42,Golden State Warriors,0,95,103
+42,regular,UTA,1983,44,43,New York Knicks,0,108,93
+43,regular,UTA,1983,45,44,Dallas Mavericks,1,88,126
+44,regular,UTA,1983,46,45,San Antonio Spurs,0,106,116
+45,regular,UTA,1983,47,46,Portland Trail Blazers,1,106,120
+46,regular,UTA,1983,48,47,Philadelphia 76ers,0,109,126
+47,regular,UTA,1983,49,48,Phoenix Suns,1,96,112
+48,regular,UTA,1983,50,49,Milwaukee Bucks,0,110,122
+49,regular,UTA,1983,51,50,Denver Nuggets,1,136,143
+50,regular,UTA,1983,52,51,Los Angeles Lakers,1,99,113
+51,regular,UTA,1983,53,52,Seattle SuperSonics,0,99,105
+52,regular,UTA,1983,54,53,San Antonio Spurs,0,112,101
+53,regular,UTA,1983,55,54,Portland Trail Blazers,0,97,101
+54,regular,UTA,1983,56,55,San Diego Clippers,1,97,107
+55,regular,UTA,1983,57,56,Washington Bullets,0,98,99
+56,regular,UTA,1983,58,57,Phoenix Suns,0,103,110
+57,regular,UTA,1983,59,58,Los Angeles Lakers,0,101,92
+58,regular,UTA,1983,60,59,Seattle SuperSonics,1,98,101
+59,regular,UTA,1983,61,60,San Diego Clippers,0,127,105
+60,regular,UTA,1983,63,61,Cleveland Cavaliers,0,118,113
+61,regular,UTA,1983,64,62,Golden State Warriors,1,121,127
+62,regular,UTA,1983,65,63,Portland Trail Blazers,1,110,105
+63,regular,UTA,1983,66,64,Denver Nuggets,0,109,122
+64,regular,UTA,1983,67,65,Dallas Mavericks,0,119,110
+65,regular,UTA,1983,68,66,Denver Nuggets,1,117,130
+66,regular,UTA,1983,69,67,Detroit Pistons,1,125,115
+67,regular,UTA,1983,70,68,Atlanta Hawks,1,94,99
+68,regular,UTA,1983,71,69,Washington Bullets,1,98,121
+69,regular,UTA,1983,72,70,New Jersey Nets,1,104,124
+70,regular,UTA,1983,73,71,Indiana Pacers,1,117,119
+71,regular,UTA,1983,74,72,Seattle SuperSonics,0,108,122
+72,regular,UTA,1983,75,73,Phoenix Suns,1,107,115
+73,regular,UTA,1983,76,74,Dallas Mavericks,0,117,103
+74,regular,UTA,1983,77,75,Golden State Warriors,0,112,108
+75,regular,UTA,1983,78,76,Houston Rockets,0,126,97
+76,regular,UTA,1983,79,77,Kansas City Kings,1,97,112
+77,regular,UTA,1983,80,78,Kansas City Kings,0,102,108
+78,regular,UTA,1983,81,79,Denver Nuggets,0,125,116
+79,regular,UTA,1983,82,80,Dallas Mavericks,1,99,106
+80,regular,UTA,1983,84,81,San Antonio Spurs,1,118,121
+81,regular,UTA,1983,85,82,Houston Rockets,1,126,117
+0,playoff,UTA,1984,0,1,Denver Nuggets,0,123,121
+1,playoff,UTA,1984,1,2,Denver Nuggets,0,116,132
+2,playoff,UTA,1984,2,3,Denver Nuggets,1,117,121
+3,playoff,UTA,1984,3,4,Denver Nuggets,1,129,124
+4,playoff,UTA,1984,4,5,Denver Nuggets,0,127,111
+5,playoff,UTA,1984,6,6,Phoenix Suns,0,105,95
+6,playoff,UTA,1984,7,7,Phoenix Suns,0,97,102
+7,playoff,UTA,1984,8,8,Phoenix Suns,1,94,106
+8,playoff,UTA,1984,9,9,Phoenix Suns,1,110,111
+9,playoff,UTA,1984,10,10,Phoenix Suns,0,118,106
+10,playoff,UTA,1984,11,11,Phoenix Suns,1,82,102
+0,regular,UTA,1984,0,1,Denver Nuggets,1,125,139
+1,regular,UTA,1984,1,2,Los Angeles Lakers,0,115,120
+2,regular,UTA,1984,2,3,Golden State Warriors,0,129,112
+3,regular,UTA,1984,3,4,San Antonio Spurs,0,124,118
+4,regular,UTA,1984,4,5,San Antonio Spurs,1,99,105
+5,regular,UTA,1984,5,6,Houston Rockets,1,118,109
+6,regular,UTA,1984,6,7,Portland Trail Blazers,0,136,122
+7,regular,UTA,1984,7,8,Los Angeles Lakers,1,118,124
+8,regular,UTA,1984,8,9,Portland Trail Blazers,1,112,114
+9,regular,UTA,1984,9,10,Boston Celtics,0,122,109
+10,regular,UTA,1984,10,11,Detroit Pistons,1,120,128
+11,regular,UTA,1984,11,12,Washington Bullets,1,113,126
+12,regular,UTA,1984,12,13,Los Angeles Lakers,1,130,126
+13,regular,UTA,1984,13,14,Chicago Bulls,0,117,128
+14,regular,UTA,1984,14,15,Denver Nuggets,0,126,124
+15,regular,UTA,1984,15,16,Kansas City Kings,1,116,117
+16,regular,UTA,1984,16,17,Phoenix Suns,0,114,110
+17,regular,UTA,1984,17,18,San Diego Clippers,1,117,115
+18,regular,UTA,1984,18,19,Phoenix Suns,1,116,113
+19,regular,UTA,1984,19,20,Kansas City Kings,0,112,107
+20,regular,UTA,1984,21,21,Portland Trail Blazers,0,116,111
+21,regular,UTA,1984,22,22,San Antonio Spurs,0,117,126
+22,regular,UTA,1984,23,23,Houston Rockets,1,128,121
+23,regular,UTA,1984,24,24,Cleveland Cavaliers,1,107,105
+24,regular,UTA,1984,25,25,Houston Rockets,0,138,111
+25,regular,UTA,1984,26,26,Golden State Warriors,0,127,111
+26,regular,UTA,1984,27,27,Indiana Pacers,0,133,115
+27,regular,UTA,1984,28,28,Denver Nuggets,0,118,116
+28,regular,UTA,1984,29,29,Golden State Warriors,1,111,102
+29,regular,UTA,1984,30,30,Seattle SuperSonics,1,113,105
+30,regular,UTA,1984,31,31,Denver Nuggets,1,130,135
+31,regular,UTA,1984,32,32,San Antonio Spurs,1,124,137
+32,regular,UTA,1984,33,33,Houston Rockets,0,116,111
+33,regular,UTA,1984,34,34,Kansas City Kings,0,130,110
+34,regular,UTA,1984,35,35,Phoenix Suns,0,107,98
+35,regular,UTA,1984,36,36,Dallas Mavericks,1,102,117
+36,regular,UTA,1984,37,37,San Diego Clippers,1,122,119
+37,regular,UTA,1984,38,38,Washington Bullets,0,121,96
+38,regular,UTA,1984,39,39,Atlanta Hawks,1,106,112
+39,regular,UTA,1984,40,40,Dallas Mavericks,1,120,113
+40,regular,UTA,1984,42,41,Houston Rockets,1,105,115
+41,regular,UTA,1984,43,42,Dallas Mavericks,0,115,123
+42,regular,UTA,1984,44,43,New Jersey Nets,0,125,115
+43,regular,UTA,1984,45,44,Seattle SuperSonics,0,98,94
+44,regular,UTA,1984,46,45,Phoenix Suns,0,116,95
+45,regular,UTA,1984,47,46,Los Angeles Lakers,1,105,109
+46,regular,UTA,1984,48,47,Milwaukee Bucks,0,116,102
+47,regular,UTA,1984,49,48,San Diego Clippers,0,103,109
+48,regular,UTA,1984,50,49,New York Knicks,0,111,121
+49,regular,UTA,1984,51,50,Portland Trail Blazers,1,114,112
+50,regular,UTA,1984,52,51,Atlanta Hawks,0,100,98
+51,regular,UTA,1984,53,52,Kansas City Kings,1,99,121
+52,regular,UTA,1984,54,53,Milwaukee Bucks,1,91,105
+53,regular,UTA,1984,55,54,Indiana Pacers,1,104,106
+54,regular,UTA,1984,56,55,Chicago Bulls,1,117,95
+55,regular,UTA,1984,57,56,San Antonio Spurs,0,143,142
+56,regular,UTA,1984,58,57,Seattle SuperSonics,1,81,112
+57,regular,UTA,1984,59,58,Dallas Mavericks,0,95,97
+58,regular,UTA,1984,60,59,Phoenix Suns,1,100,113
+59,regular,UTA,1984,61,60,Philadelphia 76ers,0,97,103
+60,regular,UTA,1984,63,61,Cleveland Cavaliers,0,110,104
+61,regular,UTA,1984,64,62,Denver Nuggets,1,122,131
+62,regular,UTA,1984,65,63,New Jersey Nets,1,116,120
+63,regular,UTA,1984,66,64,Boston Celtics,1,106,117
+64,regular,UTA,1984,67,65,New York Knicks,1,105,114
+65,regular,UTA,1984,68,66,Philadelphia 76ers,1,97,120
+66,regular,UTA,1984,69,67,Portland Trail Blazers,0,124,119
+67,regular,UTA,1984,70,68,Golden State Warriors,1,115,111
+68,regular,UTA,1984,71,69,Dallas Mavericks,0,118,103
+69,regular,UTA,1984,72,70,Detroit Pistons,0,143,125
+70,regular,UTA,1984,73,71,San Antonio Spurs,1,126,129
+71,regular,UTA,1984,74,72,Golden State Warriors,0,104,115
+72,regular,UTA,1984,75,73,Seattle SuperSonics,1,121,98
+73,regular,UTA,1984,76,74,Kansas City Kings,0,110,106
+74,regular,UTA,1984,77,75,Seattle SuperSonics,0,106,96
+75,regular,UTA,1984,78,76,Kansas City Kings,1,103,105
+76,regular,UTA,1984,79,77,Houston Rockets,0,111,100
+77,regular,UTA,1984,80,78,Los Angeles Lakers,0,115,129
+78,regular,UTA,1984,81,79,Dallas Mavericks,1,100,109
+79,regular,UTA,1984,82,80,Denver Nuggets,0,135,120
+80,regular,UTA,1984,84,81,San Diego Clippers,0,113,94
+81,regular,UTA,1984,85,82,San Diego Clippers,1,128,146
+0,playoff,UTA,1985,0,1,Houston Rockets,1,115,101
+1,playoff,UTA,1985,1,2,Houston Rockets,1,96,122
+2,playoff,UTA,1985,2,3,Houston Rockets,0,112,104
+3,playoff,UTA,1985,3,4,Houston Rockets,0,94,96
+4,playoff,UTA,1985,4,5,Houston Rockets,1,104,97
+5,playoff,UTA,1985,6,6,Denver Nuggets,1,113,130
+6,playoff,UTA,1985,7,7,Denver Nuggets,1,123,131
+7,playoff,UTA,1985,8,8,Denver Nuggets,0,131,123
+8,playoff,UTA,1985,9,9,Denver Nuggets,0,118,125
+9,playoff,UTA,1985,10,10,Denver Nuggets,1,104,116
+0,regular,UTA,1985,0,1,Seattle SuperSonics,1,94,102
+1,regular,UTA,1985,1,2,Los Angeles Clippers,0,94,103
+2,regular,UTA,1985,2,3,New York Knicks,0,117,111
+3,regular,UTA,1985,3,4,Seattle SuperSonics,0,107,101
+4,regular,UTA,1985,4,5,Golden State Warriors,1,107,112
+5,regular,UTA,1985,5,6,San Antonio Spurs,0,136,124
+6,regular,UTA,1985,6,7,Golden State Warriors,0,125,117
+7,regular,UTA,1985,7,8,Denver Nuggets,1,135,147
+8,regular,UTA,1985,8,9,Dallas Mavericks,0,123,97
+9,regular,UTA,1985,9,10,Portland Trail Blazers,1,120,129
+10,regular,UTA,1985,10,11,Phoenix Suns,0,108,94
+11,regular,UTA,1985,11,12,Kansas City Kings,1,122,129
+12,regular,UTA,1985,12,13,Atlanta Hawks,1,90,122
+13,regular,UTA,1985,13,14,Houston Rockets,0,111,98
+14,regular,UTA,1985,14,15,San Antonio Spurs,1,123,117
+15,regular,UTA,1985,15,16,Phoenix Suns,1,102,115
+16,regular,UTA,1985,16,17,Los Angeles Lakers,0,109,114
+17,regular,UTA,1985,17,18,Denver Nuggets,0,116,97
+18,regular,UTA,1985,18,19,Denver Nuggets,1,111,118
+19,regular,UTA,1985,19,20,Golden State Warriors,1,107,105
+20,regular,UTA,1985,21,21,Seattle SuperSonics,0,99,106
+21,regular,UTA,1985,22,22,Kansas City Kings,0,123,120
+22,regular,UTA,1985,23,23,Washington Bullets,1,85,82
+23,regular,UTA,1985,24,24,New York Knicks,1,115,119
+24,regular,UTA,1985,25,25,Boston Celtics,1,106,117
+25,regular,UTA,1985,26,26,Milwaukee Bucks,1,102,115
+26,regular,UTA,1985,27,27,Indiana Pacers,1,81,88
+27,regular,UTA,1985,28,28,Detroit Pistons,0,117,116
+28,regular,UTA,1985,29,29,Dallas Mavericks,0,96,113
+29,regular,UTA,1985,30,30,Kansas City Kings,0,133,122
+30,regular,UTA,1985,31,31,Philadelphia 76ers,0,111,114
+31,regular,UTA,1985,32,32,Dallas Mavericks,1,99,97
+32,regular,UTA,1985,33,33,Indiana Pacers,0,117,119
+33,regular,UTA,1985,34,34,Denver Nuggets,0,118,108
+34,regular,UTA,1985,35,35,Houston Rockets,0,121,92
+35,regular,UTA,1985,36,36,Los Angeles Clippers,1,106,116
+36,regular,UTA,1985,37,37,Los Angeles Lakers,1,112,120
+37,regular,UTA,1985,38,38,Phoenix Suns,1,94,109
+38,regular,UTA,1985,39,39,San Antonio Spurs,1,101,121
+39,regular,UTA,1985,40,40,Washington Bullets,0,101,103
+40,regular,UTA,1985,42,41,Portland Trail Blazers,0,127,122
+41,regular,UTA,1985,43,42,Houston Rockets,1,95,120
+42,regular,UTA,1985,44,43,New Jersey Nets,0,102,99
+43,regular,UTA,1985,45,44,Cleveland Cavaliers,0,109,110
+44,regular,UTA,1985,46,45,Los Angeles Lakers,0,96,83
+45,regular,UTA,1985,47,46,Denver Nuggets,0,100,104
+46,regular,UTA,1985,48,47,Dallas Mavericks,1,121,109
+47,regular,UTA,1985,49,48,San Antonio Spurs,0,105,104
+48,regular,UTA,1985,50,49,Portland Trail Blazers,1,106,126
+49,regular,UTA,1985,51,50,Kansas City Kings,1,114,96
+50,regular,UTA,1985,52,51,Golden State Warriors,1,122,110
+51,regular,UTA,1985,53,52,Atlanta Hawks,0,88,94
+52,regular,UTA,1985,54,53,Los Angeles Clippers,0,109,100
+53,regular,UTA,1985,55,54,Boston Celtics,0,94,110
+54,regular,UTA,1985,56,55,New Jersey Nets,1,110,104
+55,regular,UTA,1985,57,56,Cleveland Cavaliers,1,102,98
+56,regular,UTA,1985,58,57,Philadelphia 76ers,1,108,117
+57,regular,UTA,1985,59,58,Dallas Mavericks,1,103,96
+58,regular,UTA,1985,60,59,Milwaukee Bucks,0,100,119
+59,regular,UTA,1985,61,60,Houston Rockets,0,115,119
+60,regular,UTA,1985,63,61,Portland Trail Blazers,1,93,121
+61,regular,UTA,1985,64,62,Houston Rockets,1,94,90
+62,regular,UTA,1985,65,63,Detroit Pistons,1,122,114
+63,regular,UTA,1985,66,64,Chicago Bulls,1,111,105
+64,regular,UTA,1985,67,65,Los Angeles Lakers,1,108,123
+65,regular,UTA,1985,68,66,Los Angeles Lakers,0,105,120
+66,regular,UTA,1985,69,67,Kansas City Kings,0,115,112
+67,regular,UTA,1985,70,68,Kansas City Kings,1,101,107
+68,regular,UTA,1985,71,69,Golden State Warriors,0,136,125
+69,regular,UTA,1985,72,70,Los Angeles Clippers,1,110,121
+70,regular,UTA,1985,73,71,Seattle SuperSonics,1,110,85
+71,regular,UTA,1985,74,72,Chicago Bulls,0,110,92
+72,regular,UTA,1985,75,73,Denver Nuggets,1,89,104
+73,regular,UTA,1985,76,74,Dallas Mavericks,0,116,101
+74,regular,UTA,1985,77,75,San Antonio Spurs,0,114,109
+75,regular,UTA,1985,78,76,Houston Rockets,1,96,106
+76,regular,UTA,1985,79,77,Seattle SuperSonics,0,118,119
+77,regular,UTA,1985,80,78,Phoenix Suns,0,105,94
+78,regular,UTA,1985,81,79,Los Angeles Clippers,0,123,104
+79,regular,UTA,1985,82,80,Portland Trail Blazers,0,145,107
+80,regular,UTA,1985,84,81,Phoenix Suns,1,92,96
+81,regular,UTA,1985,85,82,San Antonio Spurs,1,104,102
+0,playoff,UTA,1986,0,1,Dallas Mavericks,1,93,101
+1,playoff,UTA,1986,1,2,Dallas Mavericks,1,106,113
+2,playoff,UTA,1986,2,3,Dallas Mavericks,0,100,98
+3,playoff,UTA,1986,3,4,Dallas Mavericks,0,113,117
+0,regular,UTA,1986,0,1,Houston Rockets,0,108,112
+1,regular,UTA,1986,1,2,San Antonio Spurs,1,112,124
+2,regular,UTA,1986,2,3,San Antonio Spurs,0,102,100
+3,regular,UTA,1986,3,4,Phoenix Suns,0,121,110
+4,regular,UTA,1986,4,5,Portland Trail Blazers,1,108,128
+5,regular,UTA,1986,5,6,Golden State Warriors,0,118,99
+6,regular,UTA,1986,6,7,Los Angeles Lakers,0,106,116
+7,regular,UTA,1986,7,8,Cleveland Cavaliers,0,121,114
+8,regular,UTA,1986,8,9,Los Angeles Lakers,1,110,119
+9,regular,UTA,1986,9,10,Dallas Mavericks,0,100,115
+10,regular,UTA,1986,10,11,Portland Trail Blazers,0,133,118
+11,regular,UTA,1986,11,12,Sacramento Kings,1,100,96
+12,regular,UTA,1986,12,13,Boston Celtics,1,106,115
+13,regular,UTA,1986,13,14,Cleveland Cavaliers,1,121,113
+14,regular,UTA,1986,14,15,Atlanta Hawks,1,116,106
+15,regular,UTA,1986,15,16,Indiana Pacers,1,102,101
+16,regular,UTA,1986,16,17,Chicago Bulls,0,114,96
+17,regular,UTA,1986,17,18,Denver Nuggets,0,114,129
+18,regular,UTA,1986,18,19,Golden State Warriors,1,89,88
+19,regular,UTA,1986,19,20,Golden State Warriors,0,103,100
+20,regular,UTA,1986,21,21,Los Angeles Lakers,0,127,131
+21,regular,UTA,1986,22,22,Phoenix Suns,1,92,111
+22,regular,UTA,1986,23,23,Los Angeles Clippers,1,131,91
+23,regular,UTA,1986,24,24,Houston Rockets,1,105,134
+24,regular,UTA,1986,25,25,Portland Trail Blazers,0,119,111
+25,regular,UTA,1986,26,26,Houston Rockets,0,114,100
+26,regular,UTA,1986,27,27,Washington Bullets,1,106,98
+27,regular,UTA,1986,28,28,New Jersey Nets,1,98,113
+28,regular,UTA,1986,29,29,Philadelphia 76ers,1,105,112
+29,regular,UTA,1986,30,30,Chicago Bulls,1,104,117
+30,regular,UTA,1986,31,31,Houston Rockets,1,99,106
+31,regular,UTA,1986,32,32,Boston Celtics,0,108,110
+32,regular,UTA,1986,33,33,Seattle SuperSonics,0,107,105
+33,regular,UTA,1986,34,34,Los Angeles Lakers,1,101,110
+34,regular,UTA,1986,35,35,Dallas Mavericks,1,106,119
+35,regular,UTA,1986,36,36,Seattle SuperSonics,1,84,91
+36,regular,UTA,1986,37,37,Washington Bullets,0,89,95
+37,regular,UTA,1986,38,38,Denver Nuggets,1,106,114
+38,regular,UTA,1986,39,39,San Antonio Spurs,1,106,102
+39,regular,UTA,1986,40,40,Houston Rockets,1,105,102
+40,regular,UTA,1986,42,41,Golden State Warriors,1,104,150
+41,regular,UTA,1986,43,42,Dallas Mavericks,0,139,112
+42,regular,UTA,1986,44,43,Los Angeles Clippers,1,97,131
+43,regular,UTA,1986,45,44,Denver Nuggets,0,117,114
+44,regular,UTA,1986,46,45,New Jersey Nets,0,105,106
+45,regular,UTA,1986,47,46,Los Angeles Clippers,0,130,90
+46,regular,UTA,1986,48,47,Milwaukee Bucks,0,103,127
+47,regular,UTA,1986,49,48,Philadelphia 76ers,0,107,86
+48,regular,UTA,1986,50,49,Sacramento Kings,0,113,101
+49,regular,UTA,1986,51,50,Dallas Mavericks,1,97,100
+50,regular,UTA,1986,52,51,San Antonio Spurs,0,104,112
+51,regular,UTA,1986,53,52,New York Knicks,0,119,101
+52,regular,UTA,1986,54,53,Seattle SuperSonics,1,92,105
+53,regular,UTA,1986,55,54,Milwaukee Bucks,1,106,113
+54,regular,UTA,1986,56,55,New York Knicks,1,104,97
+55,regular,UTA,1986,57,56,Detroit Pistons,1,96,117
+56,regular,UTA,1986,58,57,Atlanta Hawks,0,109,105
+57,regular,UTA,1986,59,58,Phoenix Suns,0,105,97
+58,regular,UTA,1986,60,59,Houston Rockets,0,100,97
+59,regular,UTA,1986,61,60,Indiana Pacers,0,109,92
+60,regular,UTA,1986,63,61,Sacramento Kings,0,110,94
+61,regular,UTA,1986,64,62,Sacramento Kings,1,92,94
+62,regular,UTA,1986,65,63,Los Angeles Lakers,1,84,130
+63,regular,UTA,1986,66,64,Phoenix Suns,1,105,103
+64,regular,UTA,1986,67,65,Portland Trail Blazers,1,90,104
+65,regular,UTA,1986,68,66,Golden State Warriors,0,111,118
+66,regular,UTA,1986,69,67,San Antonio Spurs,0,146,121
+67,regular,UTA,1986,70,68,Dallas Mavericks,1,98,108
+68,regular,UTA,1986,71,69,Detroit Pistons,0,107,106
+69,regular,UTA,1986,72,70,Seattle SuperSonics,1,107,104
+70,regular,UTA,1986,73,71,Dallas Mavericks,0,107,114
+71,regular,UTA,1986,74,72,Phoenix Suns,0,119,109
+72,regular,UTA,1986,75,73,Seattle SuperSonics,0,116,108
+73,regular,UTA,1986,76,74,Denver Nuggets,0,116,101
+74,regular,UTA,1986,77,75,Denver Nuggets,1,120,128
+75,regular,UTA,1986,78,76,San Antonio Spurs,1,110,102
+76,regular,UTA,1986,79,77,Los Angeles Clippers,0,109,113
+77,regular,UTA,1986,80,78,Los Angeles Clippers,1,94,97
+78,regular,UTA,1986,81,79,Portland Trail Blazers,0,114,103
+79,regular,UTA,1986,82,80,Sacramento Kings,0,108,113
+80,regular,UTA,1986,84,81,Sacramento Kings,1,119,108
+81,regular,UTA,1986,85,82,Denver Nuggets,1,117,99
+0,playoff,UTA,1987,0,1,Golden State Warriors,0,99,85
+1,playoff,UTA,1987,1,2,Golden State Warriors,0,103,100
+2,playoff,UTA,1987,2,3,Golden State Warriors,1,95,110
+3,playoff,UTA,1987,3,4,Golden State Warriors,1,94,98
+4,playoff,UTA,1987,4,5,Golden State Warriors,0,113,118
+0,regular,UTA,1987,0,1,Dallas Mavericks,1,77,103
+1,regular,UTA,1987,1,2,Portland Trail Blazers,0,119,110
+2,regular,UTA,1987,2,3,Cleveland Cavaliers,0,111,95
+3,regular,UTA,1987,3,4,Denver Nuggets,1,121,135
+4,regular,UTA,1987,4,5,Dallas Mavericks,0,104,103
+5,regular,UTA,1987,5,6,Los Angeles Clippers,0,130,113
+6,regular,UTA,1987,6,7,Denver Nuggets,0,111,103
+7,regular,UTA,1987,7,8,Portland Trail Blazers,1,103,124
+8,regular,UTA,1987,8,9,Houston Rockets,1,90,104
+9,regular,UTA,1987,9,10,New Jersey Nets,0,96,78
+10,regular,UTA,1987,10,11,Golden State Warriors,1,106,111
+11,regular,UTA,1987,11,12,Seattle SuperSonics,0,127,91
+12,regular,UTA,1987,12,13,Atlanta Hawks,0,88,97
+13,regular,UTA,1987,13,14,Dallas Mavericks,1,107,118
+14,regular,UTA,1987,14,15,Chicago Bulls,0,99,94
+15,regular,UTA,1987,15,16,New York Knicks,0,123,96
+16,regular,UTA,1987,16,17,Sacramento Kings,1,114,111
+17,regular,UTA,1987,17,18,Denver Nuggets,1,112,110
+18,regular,UTA,1987,18,19,Dallas Mavericks,0,103,99
+19,regular,UTA,1987,19,20,Los Angeles Clippers,0,115,100
+20,regular,UTA,1987,21,21,Washington Bullets,1,109,106
+21,regular,UTA,1987,22,22,Detroit Pistons,1,107,122
+22,regular,UTA,1987,23,23,Cleveland Cavaliers,1,134,128
+23,regular,UTA,1987,24,24,Chicago Bulls,1,91,89
+24,regular,UTA,1987,25,25,Philadelphia 76ers,1,114,111
+25,regular,UTA,1987,26,26,New Jersey Nets,1,96,119
+26,regular,UTA,1987,27,27,Houston Rockets,0,103,96
+27,regular,UTA,1987,28,28,San Antonio Spurs,0,109,101
+28,regular,UTA,1987,29,29,San Antonio Spurs,1,109,115
+29,regular,UTA,1987,30,30,Philadelphia 76ers,0,99,104
+30,regular,UTA,1987,31,31,Los Angeles Lakers,1,113,121
+31,regular,UTA,1987,32,32,Los Angeles Lakers,0,107,101
+32,regular,UTA,1987,33,33,Indiana Pacers,0,105,96
+33,regular,UTA,1987,34,34,Seattle SuperSonics,1,111,127
+34,regular,UTA,1987,35,35,Portland Trail Blazers,1,113,121
+35,regular,UTA,1987,36,36,Phoenix Suns,1,107,123
+36,regular,UTA,1987,37,37,San Antonio Spurs,1,91,102
+37,regular,UTA,1987,38,38,Detroit Pistons,0,112,108
+38,regular,UTA,1987,39,39,Golden State Warriors,0,123,100
+39,regular,UTA,1987,40,40,Seattle SuperSonics,0,95,108
+40,regular,UTA,1987,42,41,Houston Rockets,1,92,88
+41,regular,UTA,1987,43,42,Portland Trail Blazers,0,120,114
+42,regular,UTA,1987,44,43,Los Angeles Clippers,0,113,114
+43,regular,UTA,1987,45,44,Sacramento Kings,1,121,113
+44,regular,UTA,1987,46,45,Sacramento Kings,0,101,95
+45,regular,UTA,1987,47,46,Los Angeles Clippers,1,126,103
+46,regular,UTA,1987,48,47,Phoenix Suns,0,98,102
+47,regular,UTA,1987,49,48,Phoenix Suns,1,98,105
+48,regular,UTA,1987,50,49,San Antonio Spurs,0,108,95
+49,regular,UTA,1987,51,50,Boston Celtics,0,109,89
+50,regular,UTA,1987,52,51,Milwaukee Bucks,0,109,113
+51,regular,UTA,1987,53,52,Washington Bullets,0,113,118
+52,regular,UTA,1987,54,53,Houston Rockets,1,81,94
+53,regular,UTA,1987,55,54,Seattle SuperSonics,0,133,103
+54,regular,UTA,1987,56,55,Houston Rockets,0,84,85
+55,regular,UTA,1987,57,56,Los Angeles Lakers,0,107,100
+56,regular,UTA,1987,58,57,New York Knicks,1,86,99
+57,regular,UTA,1987,59,58,Boston Celtics,1,105,123
+58,regular,UTA,1987,60,59,Milwaukee Bucks,1,124,123
+59,regular,UTA,1987,61,60,Atlanta Hawks,1,97,122
+60,regular,UTA,1987,63,61,Indiana Pacers,1,102,107
+61,regular,UTA,1987,64,62,Denver Nuggets,1,116,122
+62,regular,UTA,1987,65,63,Sacramento Kings,1,113,109
+63,regular,UTA,1987,66,64,Sacramento Kings,0,123,116
+64,regular,UTA,1987,67,65,Golden State Warriors,0,118,103
+65,regular,UTA,1987,68,66,Los Angeles Lakers,1,97,111
+66,regular,UTA,1987,69,67,Houston Rockets,0,125,108
+67,regular,UTA,1987,70,68,Denver Nuggets,0,122,118
+68,regular,UTA,1987,71,69,Los Angeles Clippers,1,101,111
+69,regular,UTA,1987,72,70,San Antonio Spurs,0,144,133
+70,regular,UTA,1987,73,71,Golden State Warriors,1,110,116
+71,regular,UTA,1987,74,72,Phoenix Suns,0,110,95
+72,regular,UTA,1987,75,73,San Antonio Spurs,1,107,104
+73,regular,UTA,1987,76,74,Phoenix Suns,1,98,112
+74,regular,UTA,1987,77,75,Dallas Mavericks,1,107,121
+75,regular,UTA,1987,78,76,Sacramento Kings,0,104,110
+76,regular,UTA,1987,79,77,Dallas Mavericks,0,103,90
+77,regular,UTA,1987,80,78,Denver Nuggets,0,106,103
+78,regular,UTA,1987,81,79,Golden State Warriors,1,109,107
+79,regular,UTA,1987,82,80,Seattle SuperSonics,1,102,103
+80,regular,UTA,1987,84,81,Los Angeles Lakers,0,97,110
+81,regular,UTA,1987,85,82,Portland Trail Blazers,1,101,111
+0,playoff,UTA,1988,0,1,Portland Trail Blazers,1,96,108
+1,playoff,UTA,1988,1,2,Portland Trail Blazers,1,114,105
+2,playoff,UTA,1988,2,3,Portland Trail Blazers,0,113,108
+3,playoff,UTA,1988,3,4,Portland Trail Blazers,0,111,96
+4,playoff,UTA,1988,5,5,Los Angeles Lakers,1,91,110
+5,playoff,UTA,1988,6,6,Los Angeles Lakers,1,101,97
+6,playoff,UTA,1988,7,7,Los Angeles Lakers,0,96,89
+7,playoff,UTA,1988,8,8,Los Angeles Lakers,0,100,113
+8,playoff,UTA,1988,9,9,Los Angeles Lakers,1,109,111
+9,playoff,UTA,1988,10,10,Los Angeles Lakers,0,108,80
+10,playoff,UTA,1988,11,11,Los Angeles Lakers,1,98,109
+0,regular,UTA,1988,0,1,Dallas Mavericks,1,93,95
+1,regular,UTA,1988,1,2,Sacramento Kings,0,121,100
+2,regular,UTA,1988,2,3,Los Angeles Clippers,1,88,100
+3,regular,UTA,1988,3,4,Dallas Mavericks,0,121,92
+4,regular,UTA,1988,4,5,Phoenix Suns,0,109,92
+5,regular,UTA,1988,5,6,Houston Rockets,1,93,101
+6,regular,UTA,1988,6,7,Denver Nuggets,0,120,110
+7,regular,UTA,1988,7,8,Phoenix Suns,1,80,90
+8,regular,UTA,1988,8,9,Indiana Pacers,0,112,81
+9,regular,UTA,1988,9,10,San Antonio Spurs,1,119,120
+10,regular,UTA,1988,10,11,Washington Bullets,0,100,83
+11,regular,UTA,1988,11,12,Houston Rockets,0,118,96
+12,regular,UTA,1988,12,13,Philadelphia 76ers,0,100,106
+13,regular,UTA,1988,13,14,Chicago Bulls,0,101,105
+14,regular,UTA,1988,14,15,New York Knicks,0,104,92
+15,regular,UTA,1988,15,16,Sacramento Kings,1,126,117
+16,regular,UTA,1988,16,17,San Antonio Spurs,1,100,105
+17,regular,UTA,1988,17,18,Houston Rockets,1,93,98
+18,regular,UTA,1988,18,19,Golden State Warriors,0,127,93
+19,regular,UTA,1988,19,20,Seattle SuperSonics,0,116,95
+20,regular,UTA,1988,21,21,Boston Celtics,1,111,121
+21,regular,UTA,1988,22,22,Indiana Pacers,1,97,121
+22,regular,UTA,1988,23,23,Atlanta Hawks,1,124,130
+23,regular,UTA,1988,24,24,New Jersey Nets,1,95,106
+24,regular,UTA,1988,25,25,Cleveland Cavaliers,1,91,83
+25,regular,UTA,1988,26,26,Los Angeles Lakers,0,109,117
+26,regular,UTA,1988,27,27,Denver Nuggets,1,98,97
+27,regular,UTA,1988,28,28,Golden State Warriors,0,104,103
+28,regular,UTA,1988,29,29,Sacramento Kings,1,105,107
+29,regular,UTA,1988,30,30,Boston Celtics,0,99,107
+30,regular,UTA,1988,31,31,Philadelphia 76ers,1,93,116
+31,regular,UTA,1988,32,32,Milwaukee Bucks,1,111,107
+32,regular,UTA,1988,33,33,Chicago Bulls,1,91,113
+33,regular,UTA,1988,34,34,Portland Trail Blazers,0,116,104
+34,regular,UTA,1988,35,35,Seattle SuperSonics,1,105,124
+35,regular,UTA,1988,36,36,Detroit Pistons,0,117,120
+36,regular,UTA,1988,37,37,San Antonio Spurs,0,119,106
+37,regular,UTA,1988,38,38,Cleveland Cavaliers,0,119,96
+38,regular,UTA,1988,39,39,Los Angeles Lakers,1,100,111
+39,regular,UTA,1988,40,40,Golden State Warriors,1,100,102
+40,regular,UTA,1988,42,41,Atlanta Hawks,0,115,109
+41,regular,UTA,1988,43,42,Seattle SuperSonics,0,105,100
+42,regular,UTA,1988,44,43,Sacramento Kings,0,123,91
+43,regular,UTA,1988,45,44,Portland Trail Blazers,1,126,123
+44,regular,UTA,1988,46,45,Dallas Mavericks,1,93,124
+45,regular,UTA,1988,47,46,Dallas Mavericks,0,93,80
+46,regular,UTA,1988,48,47,Denver Nuggets,1,93,107
+47,regular,UTA,1988,49,48,Portland Trail Blazers,0,112,94
+48,regular,UTA,1988,50,49,Phoenix Suns,0,108,103
+49,regular,UTA,1988,51,50,Los Angeles Clippers,1,98,88
+50,regular,UTA,1988,52,51,Los Angeles Clippers,0,120,103
+51,regular,UTA,1988,53,52,Denver Nuggets,0,120,123
+52,regular,UTA,1988,54,53,Los Angeles Lakers,1,105,112
+53,regular,UTA,1988,55,54,Sacramento Kings,1,115,110
+54,regular,UTA,1988,56,55,Houston Rockets,0,113,112
+55,regular,UTA,1988,57,56,Seattle SuperSonics,1,125,110
+56,regular,UTA,1988,58,57,San Antonio Spurs,0,125,106
+57,regular,UTA,1988,59,58,New Jersey Nets,0,105,81
+58,regular,UTA,1988,60,59,Detroit Pistons,1,98,103
+59,regular,UTA,1988,61,60,Washington Bullets,1,109,107
+60,regular,UTA,1988,63,61,New York Knicks,1,105,108
+61,regular,UTA,1988,64,62,Denver Nuggets,1,116,115
+62,regular,UTA,1988,65,63,Dallas Mavericks,0,120,105
+63,regular,UTA,1988,66,64,Denver Nuggets,0,118,111
+64,regular,UTA,1988,67,65,San Antonio Spurs,1,110,113
+65,regular,UTA,1988,68,66,Phoenix Suns,0,103,96
+66,regular,UTA,1988,69,67,Sacramento Kings,0,117,97
+67,regular,UTA,1988,70,68,Milwaukee Bucks,0,105,107
+68,regular,UTA,1988,71,69,Los Angeles Lakers,1,111,122
+69,regular,UTA,1988,72,70,Golden State Warriors,0,115,92
+70,regular,UTA,1988,73,71,Los Angeles Lakers,0,106,92
+71,regular,UTA,1988,74,72,Phoenix Suns,1,106,111
+72,regular,UTA,1988,75,73,Houston Rockets,1,107,113
+73,regular,UTA,1988,76,74,Dallas Mavericks,1,95,118
+74,regular,UTA,1988,77,75,Golden State Warriors,1,113,102
+75,regular,UTA,1988,78,76,Los Angeles Clippers,0,100,93
+76,regular,UTA,1988,79,77,Portland Trail Blazers,0,123,128
+77,regular,UTA,1988,80,78,San Antonio Spurs,0,107,82
+78,regular,UTA,1988,81,79,Portland Trail Blazers,1,129,122
+79,regular,UTA,1988,82,80,Los Angeles Clippers,1,112,106
+80,regular,UTA,1988,84,81,Seattle SuperSonics,1,110,109
+81,regular,UTA,1988,85,82,Houston Rockets,0,125,107
+0,playoff,UTA,1989,0,1,Golden State Warriors,0,119,123
+1,playoff,UTA,1989,1,2,Golden State Warriors,0,91,99
+2,playoff,UTA,1989,2,3,Golden State Warriors,1,106,120
+0,regular,UTA,1989,0,1,Seattle SuperSonics,0,97,104
+1,regular,UTA,1989,1,2,Sacramento Kings,0,105,81
+2,regular,UTA,1989,2,3,Houston Rockets,1,99,106
+3,regular,UTA,1989,3,4,San Antonio Spurs,1,105,96
+4,regular,UTA,1989,4,5,Indiana Pacers,0,108,96
+5,regular,UTA,1989,5,6,Portland Trail Blazers,0,123,99
+6,regular,UTA,1989,6,7,Phoenix Suns,0,134,121
+7,regular,UTA,1989,7,8,Los Angeles Clippers,0,117,98
+8,regular,UTA,1989,8,9,Houston Rockets,0,111,108
+9,regular,UTA,1989,9,10,San Antonio Spurs,0,115,95
+10,regular,UTA,1989,10,11,Dallas Mavericks,1,93,113
+11,regular,UTA,1989,11,12,Seattle SuperSonics,1,102,109
+12,regular,UTA,1989,12,13,Chicago Bulls,0,107,93
+13,regular,UTA,1989,13,14,Los Angeles Lakers,1,92,113
+14,regular,UTA,1989,14,15,Sacramento Kings,1,107,73
+15,regular,UTA,1989,15,16,Golden State Warriors,1,103,114
+16,regular,UTA,1989,16,17,Washington Bullets,0,111,94
+17,regular,UTA,1989,17,18,Dallas Mavericks,0,89,97
+18,regular,UTA,1989,18,19,Los Angeles Clippers,1,110,102
+19,regular,UTA,1989,19,20,Miami Heat,0,110,94
+20,regular,UTA,1989,21,21,Boston Celtics,1,104,112
+21,regular,UTA,1989,22,22,New York Knicks,1,116,117
+22,regular,UTA,1989,23,23,Philadelphia 76ers,1,107,119
+23,regular,UTA,1989,24,24,Cleveland Cavaliers,1,94,110
+24,regular,UTA,1989,25,25,Washington Bullets,1,98,82
+25,regular,UTA,1989,26,26,Miami Heat,1,80,101
+26,regular,UTA,1989,27,27,Los Angeles Lakers,0,101,87
+27,regular,UTA,1989,28,28,Sacramento Kings,0,96,80
+28,regular,UTA,1989,29,29,Philadelphia 76ers,0,102,95
+29,regular,UTA,1989,30,30,Houston Rockets,1,102,104
+30,regular,UTA,1989,31,31,Chicago Bulls,1,106,92
+31,regular,UTA,1989,32,32,Milwaukee Bucks,1,89,107
+32,regular,UTA,1989,33,33,Charlotte Hornets,1,114,92
+33,regular,UTA,1989,34,34,Miami Heat,1,92,88
+34,regular,UTA,1989,35,35,San Antonio Spurs,0,115,91
+35,regular,UTA,1989,36,36,Golden State Warriors,1,105,131
+36,regular,UTA,1989,37,37,Portland Trail Blazers,1,111,110
+37,regular,UTA,1989,38,38,Milwaukee Bucks,0,98,96
+38,regular,UTA,1989,39,39,San Antonio Spurs,1,107,103
+39,regular,UTA,1989,40,40,Charlotte Hornets,0,88,89
+40,regular,UTA,1989,42,41,New York Knicks,0,127,104
+41,regular,UTA,1989,43,42,Dallas Mavericks,1,99,84
+42,regular,UTA,1989,44,43,Atlanta Hawks,0,93,94
+43,regular,UTA,1989,45,44,New Jersey Nets,0,129,101
+44,regular,UTA,1989,46,45,Denver Nuggets,1,126,127
+45,regular,UTA,1989,47,46,Phoenix Suns,1,87,104
+46,regular,UTA,1989,48,47,Miami Heat,0,96,77
+47,regular,UTA,1989,49,48,Dallas Mavericks,0,87,94
+48,regular,UTA,1989,50,49,Denver Nuggets,0,119,105
+49,regular,UTA,1989,51,50,Boston Celtics,0,129,114
+50,regular,UTA,1989,52,51,San Antonio Spurs,0,107,93
+51,regular,UTA,1989,53,52,Phoenix Suns,0,118,92
+52,regular,UTA,1989,54,53,Los Angeles Lakers,0,105,79
+53,regular,UTA,1989,55,54,Denver Nuggets,1,102,121
+54,regular,UTA,1989,56,55,Indiana Pacers,1,89,128
+55,regular,UTA,1989,57,56,New Jersey Nets,1,109,96
+56,regular,UTA,1989,58,57,Detroit Pistons,1,85,96
+57,regular,UTA,1989,59,58,Miami Heat,1,107,95
+58,regular,UTA,1989,60,59,Atlanta Hawks,1,85,83
+59,regular,UTA,1989,61,60,Houston Rockets,0,117,80
+60,regular,UTA,1989,63,61,Golden State Warriors,0,126,112
+61,regular,UTA,1989,64,62,Cleveland Cavaliers,0,98,83
+62,regular,UTA,1989,65,63,Portland Trail Blazers,0,102,95
+63,regular,UTA,1989,66,64,Miami Heat,0,118,96
+64,regular,UTA,1989,67,65,San Antonio Spurs,1,98,114
+65,regular,UTA,1989,68,66,Seattle SuperSonics,1,96,101
+66,regular,UTA,1989,69,67,Houston Rockets,1,102,99
+67,regular,UTA,1989,70,68,Denver Nuggets,0,112,90
+68,regular,UTA,1989,71,69,Seattle SuperSonics,0,124,105
+69,regular,UTA,1989,72,70,Detroit Pistons,0,104,108
+70,regular,UTA,1989,73,71,Sacramento Kings,1,97,117
+71,regular,UTA,1989,74,72,Dallas Mavericks,0,95,80
+72,regular,UTA,1989,75,73,Phoenix Suns,1,104,114
+73,regular,UTA,1989,76,74,Los Angeles Lakers,1,99,97
+74,regular,UTA,1989,77,75,Denver Nuggets,1,106,110
+75,regular,UTA,1989,78,76,Denver Nuggets,0,107,102
+76,regular,UTA,1989,79,77,Houston Rockets,0,122,96
+77,regular,UTA,1989,80,78,Portland Trail Blazers,1,99,95
+78,regular,UTA,1989,81,79,Los Angeles Clippers,1,108,102
+79,regular,UTA,1989,82,80,Los Angeles Clippers,0,92,95
+80,regular,UTA,1989,84,81,Dallas Mavericks,1,89,91
+81,regular,UTA,1989,85,82,Golden State Warriors,0,111,95
+0,playoff,UTA,1990,0,1,Phoenix Suns,0,113,96
+1,playoff,UTA,1990,1,2,Phoenix Suns,0,87,105
+2,playoff,UTA,1990,2,3,Phoenix Suns,1,105,120
+3,playoff,UTA,1990,3,4,Phoenix Suns,1,105,94
+4,playoff,UTA,1990,4,5,Phoenix Suns,0,102,104
+0,regular,UTA,1990,0,1,Denver Nuggets,0,122,113
+1,regular,UTA,1990,1,2,Charlotte Hornets,0,102,86
+2,regular,UTA,1990,2,3,San Antonio Spurs,0,106,92
+3,regular,UTA,1990,3,4,Houston Rockets,1,92,100
+4,regular,UTA,1990,4,5,Washington Bullets,0,106,93
+5,regular,UTA,1990,5,6,Chicago Bulls,0,108,107
+6,regular,UTA,1990,6,7,Indiana Pacers,0,114,100
+7,regular,UTA,1990,7,8,Minnesota Timberwolves,1,103,101
+8,regular,UTA,1990,8,9,Orlando Magic,0,97,119
+9,regular,UTA,1990,9,10,Los Angeles Lakers,0,86,92
+10,regular,UTA,1990,10,11,New Jersey Nets,0,105,68
+11,regular,UTA,1990,11,12,Indiana Pacers,1,88,100
+12,regular,UTA,1990,12,13,Atlanta Hawks,1,103,114
+13,regular,UTA,1990,13,14,Washington Bullets,1,100,98
+14,regular,UTA,1990,14,15,Cleveland Cavaliers,1,94,80
+15,regular,UTA,1990,15,16,Dallas Mavericks,0,107,97
+16,regular,UTA,1990,16,17,Houston Rockets,0,104,90
+17,regular,UTA,1990,17,18,Cleveland Cavaliers,0,110,113
+18,regular,UTA,1990,18,19,Phoenix Suns,0,102,95
+19,regular,UTA,1990,19,20,Detroit Pistons,0,94,91
+20,regular,UTA,1990,21,21,Minnesota Timberwolves,1,122,112
+21,regular,UTA,1990,22,22,New York Knicks,1,107,115
+22,regular,UTA,1990,23,23,Boston Celtics,1,109,113
+23,regular,UTA,1990,24,24,Charlotte Hornets,1,114,100
+24,regular,UTA,1990,25,25,San Antonio Spurs,1,98,115
+25,regular,UTA,1990,26,26,Golden State Warriors,0,133,118
+26,regular,UTA,1990,27,27,Portland Trail Blazers,0,113,109
+27,regular,UTA,1990,28,28,Miami Heat,0,117,98
+28,regular,UTA,1990,29,29,Golden State Warriors,1,120,133
+29,regular,UTA,1990,30,30,Seattle SuperSonics,1,119,108
+30,regular,UTA,1990,31,31,Portland Trail Blazers,1,89,118
+31,regular,UTA,1990,32,32,Denver Nuggets,1,123,120
+32,regular,UTA,1990,33,33,Denver Nuggets,0,130,99
+33,regular,UTA,1990,34,34,Dallas Mavericks,1,109,99
+34,regular,UTA,1990,35,35,Atlanta Hawks,0,95,88
+35,regular,UTA,1990,36,36,Charlotte Hornets,0,116,93
+36,regular,UTA,1990,37,37,Sacramento Kings,1,94,81
+37,regular,UTA,1990,38,38,Houston Rockets,0,102,94
+38,regular,UTA,1990,39,39,New York Knicks,0,115,89
+39,regular,UTA,1990,40,40,Milwaukee Bucks,0,144,96
+40,regular,UTA,1990,42,41,Portland Trail Blazers,1,98,122
+41,regular,UTA,1990,43,42,Los Angeles Clippers,0,120,101
+42,regular,UTA,1990,44,43,Dallas Mavericks,0,105,92
+43,regular,UTA,1990,45,44,Detroit Pistons,1,83,115
+44,regular,UTA,1990,46,45,Philadelphia 76ers,1,89,114
+45,regular,UTA,1990,47,46,New Jersey Nets,1,108,101
+46,regular,UTA,1990,48,47,Charlotte Hornets,1,94,74
+47,regular,UTA,1990,49,48,Minnesota Timberwolves,0,110,104
+48,regular,UTA,1990,50,49,Phoenix Suns,1,103,114
+49,regular,UTA,1990,51,50,San Antonio Spurs,1,86,100
+50,regular,UTA,1990,52,51,Sacramento Kings,0,110,106
+51,regular,UTA,1990,53,52,Philadelphia 76ers,0,115,102
+52,regular,UTA,1990,54,53,Boston Celtics,0,116,103
+53,regular,UTA,1990,55,54,Los Angeles Clippers,1,116,102
+54,regular,UTA,1990,56,55,Los Angeles Lakers,1,104,103
+55,regular,UTA,1990,57,56,Portland Trail Blazers,0,119,102
+56,regular,UTA,1990,58,57,San Antonio Spurs,0,112,98
+57,regular,UTA,1990,59,58,Miami Heat,1,104,105
+58,regular,UTA,1990,60,59,Orlando Magic,1,111,101
+59,regular,UTA,1990,61,60,Chicago Bulls,1,98,94
+60,regular,UTA,1990,63,61,Milwaukee Bucks,1,108,100
+61,regular,UTA,1990,64,62,Denver Nuggets,1,110,109
+62,regular,UTA,1990,65,63,Phoenix Suns,0,106,114
+63,regular,UTA,1990,66,64,Seattle SuperSonics,0,117,95
+64,regular,UTA,1990,67,65,Sacramento Kings,1,109,122
+65,regular,UTA,1990,68,66,Sacramento Kings,0,105,97
+66,regular,UTA,1990,69,67,Los Angeles Clippers,0,118,102
+67,regular,UTA,1990,70,68,Golden State Warriors,0,106,91
+68,regular,UTA,1990,71,69,Los Angeles Clippers,1,112,79
+69,regular,UTA,1990,72,70,Golden State Warriors,1,123,128
+70,regular,UTA,1990,73,71,Los Angeles Lakers,1,103,119
+71,regular,UTA,1990,74,72,Charlotte Hornets,0,127,104
+72,regular,UTA,1990,75,73,Seattle SuperSonics,1,91,101
+73,regular,UTA,1990,76,74,Phoenix Suns,1,115,119
+74,regular,UTA,1990,77,75,Seattle SuperSonics,0,114,102
+75,regular,UTA,1990,78,76,Los Angeles Lakers,0,107,104
+76,regular,UTA,1990,79,77,Houston Rockets,0,99,103
+77,regular,UTA,1990,80,78,Minnesota Timberwolves,1,103,90
+78,regular,UTA,1990,81,79,Dallas Mavericks,1,96,97
+79,regular,UTA,1990,82,80,San Antonio Spurs,1,93,102
+80,regular,UTA,1990,84,81,Minnesota Timberwolves,0,97,89
+81,regular,UTA,1990,85,82,Houston Rockets,1,88,100
+0,playoff,UTA,1991,0,1,Phoenix Suns,1,129,90
+1,playoff,UTA,1991,1,2,Phoenix Suns,1,92,102
+2,playoff,UTA,1991,2,3,Phoenix Suns,0,107,98
+3,playoff,UTA,1991,3,4,Phoenix Suns,0,101,93
+4,playoff,UTA,1991,5,5,Portland Trail Blazers,1,97,117
+5,playoff,UTA,1991,6,6,Portland Trail Blazers,1,116,118
+6,playoff,UTA,1991,7,7,Portland Trail Blazers,0,107,101
+7,playoff,UTA,1991,8,8,Portland Trail Blazers,0,101,104
+8,playoff,UTA,1991,9,9,Portland Trail Blazers,1,96,103
+0,regular,UTA,1991,0,1,Phoenix Suns,0,96,119
+1,regular,UTA,1991,1,2,Phoenix Suns,1,102,101
+2,regular,UTA,1991,2,3,San Antonio Spurs,0,103,94
+3,regular,UTA,1991,3,4,Houston Rockets,1,90,110
+4,regular,UTA,1991,4,5,Chicago Bulls,0,82,84
+5,regular,UTA,1991,5,6,Orlando Magic,1,99,102
+6,regular,UTA,1991,6,7,Boston Celtics,1,89,114
+7,regular,UTA,1991,7,8,Minnesota Timberwolves,1,103,94
+8,regular,UTA,1991,8,9,Milwaukee Bucks,1,104,114
+9,regular,UTA,1991,9,10,Orlando Magic,0,106,91
+10,regular,UTA,1991,10,11,Seattle SuperSonics,0,97,96
+11,regular,UTA,1991,11,12,Dallas Mavericks,1,85,74
+12,regular,UTA,1991,12,13,Houston Rockets,0,103,92
+13,regular,UTA,1991,13,14,Minnesota Timberwolves,0,96,79
+14,regular,UTA,1991,14,15,Portland Trail Blazers,1,97,101
+15,regular,UTA,1991,15,16,Washington Bullets,0,135,101
+16,regular,UTA,1991,16,17,Detroit Pistons,0,106,85
+17,regular,UTA,1991,17,18,Los Angeles Lakers,0,101,79
+18,regular,UTA,1991,18,19,Los Angeles Clippers,1,105,95
+19,regular,UTA,1991,19,20,Golden State Warriors,0,135,117
+20,regular,UTA,1991,21,21,Denver Nuggets,0,141,126
+21,regular,UTA,1991,22,22,Indiana Pacers,0,116,124
+22,regular,UTA,1991,23,23,New Jersey Nets,1,100,98
+23,regular,UTA,1991,24,24,Charlotte Hornets,1,105,100
+24,regular,UTA,1991,25,25,Atlanta Hawks,1,87,105
+25,regular,UTA,1991,26,26,Orlando Magic,1,104,96
+26,regular,UTA,1991,27,27,Miami Heat,1,93,99
+27,regular,UTA,1991,28,28,Dallas Mavericks,0,110,102
+28,regular,UTA,1991,29,29,Los Angeles Clippers,0,131,102
+29,regular,UTA,1991,30,30,Miami Heat,0,112,104
+30,regular,UTA,1991,31,31,Philadelphia 76ers,0,102,99
+31,regular,UTA,1991,32,32,Sacramento Kings,1,106,98
+32,regular,UTA,1991,33,33,Cleveland Cavaliers,0,110,88
+33,regular,UTA,1991,34,34,Los Angeles Lakers,1,85,108
+34,regular,UTA,1991,35,35,Dallas Mavericks,1,110,99
+35,regular,UTA,1991,36,36,San Antonio Spurs,1,92,112
+36,regular,UTA,1991,37,37,San Antonio Spurs,0,124,102
+37,regular,UTA,1991,38,38,Cleveland Cavaliers,1,106,99
+38,regular,UTA,1991,39,39,Indiana Pacers,1,104,117
+39,regular,UTA,1991,40,40,New York Knicks,0,94,109
+40,regular,UTA,1991,42,41,Sacramento Kings,0,105,93
+41,regular,UTA,1991,43,42,Denver Nuggets,1,115,120
+42,regular,UTA,1991,44,43,Atlanta Hawks,0,116,105
+43,regular,UTA,1991,45,44,Portland Trail Blazers,0,105,91
+44,regular,UTA,1991,46,45,New Jersey Nets,0,111,103
+45,regular,UTA,1991,47,46,Minnesota Timberwolves,1,93,94
+46,regular,UTA,1991,48,47,Phoenix Suns,0,103,99
+47,regular,UTA,1991,49,48,Houston Rockets,0,113,92
+48,regular,UTA,1991,50,49,Portland Trail Blazers,1,105,117
+49,regular,UTA,1991,51,50,Minnesota Timberwolves,0,115,107
+50,regular,UTA,1991,52,51,San Antonio Spurs,0,104,81
+51,regular,UTA,1991,53,52,Golden State Warriors,1,109,104
+52,regular,UTA,1991,54,53,Seattle SuperSonics,1,91,103
+53,regular,UTA,1991,55,54,Golden State Warriors,0,118,103
+54,regular,UTA,1991,56,55,Detroit Pistons,1,94,92
+55,regular,UTA,1991,57,56,Philadelphia 76ers,1,95,92
+56,regular,UTA,1991,58,57,Orlando Magic,1,106,88
+57,regular,UTA,1991,59,58,Washington Bullets,1,104,93
+58,regular,UTA,1991,60,59,Chicago Bulls,1,89,99
+59,regular,UTA,1991,61,60,New York Knicks,1,92,101
+60,regular,UTA,1991,63,61,San Antonio Spurs,1,96,105
+61,regular,UTA,1991,64,62,Boston Celtics,0,112,109
+62,regular,UTA,1991,65,63,Portland Trail Blazers,0,96,106
+63,regular,UTA,1991,66,64,Seattle SuperSonics,1,104,98
+64,regular,UTA,1991,67,65,Denver Nuggets,1,106,98
+65,regular,UTA,1991,68,66,Charlotte Hornets,0,100,94
+66,regular,UTA,1991,69,67,Minnesota Timberwolves,0,95,89
+67,regular,UTA,1991,70,68,Milwaukee Bucks,0,109,98
+68,regular,UTA,1991,71,69,Los Angeles Clippers,1,89,95
+69,regular,UTA,1991,72,70,Sacramento Kings,1,96,116
+70,regular,UTA,1991,73,71,Phoenix Suns,1,117,131
+71,regular,UTA,1991,74,72,Los Angeles Clippers,0,99,97
+72,regular,UTA,1991,75,73,Dallas Mavericks,1,93,87
+73,regular,UTA,1991,76,74,Houston Rockets,1,88,97
+74,regular,UTA,1991,77,75,Orlando Magic,0,111,95
+75,regular,UTA,1991,78,76,Dallas Mavericks,0,97,91
+76,regular,UTA,1991,79,77,Los Angeles Lakers,1,95,110
+77,regular,UTA,1991,80,78,Denver Nuggets,0,121,110
+78,regular,UTA,1991,81,79,Sacramento Kings,0,111,101
+79,regular,UTA,1991,82,80,Seattle SuperSonics,0,130,103
+80,regular,UTA,1991,84,81,Los Angeles Lakers,0,107,93
+81,regular,UTA,1991,85,82,Golden State Warriors,1,106,125
+0,playoff,UTA,1992,0,1,Los Angeles Clippers,0,115,97
+1,playoff,UTA,1992,1,2,Los Angeles Clippers,0,103,92
+2,playoff,UTA,1992,2,3,Los Angeles Clippers,1,88,98
+3,playoff,UTA,1992,3,4,Los Angeles Clippers,1,107,115
+4,playoff,UTA,1992,4,5,Los Angeles Clippers,0,98,89
+5,playoff,UTA,1992,6,6,Seattle SuperSonics,0,108,100
+6,playoff,UTA,1992,7,7,Seattle SuperSonics,0,103,97
+7,playoff,UTA,1992,8,8,Seattle SuperSonics,1,98,104
+8,playoff,UTA,1992,9,9,Seattle SuperSonics,1,89,83
+9,playoff,UTA,1992,10,10,Seattle SuperSonics,0,111,100
+10,playoff,UTA,1992,12,11,Portland Trail Blazers,1,88,113
+11,playoff,UTA,1992,13,12,Portland Trail Blazers,1,102,119
+12,playoff,UTA,1992,14,13,Portland Trail Blazers,0,97,89
+13,playoff,UTA,1992,15,14,Portland Trail Blazers,0,121,112
+14,playoff,UTA,1992,16,15,Portland Trail Blazers,1,121,127
+15,playoff,UTA,1992,17,16,Portland Trail Blazers,0,97,105
+0,regular,UTA,1992,0,1,Minnesota Timberwolves,1,112,97
+1,regular,UTA,1992,1,2,Indiana Pacers,1,112,127
+2,regular,UTA,1992,2,3,Atlanta Hawks,1,94,98
+3,regular,UTA,1992,3,4,Seattle SuperSonics,0,95,103
+4,regular,UTA,1992,4,5,Los Angeles Clippers,0,101,84
+5,regular,UTA,1992,5,6,Sacramento Kings,0,106,90
+6,regular,UTA,1992,6,7,New Jersey Nets,1,98,92
+7,regular,UTA,1992,7,8,Detroit Pistons,1,115,123
+8,regular,UTA,1992,8,9,Washington Bullets,1,107,98
+9,regular,UTA,1992,9,10,Miami Heat,1,91,111
+10,regular,UTA,1992,10,11,Orlando Magic,1,107,102
+11,regular,UTA,1992,11,12,Denver Nuggets,0,121,96
+12,regular,UTA,1992,12,13,Dallas Mavericks,1,109,121
+13,regular,UTA,1992,13,14,Charlotte Hornets,0,113,107
+14,regular,UTA,1992,14,15,Golden State Warriors,0,135,108
+15,regular,UTA,1992,15,16,Phoenix Suns,1,125,134
+16,regular,UTA,1992,16,17,Golden State Warriors,1,103,108
+17,regular,UTA,1992,17,18,Washington Bullets,0,101,74
+18,regular,UTA,1992,18,19,San Antonio Spurs,1,93,92
+19,regular,UTA,1992,19,20,Houston Rockets,1,96,91
+20,regular,UTA,1992,21,21,Orlando Magic,0,122,103
+21,regular,UTA,1992,22,22,Los Angeles Lakers,1,101,95
+22,regular,UTA,1992,23,23,Los Angeles Clippers,1,101,102
+23,regular,UTA,1992,24,24,Detroit Pistons,0,102,100
+24,regular,UTA,1992,25,25,Charlotte Hornets,1,122,102
+25,regular,UTA,1992,26,26,Philadelphia 76ers,1,107,105
+26,regular,UTA,1992,27,27,Boston Celtics,1,101,112
+27,regular,UTA,1992,28,28,New York Knicks,1,97,106
+28,regular,UTA,1992,29,29,Cleveland Cavaliers,1,112,113
+29,regular,UTA,1992,30,30,Los Angeles Clippers,0,123,115
+30,regular,UTA,1992,31,31,Miami Heat,0,128,103
+31,regular,UTA,1992,32,32,Portland Trail Blazers,0,107,103
+32,regular,UTA,1992,33,33,Dallas Mavericks,0,113,78
+33,regular,UTA,1992,34,34,Indiana Pacers,0,124,108
+34,regular,UTA,1992,35,35,Milwaukee Bucks,1,98,99
+35,regular,UTA,1992,36,36,Chicago Bulls,1,90,105
+36,regular,UTA,1992,37,37,Minnesota Timberwolves,1,96,101
+37,regular,UTA,1992,38,38,Minnesota Timberwolves,0,116,110
+38,regular,UTA,1992,39,39,Atlanta Hawks,0,116,111
+39,regular,UTA,1992,40,40,Houston Rockets,0,108,80
+40,regular,UTA,1992,42,41,San Antonio Spurs,0,100,98
+41,regular,UTA,1992,43,42,Denver Nuggets,1,111,115
+42,regular,UTA,1992,44,43,Seattle SuperSonics,1,104,103
+43,regular,UTA,1992,45,44,New York Knicks,0,80,97
+44,regular,UTA,1992,46,45,Sacramento Kings,0,124,105
+45,regular,UTA,1992,47,46,Phoenix Suns,0,117,116
+46,regular,UTA,1992,48,47,Dallas Mavericks,1,104,90
+47,regular,UTA,1992,49,48,Chicago Bulls,0,126,123
+48,regular,UTA,1992,50,49,Sacramento Kings,1,98,100
+49,regular,UTA,1992,51,50,Cleveland Cavaliers,0,111,109
+50,regular,UTA,1992,52,51,Los Angeles Lakers,0,97,91
+51,regular,UTA,1992,53,52,Denver Nuggets,0,106,93
+52,regular,UTA,1992,54,53,Boston Celtics,0,88,83
+53,regular,UTA,1992,55,54,Dallas Mavericks,0,118,96
+54,regular,UTA,1992,56,55,Houston Rockets,0,124,97
+55,regular,UTA,1992,57,56,Portland Trail Blazers,1,107,110
+56,regular,UTA,1992,58,57,Los Angeles Clippers,1,106,101
+57,regular,UTA,1992,59,58,Seattle SuperSonics,0,124,130
+58,regular,UTA,1992,60,59,Phoenix Suns,1,109,114
+59,regular,UTA,1992,61,60,Golden State Warriors,1,123,101
+60,regular,UTA,1992,63,61,San Antonio Spurs,0,102,93
+61,regular,UTA,1992,64,62,New Jersey Nets,0,117,96
+62,regular,UTA,1992,65,63,Denver Nuggets,1,112,88
+63,regular,UTA,1992,66,64,Sacramento Kings,1,114,103
+64,regular,UTA,1992,67,65,San Antonio Spurs,1,106,113
+65,regular,UTA,1992,68,66,Houston Rockets,1,97,106
+66,regular,UTA,1992,69,67,Denver Nuggets,0,115,100
+67,regular,UTA,1992,70,68,Portland Trail Blazers,0,95,77
+68,regular,UTA,1992,71,69,Philadelphia 76ers,0,100,94
+69,regular,UTA,1992,72,70,Los Angeles Lakers,0,92,103
+70,regular,UTA,1992,73,71,Milwaukee Bucks,0,120,100
+71,regular,UTA,1992,74,72,Seattle SuperSonics,1,103,122
+72,regular,UTA,1992,75,73,Portland Trail Blazers,1,86,118
+73,regular,UTA,1992,76,74,Phoenix Suns,0,113,94
+74,regular,UTA,1992,77,75,Minnesota Timberwolves,1,91,93
+75,regular,UTA,1992,78,76,Denver Nuggets,1,124,101
+76,regular,UTA,1992,79,77,Dallas Mavericks,0,113,90
+77,regular,UTA,1992,80,78,Los Angeles Lakers,1,93,90
+78,regular,UTA,1992,81,79,Golden State Warriors,0,138,99
+79,regular,UTA,1992,82,80,Houston Rockets,0,130,98
+80,regular,UTA,1992,84,81,Minnesota Timberwolves,0,120,106
+81,regular,UTA,1992,85,82,San Antonio Spurs,1,101,90
+0,playoff,UTA,1993,0,1,Seattle SuperSonics,1,85,99
+1,playoff,UTA,1993,1,2,Seattle SuperSonics,1,89,85
+2,playoff,UTA,1993,2,3,Seattle SuperSonics,0,90,80
+3,playoff,UTA,1993,3,4,Seattle SuperSonics,0,80,93
+4,playoff,UTA,1993,4,5,Seattle SuperSonics,1,92,100
+0,regular,UTA,1993,0,1,Golden State Warriors,0,114,129
+1,regular,UTA,1993,1,2,Dallas Mavericks,1,122,106
+2,regular,UTA,1993,2,3,Denver Nuggets,1,118,109
+3,regular,UTA,1993,3,4,Phoenix Suns,0,91,102
+4,regular,UTA,1993,4,5,Los Angeles Clippers,0,124,104
+5,regular,UTA,1993,5,6,New Jersey Nets,1,108,97
+6,regular,UTA,1993,6,7,Boston Celtics,1,92,91
+7,regular,UTA,1993,7,8,Indiana Pacers,1,97,95
+8,regular,UTA,1993,8,9,Washington Bullets,1,109,126
+9,regular,UTA,1993,9,10,San Antonio Spurs,0,102,128
+10,regular,UTA,1993,10,11,New Jersey Nets,0,110,112
+11,regular,UTA,1993,11,12,Houston Rockets,1,108,99
+12,regular,UTA,1993,12,13,Dallas Mavericks,0,116,101
+13,regular,UTA,1993,13,14,Minnesota Timberwolves,0,110,91
+14,regular,UTA,1993,14,15,Denver Nuggets,0,119,89
+15,regular,UTA,1993,15,16,San Antonio Spurs,1,103,121
+16,regular,UTA,1993,16,17,Washington Bullets,0,112,96
+17,regular,UTA,1993,17,18,Milwaukee Bucks,0,108,82
+18,regular,UTA,1993,18,19,Charlotte Hornets,1,93,91
+19,regular,UTA,1993,19,20,Philadelphia 76ers,1,112,98
+20,regular,UTA,1993,21,21,Cleveland Cavaliers,1,104,121
+21,regular,UTA,1993,22,22,Orlando Magic,1,98,101
+22,regular,UTA,1993,23,23,Miami Heat,1,92,86
+23,regular,UTA,1993,24,24,Boston Celtics,0,108,92
+24,regular,UTA,1993,25,25,Minnesota Timberwolves,0,114,95
+25,regular,UTA,1993,26,26,Philadelphia 76ers,0,119,110
+26,regular,UTA,1993,27,27,Portland Trail Blazers,1,110,102
+27,regular,UTA,1993,28,28,San Antonio Spurs,0,113,87
+28,regular,UTA,1993,29,29,San Antonio Spurs,1,99,109
+29,regular,UTA,1993,30,30,Dallas Mavericks,1,126,102
+30,regular,UTA,1993,31,31,Houston Rockets,1,90,97
+31,regular,UTA,1993,32,32,Miami Heat,0,125,122
+32,regular,UTA,1993,33,33,Seattle SuperSonics,0,96,89
+33,regular,UTA,1993,34,34,Sacramento Kings,0,108,107
+34,regular,UTA,1993,35,35,Seattle SuperSonics,1,96,106
+35,regular,UTA,1993,36,36,Golden State Warriors,1,113,120
+36,regular,UTA,1993,37,37,Los Angeles Lakers,0,98,94
+37,regular,UTA,1993,38,38,Portland Trail Blazers,0,113,124
+38,regular,UTA,1993,39,39,Cleveland Cavaliers,0,113,96
+39,regular,UTA,1993,40,40,Los Angeles Clippers,1,97,107
+40,regular,UTA,1993,42,41,Los Angeles Clippers,0,113,105
+41,regular,UTA,1993,43,42,Chicago Bulls,0,92,96
+42,regular,UTA,1993,44,43,Denver Nuggets,0,100,96
+43,regular,UTA,1993,45,44,Los Angeles Lakers,1,110,114
+44,regular,UTA,1993,46,45,Orlando Magic,0,108,96
+45,regular,UTA,1993,47,46,Sacramento Kings,1,119,114
+46,regular,UTA,1993,48,47,Seattle SuperSonics,1,101,96
+47,regular,UTA,1993,49,48,Atlanta Hawks,0,112,121
+48,regular,UTA,1993,50,49,Minnesota Timberwolves,1,112,91
+49,regular,UTA,1993,51,50,Chicago Bulls,1,96,114
+50,regular,UTA,1993,52,51,Milwaukee Bucks,1,105,94
+51,regular,UTA,1993,53,52,Houston Rockets,0,78,105
+52,regular,UTA,1993,54,53,Golden State Warriors,1,108,120
+53,regular,UTA,1993,55,54,Phoenix Suns,1,106,113
+54,regular,UTA,1993,56,55,Sacramento Kings,0,117,121
+55,regular,UTA,1993,57,56,Charlotte Hornets,0,107,110
+56,regular,UTA,1993,58,57,Detroit Pistons,1,106,98
+57,regular,UTA,1993,59,58,New York Knicks,1,111,125
+58,regular,UTA,1993,60,59,Atlanta Hawks,1,118,139
+59,regular,UTA,1993,61,60,Minnesota Timberwolves,0,116,107
+60,regular,UTA,1993,63,61,Houston Rockets,1,95,104
+61,regular,UTA,1993,64,62,Dallas Mavericks,1,109,96
+62,regular,UTA,1993,65,63,Detroit Pistons,0,104,80
+63,regular,UTA,1993,66,64,Seattle SuperSonics,0,97,108
+64,regular,UTA,1993,67,65,Los Angeles Clippers,1,100,107
+65,regular,UTA,1993,68,66,Denver Nuggets,1,93,107
+66,regular,UTA,1993,69,67,Indiana Pacers,0,119,101
+67,regular,UTA,1993,70,68,New York Knicks,0,104,87
+68,regular,UTA,1993,71,69,San Antonio Spurs,1,104,98
+69,regular,UTA,1993,72,70,Denver Nuggets,0,101,114
+70,regular,UTA,1993,73,71,San Antonio Spurs,0,93,85
+71,regular,UTA,1993,74,72,Los Angeles Lakers,1,111,99
+72,regular,UTA,1993,75,73,Portland Trail Blazers,1,95,110
+73,regular,UTA,1993,76,74,Houston Rockets,0,90,95
+74,regular,UTA,1993,77,75,Phoenix Suns,1,99,112
+75,regular,UTA,1993,78,76,Dallas Mavericks,0,107,94
+76,regular,UTA,1993,79,77,Portland Trail Blazers,0,122,117
+77,regular,UTA,1993,80,78,Phoenix Suns,0,110,101
+78,regular,UTA,1993,81,79,Sacramento Kings,1,92,101
+79,regular,UTA,1993,82,80,Los Angeles Lakers,0,113,102
+80,regular,UTA,1993,84,81,Golden State Warriors,0,105,91
+81,regular,UTA,1993,85,82,Minnesota Timberwolves,1,111,113
+0,playoff,UTA,1994,0,1,San Antonio Spurs,1,89,106
+1,playoff,UTA,1994,1,2,San Antonio Spurs,1,96,84
+2,playoff,UTA,1994,2,3,San Antonio Spurs,0,105,72
+3,playoff,UTA,1994,3,4,San Antonio Spurs,0,95,90
+4,playoff,UTA,1994,5,5,Denver Nuggets,0,100,91
+5,playoff,UTA,1994,6,6,Denver Nuggets,0,104,94
+6,playoff,UTA,1994,7,7,Denver Nuggets,1,111,109
+7,playoff,UTA,1994,8,8,Denver Nuggets,1,82,83
+8,playoff,UTA,1994,9,9,Denver Nuggets,0,101,109
+9,playoff,UTA,1994,10,10,Denver Nuggets,1,91,94
+10,playoff,UTA,1994,11,11,Denver Nuggets,0,91,81
+11,playoff,UTA,1994,13,12,Houston Rockets,1,88,100
+12,playoff,UTA,1994,14,13,Houston Rockets,1,99,104
+13,playoff,UTA,1994,15,14,Houston Rockets,0,95,86
+14,playoff,UTA,1994,16,15,Houston Rockets,0,78,80
+15,playoff,UTA,1994,17,16,Houston Rockets,1,83,94
+0,regular,UTA,1994,0,1,Dallas Mavericks,0,102,86
+1,regular,UTA,1994,1,2,Minnesota Timberwolves,1,105,95
+2,regular,UTA,1994,2,3,Seattle SuperSonics,0,100,101
+3,regular,UTA,1994,3,4,Atlanta Hawks,0,91,88
+4,regular,UTA,1994,4,5,Detroit Pistons,0,109,89
+5,regular,UTA,1994,5,6,Dallas Mavericks,1,101,100
+6,regular,UTA,1994,6,7,Orlando Magic,1,96,114
+7,regular,UTA,1994,7,8,Miami Heat,1,115,111
+8,regular,UTA,1994,8,9,Philadelphia 76ers,1,115,124
+9,regular,UTA,1994,9,10,New York Knicks,1,86,72
+10,regular,UTA,1994,10,11,Houston Rockets,0,93,95
+11,regular,UTA,1994,11,12,New Jersey Nets,0,100,97
+12,regular,UTA,1994,12,13,Phoenix Suns,1,98,120
+13,regular,UTA,1994,13,14,Denver Nuggets,0,103,92
+14,regular,UTA,1994,14,15,Indiana Pacers,0,103,87
+15,regular,UTA,1994,15,16,Charlotte Hornets,0,122,108
+16,regular,UTA,1994,16,17,New York Knicks,0,103,96
+17,regular,UTA,1994,17,18,Washington Bullets,0,113,91
+18,regular,UTA,1994,18,19,Denver Nuggets,1,98,107
+19,regular,UTA,1994,19,20,Golden State Warriors,1,112,115
+20,regular,UTA,1994,21,21,San Antonio Spurs,0,102,87
+21,regular,UTA,1994,22,22,Minnesota Timberwolves,1,97,95
+22,regular,UTA,1994,23,23,Boston Celtics,1,97,96
+23,regular,UTA,1994,24,24,Washington Bullets,1,102,96
+24,regular,UTA,1994,25,25,Cleveland Cavaliers,1,97,112
+25,regular,UTA,1994,26,26,San Antonio Spurs,1,96,88
+26,regular,UTA,1994,27,27,Minnesota Timberwolves,0,97,93
+27,regular,UTA,1994,28,28,Boston Celtics,0,110,107
+28,regular,UTA,1994,29,29,Portland Trail Blazers,1,92,90
+29,regular,UTA,1994,30,30,Dallas Mavericks,0,115,85
+30,regular,UTA,1994,31,31,Phoenix Suns,0,91,107
+31,regular,UTA,1994,32,32,Miami Heat,0,104,110
+32,regular,UTA,1994,33,33,Seattle SuperSonics,1,87,108
+33,regular,UTA,1994,34,34,Milwaukee Bucks,1,101,83
+34,regular,UTA,1994,35,35,Chicago Bulls,1,91,107
+35,regular,UTA,1994,36,36,New Jersey Nets,1,94,99
+36,regular,UTA,1994,37,37,Detroit Pistons,1,109,94
+37,regular,UTA,1994,38,38,Cleveland Cavaliers,0,104,92
+38,regular,UTA,1994,39,39,Sacramento Kings,0,112,83
+39,regular,UTA,1994,40,40,Houston Rockets,1,101,106
+40,regular,UTA,1994,42,41,Seattle SuperSonics,0,95,90
+41,regular,UTA,1994,43,42,Minnesota Timberwolves,1,98,100
+42,regular,UTA,1994,44,43,Golden State Warriors,0,119,91
+43,regular,UTA,1994,45,44,Houston Rockets,0,104,88
+44,regular,UTA,1994,46,45,Chicago Bulls,0,85,94
+45,regular,UTA,1994,47,46,Portland Trail Blazers,0,128,114
+46,regular,UTA,1994,48,47,Los Angeles Lakers,1,90,107
+47,regular,UTA,1994,49,48,Denver Nuggets,1,96,95
+48,regular,UTA,1994,50,49,Los Angeles Lakers,0,96,103
+49,regular,UTA,1994,51,50,Los Angeles Clippers,1,103,99
+50,regular,UTA,1994,52,51,Sacramento Kings,1,81,90
+51,regular,UTA,1994,53,52,Los Angeles Clippers,0,100,93
+52,regular,UTA,1994,54,53,Philadelphia 76ers,0,119,92
+53,regular,UTA,1994,55,54,San Antonio Spurs,0,106,102
+54,regular,UTA,1994,56,55,Phoenix Suns,0,107,87
+55,regular,UTA,1994,57,56,Houston Rockets,1,95,85
+56,regular,UTA,1994,58,57,Houston Rockets,0,89,85
+57,regular,UTA,1994,59,58,San Antonio Spurs,1,106,96
+58,regular,UTA,1994,60,59,Dallas Mavericks,1,103,90
+59,regular,UTA,1994,61,60,Phoenix Suns,1,103,92
+60,regular,UTA,1994,63,61,Minnesota Timberwolves,0,100,86
+61,regular,UTA,1994,64,62,Portland Trail Blazers,1,99,122
+62,regular,UTA,1994,65,63,Los Angeles Lakers,0,102,101
+63,regular,UTA,1994,66,64,Los Angeles Clippers,1,105,108
+64,regular,UTA,1994,67,65,Charlotte Hornets,1,78,82
+65,regular,UTA,1994,68,66,Indiana Pacers,1,103,107
+66,regular,UTA,1994,69,67,Atlanta Hawks,1,96,100
+67,regular,UTA,1994,70,68,Orlando Magic,0,93,98
+68,regular,UTA,1994,71,69,Milwaukee Bucks,0,103,96
+69,regular,UTA,1994,72,70,Houston Rockets,1,83,98
+70,regular,UTA,1994,73,71,Golden State Warriors,0,113,116
+71,regular,UTA,1994,74,72,Denver Nuggets,0,101,91
+72,regular,UTA,1994,75,73,Seattle SuperSonics,1,79,86
+73,regular,UTA,1994,76,74,Dallas Mavericks,0,99,82
+74,regular,UTA,1994,77,75,Los Angeles Clippers,0,128,104
+75,regular,UTA,1994,78,76,Sacramento Kings,0,126,91
+76,regular,UTA,1994,79,77,San Antonio Spurs,0,101,90
+77,regular,UTA,1994,80,78,Golden State Warriors,1,105,109
+78,regular,UTA,1994,81,79,Sacramento Kings,1,115,108
+79,regular,UTA,1994,82,80,Portland Trail Blazers,0,122,111
+80,regular,UTA,1994,84,81,Denver Nuggets,1,113,106
+81,regular,UTA,1994,85,82,Los Angeles Lakers,1,103,97
+0,playoff,UTA,1995,0,1,Houston Rockets,0,102,100
+1,playoff,UTA,1995,1,2,Houston Rockets,0,126,140
+2,playoff,UTA,1995,2,3,Houston Rockets,1,95,82
+3,playoff,UTA,1995,3,4,Houston Rockets,1,106,123
+4,playoff,UTA,1995,4,5,Houston Rockets,0,91,95
+0,regular,UTA,1995,0,1,Miami Heat,0,119,108
+1,regular,UTA,1995,1,2,Seattle SuperSonics,1,103,110
+2,regular,UTA,1995,2,3,Atlanta Hawks,0,104,86
+3,regular,UTA,1995,3,4,San Antonio Spurs,1,101,109
+4,regular,UTA,1995,4,5,Golden State Warriors,0,104,112
+5,regular,UTA,1995,5,6,Denver Nuggets,1,110,119
+6,regular,UTA,1995,6,7,New York Knicks,0,110,97
+7,regular,UTA,1995,7,8,Detroit Pistons,0,121,96
+8,regular,UTA,1995,8,9,Golden State Warriors,1,115,119
+9,regular,UTA,1995,9,10,Phoenix Suns,0,106,91
+10,regular,UTA,1995,10,11,Seattle SuperSonics,0,113,103
+11,regular,UTA,1995,11,12,Chicago Bulls,0,124,94
+12,regular,UTA,1995,12,13,Sacramento Kings,1,94,89
+13,regular,UTA,1995,13,14,Portland Trail Blazers,1,105,94
+14,regular,UTA,1995,14,15,Minnesota Timberwolves,0,94,96
+15,regular,UTA,1995,15,16,Dallas Mavericks,1,112,87
+16,regular,UTA,1995,16,17,Charlotte Hornets,0,97,106
+17,regular,UTA,1995,17,18,San Antonio Spurs,1,117,114
+18,regular,UTA,1995,18,19,Los Angeles Lakers,0,113,120
+19,regular,UTA,1995,19,20,Portland Trail Blazers,0,101,89
+20,regular,UTA,1995,21,21,Minnesota Timberwolves,1,103,95
+21,regular,UTA,1995,22,22,Washington Bullets,1,95,85
+22,regular,UTA,1995,23,23,Chicago Bulls,1,97,89
+23,regular,UTA,1995,24,24,Milwaukee Bucks,1,101,98
+24,regular,UTA,1995,25,25,Philadelphia 76ers,1,91,88
+25,regular,UTA,1995,26,26,Atlanta Hawks,1,103,94
+26,regular,UTA,1995,27,27,Indiana Pacers,0,117,95
+27,regular,UTA,1995,28,28,Houston Rockets,0,103,111
+28,regular,UTA,1995,29,29,Milwaukee Bucks,0,123,91
+29,regular,UTA,1995,30,30,San Antonio Spurs,0,103,104
+30,regular,UTA,1995,31,31,Philadelphia 76ers,0,111,90
+31,regular,UTA,1995,32,32,Dallas Mavericks,0,106,90
+32,regular,UTA,1995,33,33,Denver Nuggets,0,114,88
+33,regular,UTA,1995,34,34,Boston Celtics,1,95,93
+34,regular,UTA,1995,35,35,New York Knicks,1,86,81
+35,regular,UTA,1995,36,36,Indiana Pacers,1,99,98
+36,regular,UTA,1995,37,37,Detroit Pistons,1,99,86
+37,regular,UTA,1995,38,38,Cleveland Cavaliers,0,94,84
+38,regular,UTA,1995,39,39,Dallas Mavericks,0,116,111
+39,regular,UTA,1995,40,40,Sacramento Kings,0,130,88
+40,regular,UTA,1995,42,41,Seattle SuperSonics,1,120,108
+41,regular,UTA,1995,43,42,New Jersey Nets,0,111,94
+42,regular,UTA,1995,44,43,Minnesota Timberwolves,0,115,80
+43,regular,UTA,1995,45,44,Denver Nuggets,0,129,88
+44,regular,UTA,1995,46,45,Houston Rockets,1,101,121
+45,regular,UTA,1995,47,46,Dallas Mavericks,1,98,119
+46,regular,UTA,1995,48,47,Los Angeles Clippers,1,101,88
+47,regular,UTA,1995,49,48,Phoenix Suns,0,104,108
+48,regular,UTA,1995,50,49,San Antonio Spurs,1,96,112
+49,regular,UTA,1995,51,50,San Antonio Spurs,0,120,113
+50,regular,UTA,1995,52,51,Boston Celtics,0,108,98
+51,regular,UTA,1995,53,52,Phoenix Suns,1,107,110
+52,regular,UTA,1995,54,53,Los Angeles Clippers,0,118,109
+53,regular,UTA,1995,55,54,Portland Trail Blazers,1,101,114
+54,regular,UTA,1995,56,55,Denver Nuggets,1,110,96
+55,regular,UTA,1995,57,56,Los Angeles Lakers,1,101,95
+56,regular,UTA,1995,58,57,Golden State Warriors,1,98,85
+57,regular,UTA,1995,59,58,Portland Trail Blazers,0,98,81
+58,regular,UTA,1995,60,59,Sacramento Kings,1,102,95
+59,regular,UTA,1995,61,60,Dallas Mavericks,0,114,87
+60,regular,UTA,1995,63,61,Sacramento Kings,0,110,93
+61,regular,UTA,1995,64,62,Miami Heat,1,96,86
+62,regular,UTA,1995,65,63,Orlando Magic,1,107,95
+63,regular,UTA,1995,66,64,Cleveland Cavaliers,1,85,93
+64,regular,UTA,1995,67,65,New Jersey Nets,1,103,98
+65,regular,UTA,1995,68,66,Charlotte Hornets,1,104,108
+66,regular,UTA,1995,69,67,Denver Nuggets,0,103,91
+67,regular,UTA,1995,70,68,Houston Rockets,1,112,104
+68,regular,UTA,1995,71,69,Dallas Mavericks,1,110,117
+69,regular,UTA,1995,72,70,Washington Bullets,0,128,102
+70,regular,UTA,1995,73,71,Phoenix Suns,1,111,102
+71,regular,UTA,1995,74,72,Orlando Magic,0,98,101
+72,regular,UTA,1995,75,73,Los Angeles Clippers,1,98,116
+73,regular,UTA,1995,76,74,Seattle SuperSonics,0,114,92
+74,regular,UTA,1995,77,75,Los Angeles Lakers,1,90,113
+75,regular,UTA,1995,78,76,Los Angeles Lakers,0,100,93
+76,regular,UTA,1995,79,77,Golden State Warriors,0,121,102
+77,regular,UTA,1995,80,78,Los Angeles Clippers,0,105,83
+78,regular,UTA,1995,81,79,Minnesota Timberwolves,1,113,94
+79,regular,UTA,1995,82,80,Houston Rockets,0,115,96
+80,regular,UTA,1995,84,81,Minnesota Timberwolves,0,99,96
+81,regular,UTA,1995,85,82,Houston Rockets,1,103,97
+0,playoff,UTA,1996,0,1,Portland Trail Blazers,0,110,102
+1,playoff,UTA,1996,1,2,Portland Trail Blazers,0,105,90
+2,playoff,UTA,1996,2,3,Portland Trail Blazers,1,91,94
+3,playoff,UTA,1996,3,4,Portland Trail Blazers,1,90,98
+4,playoff,UTA,1996,4,5,Portland Trail Blazers,0,102,64
+5,playoff,UTA,1996,6,6,San Antonio Spurs,1,95,75
+6,playoff,UTA,1996,7,7,San Antonio Spurs,1,77,88
+7,playoff,UTA,1996,8,8,San Antonio Spurs,0,105,75
+8,playoff,UTA,1996,9,9,San Antonio Spurs,0,101,86
+9,playoff,UTA,1996,10,10,San Antonio Spurs,1,87,98
+10,playoff,UTA,1996,11,11,San Antonio Spurs,0,108,81
+11,playoff,UTA,1996,13,12,Seattle SuperSonics,1,72,102
+12,playoff,UTA,1996,14,13,Seattle SuperSonics,1,87,91
+13,playoff,UTA,1996,15,14,Seattle SuperSonics,0,96,76
+14,playoff,UTA,1996,16,15,Seattle SuperSonics,0,86,88
+15,playoff,UTA,1996,17,16,Seattle SuperSonics,1,98,95
+16,playoff,UTA,1996,18,17,Seattle SuperSonics,0,118,83
+17,playoff,UTA,1996,19,18,Seattle SuperSonics,1,86,90
+0,regular,UTA,1996,0,1,Seattle SuperSonics,0,112,94
+1,regular,UTA,1996,1,2,Portland Trail Blazers,1,105,109
+2,regular,UTA,1996,2,3,Atlanta Hawks,0,105,96
+3,regular,UTA,1996,3,4,Los Angeles Lakers,0,108,98
+4,regular,UTA,1996,4,5,Denver Nuggets,0,109,86
+5,regular,UTA,1996,5,6,New York Knicks,1,110,120
+6,regular,UTA,1996,6,7,Toronto Raptors,1,103,100
+7,regular,UTA,1996,7,8,Boston Celtics,1,102,90
+8,regular,UTA,1996,8,9,Detroit Pistons,1,86,81
+9,regular,UTA,1996,9,10,Minnesota Timberwolves,1,126,102
+10,regular,UTA,1996,10,11,New Jersey Nets,0,105,79
+11,regular,UTA,1996,11,12,Sacramento Kings,0,116,95
+12,regular,UTA,1996,12,13,Chicago Bulls,0,85,90
+13,regular,UTA,1996,13,14,Denver Nuggets,1,91,94
+14,regular,UTA,1996,14,15,Phoenix Suns,1,114,105
+15,regular,UTA,1996,15,16,Houston Rockets,1,112,105
+16,regular,UTA,1996,16,17,Houston Rockets,0,100,103
+17,regular,UTA,1996,17,18,Denver Nuggets,0,119,124
+18,regular,UTA,1996,18,19,Golden State Warriors,0,123,109
+19,regular,UTA,1996,19,20,Charlotte Hornets,0,110,100
+20,regular,UTA,1996,21,21,Orlando Magic,1,99,111
+21,regular,UTA,1996,22,22,Miami Heat,1,83,74
+22,regular,UTA,1996,23,23,New Jersey Nets,1,110,103
+23,regular,UTA,1996,24,24,Philadelphia 76ers,1,104,108
+24,regular,UTA,1996,25,25,Cleveland Cavaliers,1,89,87
+25,regular,UTA,1996,26,26,Chicago Bulls,1,86,100
+26,regular,UTA,1996,27,27,Portland Trail Blazers,0,114,104
+27,regular,UTA,1996,28,28,Minnesota Timberwolves,0,99,83
+28,regular,UTA,1996,29,29,Los Angeles Lakers,0,99,82
+29,regular,UTA,1996,30,30,Dallas Mavericks,1,102,92
+30,regular,UTA,1996,31,31,San Antonio Spurs,1,97,111
+31,regular,UTA,1996,32,32,Los Angeles Lakers,1,100,116
+32,regular,UTA,1996,33,33,Miami Heat,0,94,92
+33,regular,UTA,1996,34,34,San Antonio Spurs,0,94,101
+34,regular,UTA,1996,35,35,Houston Rockets,1,99,107
+35,regular,UTA,1996,36,36,Orlando Magic,0,111,99
+36,regular,UTA,1996,37,37,Los Angeles Clippers,1,106,82
+37,regular,UTA,1996,38,38,Portland Trail Blazers,0,96,72
+38,regular,UTA,1996,39,39,Golden State Warriors,1,100,89
+39,regular,UTA,1996,40,40,Seattle SuperSonics,1,93,94
+40,regular,UTA,1996,42,41,Golden State Warriors,0,108,91
+41,regular,UTA,1996,43,42,Detroit Pistons,0,106,97
+42,regular,UTA,1996,44,43,Portland Trail Blazers,1,98,94
+43,regular,UTA,1996,45,44,Los Angeles Clippers,0,122,113
+44,regular,UTA,1996,46,45,Los Angeles Lakers,1,103,110
+45,regular,UTA,1996,47,46,Vancouver Grizzlies,1,92,83
+46,regular,UTA,1996,48,47,Vancouver Grizzlies,0,102,79
+47,regular,UTA,1996,49,48,Dallas Mavericks,1,133,136
+48,regular,UTA,1996,50,49,San Antonio Spurs,1,114,111
+49,regular,UTA,1996,51,50,Dallas Mavericks,0,106,103
+50,regular,UTA,1996,52,51,Boston Celtics,0,112,98
+51,regular,UTA,1996,53,52,Toronto Raptors,0,102,86
+52,regular,UTA,1996,54,53,Denver Nuggets,1,90,99
+53,regular,UTA,1996,55,54,Phoenix Suns,0,110,87
+54,regular,UTA,1996,56,55,Washington Bullets,0,115,93
+55,regular,UTA,1996,57,56,New York Knicks,0,99,88
+56,regular,UTA,1996,58,57,Sacramento Kings,1,112,97
+57,regular,UTA,1996,59,58,Indiana Pacers,0,101,94
+58,regular,UTA,1996,60,59,Houston Rockets,0,109,89
+59,regular,UTA,1996,61,60,Minnesota Timberwolves,1,104,96
+60,regular,UTA,1996,63,61,Atlanta Hawks,1,89,115
+61,regular,UTA,1996,64,62,Charlotte Hornets,1,85,91
+62,regular,UTA,1996,65,63,Indiana Pacers,1,95,86
+63,regular,UTA,1996,66,64,Washington Bullets,1,115,120
+64,regular,UTA,1996,67,65,Milwaukee Bucks,1,107,90
+65,regular,UTA,1996,68,66,Philadelphia 76ers,0,107,84
+66,regular,UTA,1996,69,67,Cleveland Cavaliers,0,88,75
+67,regular,UTA,1996,70,68,Dallas Mavericks,0,103,86
+68,regular,UTA,1996,71,69,Milwaukee Bucks,0,98,82
+69,regular,UTA,1996,72,70,Vancouver Grizzlies,0,105,91
+70,regular,UTA,1996,73,71,Seattle SuperSonics,1,98,100
+71,regular,UTA,1996,74,72,Seattle SuperSonics,0,91,100
+72,regular,UTA,1996,75,73,Phoenix Suns,1,100,107
+73,regular,UTA,1996,76,74,Minnesota Timberwolves,0,99,103
+74,regular,UTA,1996,77,75,Sacramento Kings,1,107,92
+75,regular,UTA,1996,78,76,San Antonio Spurs,0,91,92
+76,regular,UTA,1996,79,77,Phoenix Suns,0,103,79
+77,regular,UTA,1996,80,78,Los Angeles Clippers,1,81,91
+78,regular,UTA,1996,81,79,Golden State Warriors,1,82,93
+79,regular,UTA,1996,82,80,Los Angeles Clippers,0,108,85
+80,regular,UTA,1996,84,81,Vancouver Grizzlies,1,94,79
+81,regular,UTA,1996,85,82,Sacramento Kings,0,104,92
+0,playoff,UTA,1997,0,1,Los Angeles Clippers,0,106,86
+1,playoff,UTA,1997,1,2,Los Angeles Clippers,0,105,99
+2,playoff,UTA,1997,2,3,Los Angeles Clippers,1,104,92
+3,playoff,UTA,1997,4,4,Los Angeles Lakers,0,93,77
+4,playoff,UTA,1997,5,5,Los Angeles Lakers,0,103,101
+5,playoff,UTA,1997,6,6,Los Angeles Lakers,1,84,104
+6,playoff,UTA,1997,7,7,Los Angeles Lakers,1,110,95
+7,playoff,UTA,1997,8,8,Los Angeles Lakers,0,98,93
+8,playoff,UTA,1997,10,9,Houston Rockets,0,101,86
+9,playoff,UTA,1997,11,10,Houston Rockets,0,104,92
+10,playoff,UTA,1997,12,11,Houston Rockets,1,100,118
+11,playoff,UTA,1997,13,12,Houston Rockets,1,92,95
+12,playoff,UTA,1997,14,13,Houston Rockets,0,96,91
+13,playoff,UTA,1997,15,14,Houston Rockets,1,103,100
+14,playoff,UTA,1997,17,15,Chicago Bulls,1,82,84
+15,playoff,UTA,1997,18,16,Chicago Bulls,1,85,97
+16,playoff,UTA,1997,19,17,Chicago Bulls,0,104,93
+17,playoff,UTA,1997,20,18,Chicago Bulls,0,78,73
+18,playoff,UTA,1997,21,19,Chicago Bulls,0,88,90
+19,playoff,UTA,1997,22,20,Chicago Bulls,1,86,90
+0,regular,UTA,1997,0,1,Seattle SuperSonics,0,99,91
+1,regular,UTA,1997,1,2,Los Angeles Clippers,1,95,90
+2,regular,UTA,1997,2,3,Houston Rockets,0,72,75
+3,regular,UTA,1997,3,4,Houston Rockets,1,85,91
+4,regular,UTA,1997,4,5,Sacramento Kings,0,105,74
+5,regular,UTA,1997,5,6,Vancouver Grizzlies,0,104,96
+6,regular,UTA,1997,6,7,Dallas Mavericks,1,88,87
+7,regular,UTA,1997,7,8,Los Angeles Lakers,1,113,97
+8,regular,UTA,1997,8,9,Golden State Warriors,0,109,104
+9,regular,UTA,1997,9,10,Chicago Bulls,0,105,100
+10,regular,UTA,1997,10,11,New Jersey Nets,0,108,92
+11,regular,UTA,1997,11,12,Denver Nuggets,0,107,103
+12,regular,UTA,1997,12,13,Los Angeles Clippers,0,111,94
+13,regular,UTA,1997,13,14,Seattle SuperSonics,1,96,90
+14,regular,UTA,1997,14,15,Charlotte Hornets,0,107,97
+15,regular,UTA,1997,15,16,Los Angeles Lakers,0,101,75
+16,regular,UTA,1997,16,17,Minnesota Timberwolves,0,106,95
+17,regular,UTA,1997,17,18,Denver Nuggets,1,104,91
+18,regular,UTA,1997,18,19,Indiana Pacers,0,110,86
+19,regular,UTA,1997,19,20,Phoenix Suns,0,87,95
+20,regular,UTA,1997,21,21,Orlando Magic,0,101,68
+21,regular,UTA,1997,22,22,New York Knicks,1,94,99
+22,regular,UTA,1997,23,23,Miami Heat,1,94,87
+23,regular,UTA,1997,24,24,Orlando Magic,1,98,93
+24,regular,UTA,1997,25,25,Cleveland Cavaliers,1,94,100
+25,regular,UTA,1997,26,26,Minnesota Timberwolves,1,98,107
+26,regular,UTA,1997,27,27,Portland Trail Blazers,0,99,94
+27,regular,UTA,1997,28,28,Philadelphia 76ers,0,110,84
+28,regular,UTA,1997,29,29,Los Angeles Clippers,1,101,115
+29,regular,UTA,1997,30,30,San Antonio Spurs,1,80,83
+30,regular,UTA,1997,31,31,Miami Heat,0,83,80
+31,regular,UTA,1997,32,32,Chicago Bulls,1,89,102
+32,regular,UTA,1997,33,33,Milwaukee Bucks,1,112,119
+33,regular,UTA,1997,34,34,Toronto Raptors,1,96,110
+34,regular,UTA,1997,35,35,Detroit Pistons,1,77,87
+35,regular,UTA,1997,36,36,Philadelphia 76ers,1,97,96
+36,regular,UTA,1997,37,37,Phoenix Suns,0,95,91
+37,regular,UTA,1997,38,38,Vancouver Grizzlies,1,106,68
+38,regular,UTA,1997,39,39,Portland Trail Blazers,1,96,102
+39,regular,UTA,1997,40,40,Cleveland Cavaliers,0,94,74
+40,regular,UTA,1997,42,41,Phoenix Suns,1,111,99
+41,regular,UTA,1997,43,42,Houston Rockets,1,105,100
+42,regular,UTA,1997,44,43,Denver Nuggets,0,114,99
+43,regular,UTA,1997,45,44,Atlanta Hawks,0,102,96
+44,regular,UTA,1997,46,45,Dallas Mavericks,1,97,100
+45,regular,UTA,1997,47,46,Washington Bullets,0,111,89
+46,regular,UTA,1997,48,47,Seattle SuperSonics,1,99,95
+47,regular,UTA,1997,49,48,Sacramento Kings,1,120,98
+48,regular,UTA,1997,50,49,Portland Trail Blazers,0,110,86
+49,regular,UTA,1997,51,50,Dallas Mavericks,0,99,84
+50,regular,UTA,1997,52,51,San Antonio Spurs,0,113,105
+51,regular,UTA,1997,53,52,Boston Celtics,0,122,105
+52,regular,UTA,1997,54,53,Seattle SuperSonics,0,87,89
+53,regular,UTA,1997,55,54,New York Knicks,0,110,99
+54,regular,UTA,1997,56,55,Toronto Raptors,0,118,114
+55,regular,UTA,1997,57,56,Portland Trail Blazers,1,105,115
+56,regular,UTA,1997,58,57,Vancouver Grizzlies,1,93,86
+57,regular,UTA,1997,59,58,Golden State Warriors,1,111,104
+58,regular,UTA,1997,60,59,Dallas Mavericks,0,96,65
+59,regular,UTA,1997,61,60,Detroit Pistons,0,95,88
+60,regular,UTA,1997,63,61,Minnesota Timberwolves,1,115,106
+61,regular,UTA,1997,64,62,Atlanta Hawks,1,99,106
+62,regular,UTA,1997,65,63,New Jersey Nets,1,117,102
+63,regular,UTA,1997,66,64,Indiana Pacers,1,105,96
+64,regular,UTA,1997,67,65,Washington Bullets,1,100,93
+65,regular,UTA,1997,68,66,Charlotte Hornets,1,114,93
+66,regular,UTA,1997,69,67,Boston Celtics,1,113,100
+67,regular,UTA,1997,70,68,Los Angeles Clippers,0,107,94
+68,regular,UTA,1997,71,69,Denver Nuggets,1,120,103
+69,regular,UTA,1997,72,70,Milwaukee Bucks,0,101,96
+70,regular,UTA,1997,73,71,San Antonio Spurs,1,115,102
+71,regular,UTA,1997,74,72,Sacramento Kings,0,118,87
+72,regular,UTA,1997,75,73,Vancouver Grizzlies,0,106,79
+73,regular,UTA,1997,76,74,Golden State Warriors,1,114,100
+74,regular,UTA,1997,77,75,San Antonio Spurs,0,116,93
+75,regular,UTA,1997,78,76,Los Angeles Lakers,0,101,89
+76,regular,UTA,1997,79,77,Houston Rockets,0,104,83
+77,regular,UTA,1997,80,78,Los Angeles Lakers,1,98,100
+78,regular,UTA,1997,81,79,Phoenix Suns,1,127,122
+79,regular,UTA,1997,82,80,Golden State Warriors,0,106,93
+80,regular,UTA,1997,84,81,Minnesota Timberwolves,0,101,89
+81,regular,UTA,1997,85,82,Sacramento Kings,1,113,109
+0,playoff,UTA,1998,0,1,Houston Rockets,0,90,103
+1,playoff,UTA,1998,1,2,Houston Rockets,0,105,90
+2,playoff,UTA,1998,2,3,Houston Rockets,1,85,89
+3,playoff,UTA,1998,3,4,Houston Rockets,1,93,71
+4,playoff,UTA,1998,4,5,Houston Rockets,0,84,70
+5,playoff,UTA,1998,6,6,San Antonio Spurs,0,83,82
+6,playoff,UTA,1998,7,7,San Antonio Spurs,0,109,106
+7,playoff,UTA,1998,8,8,San Antonio Spurs,1,64,86
+8,playoff,UTA,1998,9,9,San Antonio Spurs,1,82,73
+9,playoff,UTA,1998,10,10,San Antonio Spurs,0,87,77
+10,playoff,UTA,1998,12,11,Los Angeles Lakers,0,112,77
+11,playoff,UTA,1998,13,12,Los Angeles Lakers,0,99,95
+12,playoff,UTA,1998,14,13,Los Angeles Lakers,1,109,98
+13,playoff,UTA,1998,15,14,Los Angeles Lakers,1,96,92
+14,playoff,UTA,1998,17,15,Chicago Bulls,0,88,85
+15,playoff,UTA,1998,18,16,Chicago Bulls,0,88,93
+16,playoff,UTA,1998,19,17,Chicago Bulls,1,54,96
+17,playoff,UTA,1998,20,18,Chicago Bulls,1,82,86
+18,playoff,UTA,1998,21,19,Chicago Bulls,1,83,81
+19,playoff,UTA,1998,22,20,Chicago Bulls,0,86,87
+0,regular,UTA,1998,0,1,Los Angeles Lakers,1,87,104
+1,regular,UTA,1998,1,2,Denver Nuggets,0,102,84
+2,regular,UTA,1998,2,3,Washington Wizards,0,86,90
+3,regular,UTA,1998,3,4,Phoenix Suns,1,84,106
+4,regular,UTA,1998,4,5,Denver Nuggets,1,91,89
+5,regular,UTA,1998,5,6,San Antonio Spurs,1,80,87
+6,regular,UTA,1998,6,7,Vancouver Grizzlies,0,98,80
+7,regular,UTA,1998,7,8,Seattle SuperSonics,0,110,104
+8,regular,UTA,1998,8,9,Dallas Mavericks,1,85,77
+9,regular,UTA,1998,9,10,Los Angeles Lakers,0,92,97
+10,regular,UTA,1998,10,11,Sacramento Kings,1,95,97
+11,regular,UTA,1998,11,12,San Antonio Spurs,0,103,74
+12,regular,UTA,1998,12,13,Minnesota Timberwolves,0,133,124
+13,regular,UTA,1998,13,14,Golden State Warriors,0,111,82
+14,regular,UTA,1998,14,15,Los Angeles Clippers,1,94,91
+15,regular,UTA,1998,15,16,New Jersey Nets,0,100,95
+16,regular,UTA,1998,16,17,Toronto Raptors,0,115,98
+17,regular,UTA,1998,17,18,Portland Trail Blazers,1,77,94
+18,regular,UTA,1998,18,19,Indiana Pacers,0,106,97
+19,regular,UTA,1998,19,20,Sacramento Kings,1,101,113
+20,regular,UTA,1998,21,21,Dallas Mavericks,0,68,66
+21,regular,UTA,1998,22,22,Washington Wizards,1,86,88
+22,regular,UTA,1998,23,23,Miami Heat,1,103,95
+23,regular,UTA,1998,24,24,Orlando Magic,1,85,73
+24,regular,UTA,1998,25,25,Cleveland Cavaliers,1,101,106
+25,regular,UTA,1998,26,26,Atlanta Hawks,1,101,99
+26,regular,UTA,1998,27,27,Houston Rockets,0,107,103
+27,regular,UTA,1998,28,28,Portland Trail Blazers,0,91,102
+28,regular,UTA,1998,29,29,Vancouver Grizzlies,1,89,88
+29,regular,UTA,1998,30,30,Denver Nuggets,1,132,99
+30,regular,UTA,1998,31,31,Atlanta Hawks,0,97,82
+31,regular,UTA,1998,32,32,Philadelphia 76ers,0,98,95
+32,regular,UTA,1998,33,33,Milwaukee Bucks,0,116,109
+33,regular,UTA,1998,34,34,Houston Rockets,1,111,84
+34,regular,UTA,1998,35,35,Cleveland Cavaliers,0,106,99
+35,regular,UTA,1998,36,36,Portland Trail Blazers,1,86,96
+36,regular,UTA,1998,37,37,Orlando Magic,0,107,93
+37,regular,UTA,1998,38,38,Detroit Pistons,0,98,89
+38,regular,UTA,1998,39,39,Golden State Warriors,0,98,85
+39,regular,UTA,1998,40,40,Indiana Pacers,1,102,106
+40,regular,UTA,1998,42,41,Chicago Bulls,1,101,94
+41,regular,UTA,1998,43,42,Seattle SuperSonics,0,93,101
+42,regular,UTA,1998,44,43,Dallas Mavericks,0,104,94
+43,regular,UTA,1998,45,44,Golden State Warriors,1,115,88
+44,regular,UTA,1998,46,45,Los Angeles Clippers,1,102,111
+45,regular,UTA,1998,47,46,Chicago Bulls,0,101,93
+46,regular,UTA,1998,48,47,Los Angeles Clippers,0,106,98
+47,regular,UTA,1998,49,48,Boston Celtics,0,118,100
+48,regular,UTA,1998,50,49,Seattle SuperSonics,1,111,91
+49,regular,UTA,1998,51,50,Charlotte Hornets,0,96,90
+50,regular,UTA,1998,52,51,New York Knicks,0,94,78
+51,regular,UTA,1998,53,52,San Antonio Spurs,1,79,77
+52,regular,UTA,1998,54,53,Miami Heat,0,102,104
+53,regular,UTA,1998,55,54,Phoenix Suns,0,108,97
+54,regular,UTA,1998,56,55,Houston Rockets,1,106,100
+55,regular,UTA,1998,57,56,Toronto Raptors,1,108,93
+56,regular,UTA,1998,58,57,Boston Celtics,1,110,94
+57,regular,UTA,1998,59,58,New Jersey Nets,1,122,115
+58,regular,UTA,1998,60,59,Milwaukee Bucks,1,110,92
+59,regular,UTA,1998,61,60,Houston Rockets,0,100,93
+60,regular,UTA,1998,63,61,Sacramento Kings,0,110,95
+61,regular,UTA,1998,64,62,Vancouver Grizzlies,0,110,101
+62,regular,UTA,1998,65,63,Detroit Pistons,1,109,98
+63,regular,UTA,1998,66,64,Minnesota Timberwolves,1,102,96
+64,regular,UTA,1998,67,65,Charlotte Hornets,1,85,111
+65,regular,UTA,1998,68,66,Philadelphia 76ers,1,91,79
+66,regular,UTA,1998,69,67,New York Knicks,1,124,119
+67,regular,UTA,1998,70,68,Phoenix Suns,0,92,73
+68,regular,UTA,1998,71,69,Dallas Mavericks,1,99,90
+69,regular,UTA,1998,72,70,Los Angeles Lakers,0,106,91
+70,regular,UTA,1998,73,71,Seattle SuperSonics,1,86,88
+71,regular,UTA,1998,74,72,Portland Trail Blazers,0,98,89
+72,regular,UTA,1998,75,73,Denver Nuggets,0,97,75
+73,regular,UTA,1998,76,74,Vancouver Grizzlies,1,99,93
+74,regular,UTA,1998,77,75,Golden State Warriors,1,101,99
+75,regular,UTA,1998,78,76,San Antonio Spurs,0,98,88
+76,regular,UTA,1998,79,77,Los Angeles Clippers,0,126,109
+77,regular,UTA,1998,80,78,Minnesota Timberwolves,1,103,110
+78,regular,UTA,1998,81,79,Minnesota Timberwolves,0,126,109
+79,regular,UTA,1998,82,80,Sacramento Kings,0,99,86
+80,regular,UTA,1998,84,81,Phoenix Suns,1,102,99
+81,regular,UTA,1998,85,82,Los Angeles Lakers,1,98,102
+0,playoff,UTA,1999,0,1,Sacramento Kings,0,117,87
+1,playoff,UTA,1999,1,2,Sacramento Kings,0,90,101
+2,playoff,UTA,1999,2,3,Sacramento Kings,1,81,84
+3,playoff,UTA,1999,3,4,Sacramento Kings,1,90,89
+4,playoff,UTA,1999,4,5,Sacramento Kings,0,99,92
+5,playoff,UTA,1999,6,6,Portland Trail Blazers,0,93,83
+6,playoff,UTA,1999,7,7,Portland Trail Blazers,0,81,84
+7,playoff,UTA,1999,8,8,Portland Trail Blazers,1,87,97
+8,playoff,UTA,1999,9,9,Portland Trail Blazers,1,75,81
+9,playoff,UTA,1999,10,10,Portland Trail Blazers,0,88,71
+10,playoff,UTA,1999,11,11,Portland Trail Blazers,1,80,92
+0,regular,UTA,1999,0,1,Chicago Bulls,0,104,96
+1,regular,UTA,1999,1,2,Los Angeles Lakers,1,100,91
+2,regular,UTA,1999,2,3,Dallas Mavericks,1,90,79
+3,regular,UTA,1999,3,4,Phoenix Suns,1,82,74
+4,regular,UTA,1999,4,5,Golden State Warriors,1,97,81
+5,regular,UTA,1999,5,6,Sacramento Kings,0,120,112
+6,regular,UTA,1999,6,7,Seattle SuperSonics,1,56,71
+7,regular,UTA,1999,7,8,Denver Nuggets,0,97,86
+8,regular,UTA,1999,8,9,Seattle SuperSonics,0,110,80
+9,regular,UTA,1999,9,10,Los Angeles Clippers,0,104,89
+10,regular,UTA,1999,10,11,Denver Nuggets,1,87,97
+11,regular,UTA,1999,11,12,Dallas Mavericks,0,80,65
+12,regular,UTA,1999,12,13,San Antonio Spurs,1,101,87
+13,regular,UTA,1999,13,14,Portland Trail Blazers,1,100,102
+14,regular,UTA,1999,14,15,Vancouver Grizzlies,0,109,86
+15,regular,UTA,1999,15,16,Dallas Mavericks,0,106,95
+16,regular,UTA,1999,16,17,Los Angeles Lakers,0,89,97
+17,regular,UTA,1999,17,18,Cleveland Cavaliers,0,88,75
+18,regular,UTA,1999,18,19,Denver Nuggets,0,94,89
+19,regular,UTA,1999,19,20,Portland Trail Blazers,1,91,77
+20,regular,UTA,1999,21,21,Minnesota Timberwolves,0,99,72
+21,regular,UTA,1999,22,22,Minnesota Timberwolves,1,90,83
+22,regular,UTA,1999,23,23,Washington Wizards,1,95,87
+23,regular,UTA,1999,24,24,Charlotte Hornets,1,82,83
+24,regular,UTA,1999,25,25,Detroit Pistons,1,101,104
+25,regular,UTA,1999,26,26,Miami Heat,0,84,81
+26,regular,UTA,1999,27,27,Vancouver Grizzlies,1,85,80
+27,regular,UTA,1999,28,28,Los Angeles Clippers,1,77,103
+28,regular,UTA,1999,29,29,Sacramento Kings,1,101,104
+29,regular,UTA,1999,30,30,Houston Rockets,0,88,87
+30,regular,UTA,1999,31,31,Golden State Warriors,1,92,85
+31,regular,UTA,1999,32,32,Los Angeles Lakers,1,106,93
+32,regular,UTA,1999,33,33,Golden State Warriors,0,92,85
+33,regular,UTA,1999,34,34,Phoenix Suns,0,93,92
+34,regular,UTA,1999,35,35,Houston Rockets,0,85,76
+35,regular,UTA,1999,36,36,Vancouver Grizzlies,0,98,80
+36,regular,UTA,1999,37,37,Sacramento Kings,1,105,100
+37,regular,UTA,1999,38,38,Los Angeles Clippers,1,103,89
+38,regular,UTA,1999,39,39,Los Angeles Lakers,0,109,93
+39,regular,UTA,1999,40,40,Minnesota Timberwolves,1,97,76
+40,regular,UTA,1999,42,41,San Antonio Spurs,0,69,83
+41,regular,UTA,1999,43,42,Phoenix Suns,1,82,91
+42,regular,UTA,1999,44,43,Portland Trail Blazers,0,96,85
+43,regular,UTA,1999,45,44,Seattle SuperSonics,0,98,81
+44,regular,UTA,1999,46,45,Phoenix Suns,0,85,99
+45,regular,UTA,1999,47,46,Seattle SuperSonics,1,85,90
+46,regular,UTA,1999,48,47,Golden State Warriors,0,96,85
+47,regular,UTA,1999,49,48,Houston Rockets,1,91,78
+48,regular,UTA,1999,50,49,San Antonio Spurs,1,78,84
+49,regular,UTA,1999,51,50,Los Angeles Clippers,0,99,82
+0,playoff,UTA,2000,0,1,Seattle SuperSonics,0,104,93
+1,playoff,UTA,2000,1,2,Seattle SuperSonics,0,101,87
+2,playoff,UTA,2000,2,3,Seattle SuperSonics,1,78,89
+3,playoff,UTA,2000,3,4,Seattle SuperSonics,1,93,104
+4,playoff,UTA,2000,4,5,Seattle SuperSonics,0,96,93
+5,playoff,UTA,2000,6,6,Portland Trail Blazers,1,75,94
+6,playoff,UTA,2000,7,7,Portland Trail Blazers,1,85,103
+7,playoff,UTA,2000,8,8,Portland Trail Blazers,0,84,103
+8,playoff,UTA,2000,9,9,Portland Trail Blazers,0,88,85
+9,playoff,UTA,2000,10,10,Portland Trail Blazers,1,79,81
+0,regular,UTA,2000,0,1,Los Angeles Lakers,0,84,91
+1,regular,UTA,2000,1,2,Houston Rockets,0,98,82
+2,regular,UTA,2000,2,3,Seattle SuperSonics,1,94,99
+3,regular,UTA,2000,3,4,Los Angeles Clippers,1,94,79
+4,regular,UTA,2000,4,5,Portland Trail Blazers,0,92,87
+5,regular,UTA,2000,5,6,Sacramento Kings,1,92,105
+6,regular,UTA,2000,6,7,San Antonio Spurs,0,91,85
+7,regular,UTA,2000,7,8,New York Knicks,0,98,90
+8,regular,UTA,2000,8,9,Minnesota Timberwolves,1,84,89
+9,regular,UTA,2000,9,10,Milwaukee Bucks,1,111,100
+10,regular,UTA,2000,10,11,Minnesota Timberwolves,0,108,93
+11,regular,UTA,2000,11,12,Los Angeles Lakers,1,82,90
+12,regular,UTA,2000,12,13,Toronto Raptors,0,87,100
+13,regular,UTA,2000,13,14,Golden State Warriors,0,115,99
+14,regular,UTA,2000,14,15,Indiana Pacers,0,75,100
+15,regular,UTA,2000,15,16,Golden State Warriors,1,94,82
+16,regular,UTA,2000,16,17,Washington Wizards,0,102,96
+17,regular,UTA,2000,17,18,Dallas Mavericks,0,85,79
+18,regular,UTA,2000,18,19,Seattle SuperSonics,0,101,83
+19,regular,UTA,2000,19,20,Toronto Raptors,1,103,88
+20,regular,UTA,2000,21,21,Washington Wizards,1,101,80
+21,regular,UTA,2000,22,22,Boston Celtics,1,96,86
+22,regular,UTA,2000,23,23,Indiana Pacers,1,74,89
+23,regular,UTA,2000,24,24,Atlanta Hawks,1,106,96
+24,regular,UTA,2000,25,25,Orlando Magic,1,102,104
+25,regular,UTA,2000,26,26,Miami Heat,1,72,74
+26,regular,UTA,2000,27,27,Phoenix Suns,0,92,91
+27,regular,UTA,2000,28,28,Vancouver Grizzlies,0,101,90
+28,regular,UTA,2000,29,29,Denver Nuggets,0,109,89
+29,regular,UTA,2000,30,30,Charlotte Hornets,0,118,96
+30,regular,UTA,2000,31,31,Dallas Mavericks,1,105,92
+31,regular,UTA,2000,32,32,Houston Rockets,1,103,87
+32,regular,UTA,2000,33,33,San Antonio Spurs,1,86,93
+33,regular,UTA,2000,34,34,Miami Heat,0,93,83
+34,regular,UTA,2000,35,35,Los Angeles Clippers,0,112,75
+35,regular,UTA,2000,36,36,Minnesota Timberwolves,0,88,91
+36,regular,UTA,2000,37,37,Vancouver Grizzlies,1,94,89
+37,regular,UTA,2000,38,38,Sacramento Kings,1,104,101
+38,regular,UTA,2000,39,39,Los Angeles Lakers,0,105,101
+39,regular,UTA,2000,40,40,Vancouver Grizzlies,0,99,116
+40,regular,UTA,2000,42,41,Portland Trail Blazers,1,75,85
+41,regular,UTA,2000,43,42,Minnesota Timberwolves,1,94,96
+42,regular,UTA,2000,44,43,Seattle SuperSonics,0,96,104
+43,regular,UTA,2000,45,44,Milwaukee Bucks,0,99,102
+44,regular,UTA,2000,46,45,Los Angeles Lakers,1,67,113
+45,regular,UTA,2000,47,46,San Antonio Spurs,0,93,90
+46,regular,UTA,2000,48,47,Chicago Bulls,0,113,86
+47,regular,UTA,2000,49,48,Boston Celtics,0,99,101
+48,regular,UTA,2000,50,49,Sacramento Kings,0,119,108
+49,regular,UTA,2000,51,50,Detroit Pistons,0,91,87
+50,regular,UTA,2000,52,51,Atlanta Hawks,0,96,94
+51,regular,UTA,2000,53,52,Dallas Mavericks,1,92,85
+52,regular,UTA,2000,54,53,Orlando Magic,0,96,88
+53,regular,UTA,2000,55,54,Portland Trail Blazers,1,92,101
+54,regular,UTA,2000,56,55,New Jersey Nets,0,106,101
+55,regular,UTA,2000,57,56,Detroit Pistons,1,107,94
+56,regular,UTA,2000,58,57,Charlotte Hornets,1,89,87
+57,regular,UTA,2000,59,58,New York Knicks,1,88,79
+58,regular,UTA,2000,60,59,Cleveland Cavaliers,0,113,95
+59,regular,UTA,2000,61,60,Houston Rockets,0,101,82
+60,regular,UTA,2000,63,61,Phoenix Suns,1,99,96
+61,regular,UTA,2000,64,62,Chicago Bulls,1,87,79
+62,regular,UTA,2000,65,63,Cleveland Cavaliers,1,107,86
+63,regular,UTA,2000,66,64,Philadelphia 76ers,1,97,99
+64,regular,UTA,2000,67,65,New Jersey Nets,1,92,88
+65,regular,UTA,2000,68,66,Denver Nuggets,0,96,83
+66,regular,UTA,2000,69,67,Seattle SuperSonics,1,98,95
+67,regular,UTA,2000,70,68,Vancouver Grizzlies,1,84,75
+68,regular,UTA,2000,71,69,Dallas Mavericks,0,105,113
+69,regular,UTA,2000,72,70,Philadelphia 76ers,0,98,84
+70,regular,UTA,2000,73,71,Golden State Warriors,0,114,97
+71,regular,UTA,2000,74,72,Denver Nuggets,1,92,112
+72,regular,UTA,2000,75,73,Los Angeles Clippers,1,103,93
+73,regular,UTA,2000,76,74,Phoenix Suns,0,105,85
+74,regular,UTA,2000,77,75,Golden State Warriors,1,105,84
+75,regular,UTA,2000,78,76,Houston Rockets,1,90,99
+76,regular,UTA,2000,79,77,Portland Trail Blazers,0,86,90
+77,regular,UTA,2000,80,78,Los Angeles Clippers,0,102,93
+78,regular,UTA,2000,81,79,San Antonio Spurs,1,83,106
+79,regular,UTA,2000,82,80,Phoenix Suns,1,96,82
+80,regular,UTA,2000,84,81,Denver Nuggets,1,104,105
+81,regular,UTA,2000,85,82,Sacramento Kings,0,95,86
+0,playoff,UTA,2001,0,1,Dallas Mavericks,0,88,86
+1,playoff,UTA,2001,1,2,Dallas Mavericks,0,109,98
+2,playoff,UTA,2001,2,3,Dallas Mavericks,1,91,94
+3,playoff,UTA,2001,3,4,Dallas Mavericks,1,77,107
+4,playoff,UTA,2001,4,5,Dallas Mavericks,0,83,84
+0,regular,UTA,2001,0,1,Los Angeles Clippers,0,107,94
+1,regular,UTA,2001,1,2,Los Angeles Lakers,1,97,92
+2,regular,UTA,2001,2,3,Dallas Mavericks,1,112,106
+3,regular,UTA,2001,3,4,Minnesota Timberwolves,0,98,92
+4,regular,UTA,2001,4,5,Los Angeles Clippers,1,93,87
+5,regular,UTA,2001,5,6,Miami Heat,0,80,87
+6,regular,UTA,2001,6,7,San Antonio Spurs,1,79,86
+7,regular,UTA,2001,7,8,Orlando Magic,0,99,84
+8,regular,UTA,2001,8,9,Chicago Bulls,0,109,64
+9,regular,UTA,2001,9,10,Dallas Mavericks,0,98,107
+10,regular,UTA,2001,10,11,Denver Nuggets,0,116,78
+11,regular,UTA,2001,11,12,New Jersey Nets,0,97,85
+12,regular,UTA,2001,12,13,Detroit Pistons,1,94,79
+13,regular,UTA,2001,13,14,New Jersey Nets,1,98,92
+14,regular,UTA,2001,14,15,Orlando Magic,1,88,86
+15,regular,UTA,2001,15,16,Miami Heat,1,94,92
+16,regular,UTA,2001,16,17,Charlotte Hornets,1,89,94
+17,regular,UTA,2001,17,18,Toronto Raptors,0,98,84
+18,regular,UTA,2001,18,19,Vancouver Grizzlies,0,98,87
+19,regular,UTA,2001,19,20,Golden State Warriors,0,125,114
+20,regular,UTA,2001,21,21,San Antonio Spurs,0,83,91
+21,regular,UTA,2001,22,22,Milwaukee Bucks,0,102,111
+22,regular,UTA,2001,23,23,New York Knicks,1,89,58
+23,regular,UTA,2001,24,24,Cleveland Cavaliers,1,92,99
+24,regular,UTA,2001,25,25,Toronto Raptors,1,95,103
+25,regular,UTA,2001,26,26,Philadelphia 76ers,1,91,89
+26,regular,UTA,2001,27,27,Indiana Pacers,1,109,101
+27,regular,UTA,2001,28,28,Minnesota Timberwolves,1,98,92
+28,regular,UTA,2001,29,29,Philadelphia 76ers,0,91,97
+29,regular,UTA,2001,30,30,Portland Trail Blazers,0,102,103
+30,regular,UTA,2001,31,31,Golden State Warriors,1,89,100
+31,regular,UTA,2001,32,32,Los Angeles Lakers,1,71,82
+32,regular,UTA,2001,33,33,Denver Nuggets,1,87,100
+33,regular,UTA,2001,34,34,Houston Rockets,1,99,97
+34,regular,UTA,2001,35,35,Indiana Pacers,0,103,99
+35,regular,UTA,2001,36,36,Los Angeles Lakers,0,111,103
+36,regular,UTA,2001,37,37,Houston Rockets,0,116,104
+37,regular,UTA,2001,38,38,Minnesota Timberwolves,0,81,89
+38,regular,UTA,2001,39,39,Phoenix Suns,0,109,98
+39,regular,UTA,2001,40,40,Golden State Warriors,0,100,78
+40,regular,UTA,2001,42,41,Denver Nuggets,0,98,96
+41,regular,UTA,2001,43,42,San Antonio Spurs,0,86,99
+42,regular,UTA,2001,44,43,Denver Nuggets,1,97,91
+43,regular,UTA,2001,45,44,Seattle SuperSonics,1,102,88
+44,regular,UTA,2001,46,45,Charlotte Hornets,0,87,76
+45,regular,UTA,2001,47,46,Seattle SuperSonics,0,111,91
+46,regular,UTA,2001,48,47,Vancouver Grizzlies,1,92,82
+47,regular,UTA,2001,49,48,Sacramento Kings,0,94,97
+48,regular,UTA,2001,50,49,New York Knicks,0,106,90
+49,regular,UTA,2001,51,50,Sacramento Kings,1,94,90
+50,regular,UTA,2001,52,51,Boston Celtics,0,114,99
+51,regular,UTA,2001,53,52,Portland Trail Blazers,1,90,84
+52,regular,UTA,2001,54,53,Seattle SuperSonics,1,96,84
+53,regular,UTA,2001,55,54,Phoenix Suns,1,80,90
+54,regular,UTA,2001,56,55,Atlanta Hawks,0,99,82
+55,regular,UTA,2001,57,56,Vancouver Grizzlies,0,101,83
+56,regular,UTA,2001,58,57,Boston Celtics,1,99,103
+57,regular,UTA,2001,59,58,Washington Wizards,1,118,98
+58,regular,UTA,2001,60,59,Atlanta Hawks,1,109,102
+59,regular,UTA,2001,61,60,Seattle SuperSonics,0,86,82
+60,regular,UTA,2001,63,61,Phoenix Suns,0,107,95
+61,regular,UTA,2001,64,62,Sacramento Kings,1,90,105
+62,regular,UTA,2001,65,63,Golden State Warriors,1,102,83
+63,regular,UTA,2001,66,64,Portland Trail Blazers,1,87,90
+64,regular,UTA,2001,67,65,Los Angeles Clippers,1,111,96
+65,regular,UTA,2001,68,66,Detroit Pistons,0,84,79
+66,regular,UTA,2001,69,67,Portland Trail Blazers,0,99,101
+67,regular,UTA,2001,70,68,Washington Wizards,0,119,93
+68,regular,UTA,2001,71,69,Dallas Mavericks,0,90,98
+69,regular,UTA,2001,72,70,Houston Rockets,1,86,109
+70,regular,UTA,2001,73,71,San Antonio Spurs,1,88,106
+71,regular,UTA,2001,74,72,Cleveland Cavaliers,0,95,88
+72,regular,UTA,2001,75,73,Vancouver Grizzlies,1,92,73
+73,regular,UTA,2001,76,74,Los Angeles Lakers,0,88,96
+74,regular,UTA,2001,77,75,Sacramento Kings,0,86,92
+75,regular,UTA,2001,78,76,Dallas Mavericks,1,116,103
+76,regular,UTA,2001,79,77,Houston Rockets,0,96,81
+77,regular,UTA,2001,80,78,Milwaukee Bucks,1,93,115
+78,regular,UTA,2001,81,79,Chicago Bulls,1,94,83
+79,regular,UTA,2001,82,80,Minnesota Timberwolves,1,100,107
+80,regular,UTA,2001,84,81,Los Angeles Clippers,0,97,92
+81,regular,UTA,2001,85,82,Phoenix Suns,1,93,98
+0,playoff,UTA,2002,0,1,Sacramento Kings,1,86,89
+1,playoff,UTA,2002,1,2,Sacramento Kings,1,93,86
+2,playoff,UTA,2002,2,3,Sacramento Kings,0,87,90
+3,playoff,UTA,2002,3,4,Sacramento Kings,0,86,91
+0,regular,UTA,2002,0,1,Milwaukee Bucks,0,112,119
+1,regular,UTA,2002,1,2,Los Angeles Lakers,0,101,105
+2,regular,UTA,2002,2,3,Seattle SuperSonics,1,91,74
+3,regular,UTA,2002,3,4,Los Angeles Lakers,1,96,100
+4,regular,UTA,2002,4,5,Portland Trail Blazers,1,83,101
+5,regular,UTA,2002,5,6,Atlanta Hawks,0,96,89
+6,regular,UTA,2002,6,7,Toronto Raptors,0,96,117
+7,regular,UTA,2002,7,8,Orlando Magic,0,105,98
+8,regular,UTA,2002,8,9,Atlanta Hawks,1,79,111
+9,regular,UTA,2002,9,10,Washington Wizards,1,101,92
+10,regular,UTA,2002,10,11,Milwaukee Bucks,1,93,104
+11,regular,UTA,2002,11,12,New Jersey Nets,0,89,90
+12,regular,UTA,2002,12,13,Los Angeles Clippers,0,106,101
+13,regular,UTA,2002,13,14,Phoenix Suns,0,104,111
+14,regular,UTA,2002,14,15,Seattle SuperSonics,0,112,88
+15,regular,UTA,2002,15,16,Phoenix Suns,1,76,98
+16,regular,UTA,2002,16,17,Indiana Pacers,0,97,100
+17,regular,UTA,2002,17,18,Charlotte Hornets,0,104,100
+18,regular,UTA,2002,18,19,Los Angeles Clippers,1,102,86
+19,regular,UTA,2002,19,20,Golden State Warriors,0,111,101
+20,regular,UTA,2002,21,21,Dallas Mavericks,0,107,98
+21,regular,UTA,2002,22,22,Minnesota Timberwolves,0,87,98
+22,regular,UTA,2002,23,23,Portland Trail Blazers,0,93,85
+23,regular,UTA,2002,24,24,San Antonio Spurs,1,80,100
+24,regular,UTA,2002,25,25,Miami Heat,1,95,56
+25,regular,UTA,2002,26,26,Orlando Magic,1,90,98
+26,regular,UTA,2002,27,27,Boston Celtics,1,92,98
+27,regular,UTA,2002,28,28,New Jersey Nets,1,104,90
+28,regular,UTA,2002,29,29,Boston Celtics,0,99,86
+29,regular,UTA,2002,30,30,Portland Trail Blazers,1,99,87
+30,regular,UTA,2002,31,31,Philadelphia 76ers,0,89,81
+31,regular,UTA,2002,32,32,Minnesota Timberwolves,1,86,93
+32,regular,UTA,2002,33,33,Chicago Bulls,1,113,111
+33,regular,UTA,2002,34,34,Phoenix Suns,0,98,84
+34,regular,UTA,2002,35,35,Houston Rockets,0,83,79
+35,regular,UTA,2002,36,36,Memphis Grizzlies,0,95,97
+36,regular,UTA,2002,37,37,Denver Nuggets,0,106,97
+37,regular,UTA,2002,38,38,Seattle SuperSonics,0,95,80
+38,regular,UTA,2002,39,39,San Antonio Spurs,1,98,102
+39,regular,UTA,2002,40,40,Dallas Mavericks,1,103,106
+40,regular,UTA,2002,42,41,Golden State Warriors,1,101,99
+41,regular,UTA,2002,43,42,San Antonio Spurs,0,92,98
+42,regular,UTA,2002,44,43,Sacramento Kings,1,80,113
+43,regular,UTA,2002,45,44,Sacramento Kings,0,90,114
+44,regular,UTA,2002,46,45,Miami Heat,0,101,89
+45,regular,UTA,2002,47,46,Chicago Bulls,0,90,78
+46,regular,UTA,2002,48,47,Portland Trail Blazers,0,97,96
+47,regular,UTA,2002,49,48,Houston Rockets,1,97,104
+48,regular,UTA,2002,50,49,Memphis Grizzlies,1,79,86
+49,regular,UTA,2002,51,50,Indiana Pacers,1,98,82
+50,regular,UTA,2002,52,51,Philadelphia 76ers,1,98,91
+51,regular,UTA,2002,53,52,Toronto Raptors,1,94,85
+52,regular,UTA,2002,54,53,New York Knicks,1,92,89
+53,regular,UTA,2002,55,54,Cleveland Cavaliers,1,103,92
+54,regular,UTA,2002,56,55,Denver Nuggets,1,110,99
+55,regular,UTA,2002,57,56,Sacramento Kings,1,81,107
+56,regular,UTA,2002,58,57,Memphis Grizzlies,0,114,70
+57,regular,UTA,2002,59,58,Minnesota Timberwolves,0,105,116
+58,regular,UTA,2002,60,59,Denver Nuggets,0,100,82
+59,regular,UTA,2002,61,60,Los Angeles Lakers,0,92,84
+60,regular,UTA,2002,63,61,New York Knicks,0,79,85
+61,regular,UTA,2002,64,62,Houston Rockets,1,92,95
+62,regular,UTA,2002,65,63,Memphis Grizzlies,1,78,79
+63,regular,UTA,2002,66,64,Charlotte Hornets,1,82,100
+64,regular,UTA,2002,67,65,Detroit Pistons,1,100,97
+65,regular,UTA,2002,68,66,Minnesota Timberwolves,1,96,89
+66,regular,UTA,2002,69,67,Detroit Pistons,0,87,94
+67,regular,UTA,2002,70,68,Washington Wizards,0,94,79
+68,regular,UTA,2002,71,69,Golden State Warriors,0,112,103
+69,regular,UTA,2002,72,70,Seattle SuperSonics,1,92,106
+70,regular,UTA,2002,73,71,Houston Rockets,0,109,105
+71,regular,UTA,2002,74,72,Cleveland Cavaliers,0,112,91
+72,regular,UTA,2002,75,73,Los Angeles Clippers,1,105,92
+73,regular,UTA,2002,76,74,Denver Nuggets,1,90,98
+74,regular,UTA,2002,77,75,Los Angeles Clippers,0,99,87
+75,regular,UTA,2002,78,76,Sacramento Kings,0,109,117
+76,regular,UTA,2002,79,77,Dallas Mavericks,0,96,105
+77,regular,UTA,2002,80,78,Los Angeles Lakers,1,82,112
+78,regular,UTA,2002,81,79,Phoenix Suns,1,97,96
+79,regular,UTA,2002,82,80,Golden State Warriors,1,109,101
+80,regular,UTA,2002,84,81,Dallas Mavericks,1,87,96
+81,regular,UTA,2002,85,82,San Antonio Spurs,0,84,86
+0,playoff,UTA,2003,0,1,Sacramento Kings,1,90,96
+1,playoff,UTA,2003,1,2,Sacramento Kings,1,95,108
+2,playoff,UTA,2003,2,3,Sacramento Kings,0,107,104
+3,playoff,UTA,2003,3,4,Sacramento Kings,0,82,99
+4,playoff,UTA,2003,4,5,Sacramento Kings,1,91,111
+0,regular,UTA,2003,0,1,New Orleans Hornets,1,75,100
+1,regular,UTA,2003,1,2,Atlanta Hawks,1,98,105
+2,regular,UTA,2003,2,3,Golden State Warriors,0,101,92
+3,regular,UTA,2003,3,4,Seattle SuperSonics,1,77,91
+4,regular,UTA,2003,4,5,Detroit Pistons,0,78,80
+5,regular,UTA,2003,5,6,Atlanta Hawks,0,110,97
+6,regular,UTA,2003,6,7,Boston Celtics,1,95,112
+7,regular,UTA,2003,7,8,New York Knicks,1,108,87
+8,regular,UTA,2003,8,9,Washington Wizards,1,102,105
+9,regular,UTA,2003,9,10,Detroit Pistons,1,75,86
+10,regular,UTA,2003,10,11,Toronto Raptors,1,82,78
+11,regular,UTA,2003,11,12,Phoenix Suns,0,99,76
+12,regular,UTA,2003,12,13,Denver Nuggets,1,96,79
+13,regular,UTA,2003,13,14,Chicago Bulls,0,110,90
+14,regular,UTA,2003,14,15,Los Angeles Clippers,1,99,94
+15,regular,UTA,2003,15,16,Minnesota Timberwolves,0,95,77
+16,regular,UTA,2003,16,17,San Antonio Spurs,1,85,107
+17,regular,UTA,2003,17,18,Indiana Pacers,0,102,91
+18,regular,UTA,2003,18,19,Los Angeles Lakers,0,93,85
+19,regular,UTA,2003,19,20,Memphis Grizzlies,0,104,71
+20,regular,UTA,2003,21,21,Los Angeles Lakers,1,101,110
+21,regular,UTA,2003,22,22,New Orleans Hornets,0,88,93
+22,regular,UTA,2003,23,23,Sacramento Kings,0,96,98
+23,regular,UTA,2003,24,24,Orlando Magic,0,90,97
+24,regular,UTA,2003,25,25,Dallas Mavericks,1,93,81
+25,regular,UTA,2003,26,26,Memphis Grizzlies,1,103,74
+26,regular,UTA,2003,27,27,Houston Rockets,1,96,91
+27,regular,UTA,2003,28,28,Portland Trail Blazers,1,98,103
+28,regular,UTA,2003,29,29,Philadelphia 76ers,0,98,69
+29,regular,UTA,2003,30,30,Toronto Raptors,0,107,85
+30,regular,UTA,2003,31,31,Milwaukee Bucks,1,118,115
+31,regular,UTA,2003,32,32,Minnesota Timberwolves,1,105,97
+32,regular,UTA,2003,33,33,Chicago Bulls,1,98,113
+33,regular,UTA,2003,34,34,Phoenix Suns,0,99,93
+34,regular,UTA,2003,35,35,Miami Heat,0,92,76
+35,regular,UTA,2003,36,36,Phoenix Suns,1,99,107
+36,regular,UTA,2003,37,37,Denver Nuggets,1,92,81
+37,regular,UTA,2003,38,38,Seattle SuperSonics,0,92,85
+38,regular,UTA,2003,39,39,Cleveland Cavaliers,0,95,78
+39,regular,UTA,2003,40,40,New Jersey Nets,0,106,103
+40,regular,UTA,2003,42,41,Los Angeles Clippers,0,89,96
+41,regular,UTA,2003,43,42,San Antonio Spurs,0,90,91
+42,regular,UTA,2003,44,43,Golden State Warriors,1,95,108
+43,regular,UTA,2003,45,44,Sacramento Kings,1,102,92
+44,regular,UTA,2003,46,45,Portland Trail Blazers,0,95,71
+45,regular,UTA,2003,47,46,Golden State Warriors,0,102,94
+46,regular,UTA,2003,48,47,Los Angeles Lakers,1,87,99
+47,regular,UTA,2003,49,48,Dallas Mavericks,0,90,92
+48,regular,UTA,2003,50,49,Memphis Grizzlies,0,105,84
+49,regular,UTA,2003,51,50,Houston Rockets,1,103,101
+50,regular,UTA,2003,52,51,Houston Rockets,0,76,106
+51,regular,UTA,2003,53,52,Washington Wizards,0,109,77
+52,regular,UTA,2003,54,53,Minnesota Timberwolves,0,109,97
+53,regular,UTA,2003,55,54,Los Angeles Lakers,0,87,93
+54,regular,UTA,2003,56,55,Denver Nuggets,0,99,89
+55,regular,UTA,2003,57,56,Memphis Grizzlies,1,92,103
+56,regular,UTA,2003,58,57,Minnesota Timberwolves,1,85,92
+57,regular,UTA,2003,59,58,Philadelphia 76ers,1,83,104
+58,regular,UTA,2003,60,59,New Jersey Nets,1,91,90
+59,regular,UTA,2003,61,60,Seattle SuperSonics,0,94,83
+60,regular,UTA,2003,63,61,Sacramento Kings,0,105,108
+61,regular,UTA,2003,64,62,Dallas Mavericks,1,77,101
+62,regular,UTA,2003,65,63,Miami Heat,1,83,73
+63,regular,UTA,2003,66,64,Orlando Magic,1,111,108
+64,regular,UTA,2003,67,65,Indiana Pacers,1,81,101
+65,regular,UTA,2003,68,66,Cleveland Cavaliers,1,95,122
+66,regular,UTA,2003,69,67,Denver Nuggets,0,99,81
+67,regular,UTA,2003,70,68,Phoenix Suns,1,99,86
+68,regular,UTA,2003,71,69,Los Angeles Clippers,0,88,73
+69,regular,UTA,2003,72,70,Boston Celtics,0,96,91
+70,regular,UTA,2003,73,71,Portland Trail Blazers,0,94,85
+71,regular,UTA,2003,74,72,Milwaukee Bucks,0,103,90
+72,regular,UTA,2003,75,73,San Antonio Spurs,1,81,101
+73,regular,UTA,2003,76,74,Los Angeles Clippers,1,94,89
+74,regular,UTA,2003,77,75,Portland Trail Blazers,1,93,88
+75,regular,UTA,2003,78,76,New York Knicks,0,92,94
+76,regular,UTA,2003,79,77,Seattle SuperSonics,1,80,82
+77,regular,UTA,2003,80,78,Golden State Warriors,1,102,128
+78,regular,UTA,2003,81,79,Houston Rockets,0,94,73
+79,regular,UTA,2003,82,80,Dallas Mavericks,0,95,92
+80,regular,UTA,2003,84,81,San Antonio Spurs,0,83,91
+81,regular,UTA,2003,85,82,Sacramento Kings,1,84,95
+0,regular,UTA,2004,0,1,Portland Trail Blazers,0,99,92
+1,regular,UTA,2004,1,2,Dallas Mavericks,1,102,127
+2,regular,UTA,2004,2,3,Minnesota Timberwolves,0,93,88
+3,regular,UTA,2004,3,4,Phoenix Suns,0,91,80
+4,regular,UTA,2004,4,5,Golden State Warriors,1,89,95
+5,regular,UTA,2004,5,6,Memphis Grizzlies,0,96,89
+6,regular,UTA,2004,6,7,San Antonio Spurs,1,78,87
+7,regular,UTA,2004,7,8,New Orleans Hornets,1,89,96
+8,regular,UTA,2004,8,9,Minnesota Timberwolves,1,85,77
+9,regular,UTA,2004,9,10,Milwaukee Bucks,1,95,100
+10,regular,UTA,2004,10,11,Orlando Magic,0,90,88
+11,regular,UTA,2004,11,12,Sacramento Kings,0,110,118
+12,regular,UTA,2004,12,13,Milwaukee Bucks,0,99,90
+13,regular,UTA,2004,13,14,Houston Rockets,0,83,76
+14,regular,UTA,2004,14,15,Seattle SuperSonics,0,98,81
+15,regular,UTA,2004,15,16,New Jersey Nets,0,91,84
+16,regular,UTA,2004,16,17,Houston Rockets,1,101,107
+17,regular,UTA,2004,17,18,Los Angeles Clippers,0,86,67
+18,regular,UTA,2004,18,19,Los Angeles Lakers,1,92,94
+19,regular,UTA,2004,19,20,Boston Celtics,0,80,102
+20,regular,UTA,2004,21,21,New York Knicks,0,95,73
+21,regular,UTA,2004,22,22,Sacramento Kings,0,93,100
+22,regular,UTA,2004,23,23,Philadelphia 76ers,1,94,86
+23,regular,UTA,2004,24,24,Washington Wizards,1,87,91
+24,regular,UTA,2004,25,25,New Jersey Nets,1,74,87
+25,regular,UTA,2004,26,26,Boston Celtics,1,99,96
+26,regular,UTA,2004,27,27,Detroit Pistons,1,75,96
+27,regular,UTA,2004,28,28,Chicago Bulls,1,92,80
+28,regular,UTA,2004,29,29,Toronto Raptors,0,97,94
+29,regular,UTA,2004,30,30,Sacramento Kings,1,89,98
+30,regular,UTA,2004,31,31,Philadelphia 76ers,0,106,97
+31,regular,UTA,2004,32,32,Memphis Grizzlies,1,88,100
+32,regular,UTA,2004,33,33,Houston Rockets,1,63,84
+33,regular,UTA,2004,34,34,Dallas Mavericks,0,108,94
+34,regular,UTA,2004,35,35,Denver Nuggets,1,96,106
+35,regular,UTA,2004,36,36,Atlanta Hawks,0,92,71
+36,regular,UTA,2004,37,37,Golden State Warriors,0,97,80
+37,regular,UTA,2004,38,38,Miami Heat,0,97,85
+38,regular,UTA,2004,39,39,Cleveland Cavaliers,0,96,102
+39,regular,UTA,2004,40,40,Golden State Warriors,1,85,101
+40,regular,UTA,2004,42,41,Denver Nuggets,0,75,96
+41,regular,UTA,2004,43,42,Los Angeles Clippers,1,82,93
+42,regular,UTA,2004,44,43,Los Angeles Lakers,0,86,93
+43,regular,UTA,2004,45,44,Los Angeles Clippers,0,98,93
+44,regular,UTA,2004,46,45,Dallas Mavericks,0,91,88
+45,regular,UTA,2004,47,46,Memphis Grizzlies,1,85,79
+46,regular,UTA,2004,48,47,San Antonio Spurs,1,81,85
+47,regular,UTA,2004,49,48,San Antonio Spurs,0,65,83
+48,regular,UTA,2004,50,49,Chicago Bulls,0,79,95
+49,regular,UTA,2004,51,50,Portland Trail Blazers,0,73,87
+50,regular,UTA,2004,52,51,Phoenix Suns,1,96,92
+51,regular,UTA,2004,53,52,Portland Trail Blazers,1,86,81
+52,regular,UTA,2004,54,53,Minnesota Timberwolves,0,66,77
+53,regular,UTA,2004,55,54,Miami Heat,1,85,97
+54,regular,UTA,2004,56,55,Orlando Magic,1,77,90
+55,regular,UTA,2004,57,56,New York Knicks,1,92,78
+56,regular,UTA,2004,58,57,Indiana Pacers,1,80,94
+57,regular,UTA,2004,59,58,Seattle SuperSonics,0,99,86
+58,regular,UTA,2004,60,59,Seattle SuperSonics,1,93,92
+59,regular,UTA,2004,61,60,Sacramento Kings,1,102,97
+60,regular,UTA,2004,63,61,Detroit Pistons,0,94,86
+61,regular,UTA,2004,64,62,Indiana Pacers,0,88,96
+62,regular,UTA,2004,65,63,Portland Trail Blazers,1,70,91
+63,regular,UTA,2004,66,64,Los Angeles Lakers,0,88,83
+64,regular,UTA,2004,67,65,Golden State Warriors,0,91,77
+65,regular,UTA,2004,68,66,Phoenix Suns,1,99,90
+66,regular,UTA,2004,69,67,Denver Nuggets,1,75,102
+67,regular,UTA,2004,70,68,Toronto Raptors,1,81,85
+68,regular,UTA,2004,71,69,Cleveland Cavaliers,1,97,88
+69,regular,UTA,2004,72,70,Atlanta Hawks,1,87,81
+70,regular,UTA,2004,73,71,Washington Wizards,0,85,77
+71,regular,UTA,2004,74,72,Seattle SuperSonics,1,77,84
+72,regular,UTA,2004,75,73,Denver Nuggets,0,85,83
+73,regular,UTA,2004,76,74,Los Angeles Lakers,1,84,91
+74,regular,UTA,2004,77,75,New Orleans Hornets,0,89,76
+75,regular,UTA,2004,78,76,San Antonio Spurs,0,81,94
+76,regular,UTA,2004,79,77,Los Angeles Clippers,1,97,92
+77,regular,UTA,2004,80,78,Memphis Grizzlies,0,92,81
+78,regular,UTA,2004,81,79,Dallas Mavericks,1,94,117
+79,regular,UTA,2004,82,80,Houston Rockets,0,82,69
+80,regular,UTA,2004,84,81,Minnesota Timberwolves,1,90,104
+81,regular,UTA,2004,85,82,Phoenix Suns,0,84,89
+0,regular,UTA,2005,0,1,Los Angeles Lakers,0,104,78
+1,regular,UTA,2005,1,2,Golden State Warriors,1,102,80
+2,regular,UTA,2005,2,3,Denver Nuggets,1,106,82
+3,regular,UTA,2005,3,4,Denver Nuggets,0,102,91
+4,regular,UTA,2005,4,5,Toronto Raptors,0,95,104
+5,regular,UTA,2005,5,6,Detroit Pistons,0,108,93
+6,regular,UTA,2005,6,7,Charlotte Bobcats,1,107,105
+7,regular,UTA,2005,7,8,Orlando Magic,1,92,107
+8,regular,UTA,2005,8,9,Miami Heat,1,105,107
+9,regular,UTA,2005,9,10,Atlanta Hawks,1,92,79
+10,regular,UTA,2005,10,11,New Orleans Hornets,0,75,76
+11,regular,UTA,2005,11,12,Chicago Bulls,0,99,101
+12,regular,UTA,2005,12,13,Houston Rockets,0,90,80
+13,regular,UTA,2005,13,14,San Antonio Spurs,1,76,109
+14,regular,UTA,2005,14,15,Phoenix Suns,0,102,115
+15,regular,UTA,2005,15,16,Seattle SuperSonics,1,119,129
+16,regular,UTA,2005,16,17,Dallas Mavericks,1,86,109
+17,regular,UTA,2005,17,18,Miami Heat,0,80,100
+18,regular,UTA,2005,18,19,Orlando Magic,0,100,106
+19,regular,UTA,2005,19,20,Portland Trail Blazers,0,92,87
+20,regular,UTA,2005,21,21,Portland Trail Blazers,1,88,98
+21,regular,UTA,2005,22,22,Los Angeles Clippers,0,93,91
+22,regular,UTA,2005,23,23,Phoenix Suns,1,86,108
+23,regular,UTA,2005,24,24,Boston Celtics,1,106,114
+24,regular,UTA,2005,25,25,New York Knicks,1,93,94
+25,regular,UTA,2005,26,26,Philadelphia 76ers,1,103,101
+26,regular,UTA,2005,27,27,Toronto Raptors,1,86,98
+27,regular,UTA,2005,28,28,Seattle SuperSonics,0,88,98
+28,regular,UTA,2005,29,29,Los Angeles Clippers,1,90,101
+29,regular,UTA,2005,30,30,Sacramento Kings,0,102,109
+30,regular,UTA,2005,31,31,Houston Rockets,1,80,99
+31,regular,UTA,2005,32,32,Memphis Grizzlies,1,82,92
+32,regular,UTA,2005,33,33,Philadelphia 76ers,0,99,106
+33,regular,UTA,2005,34,34,Chicago Bulls,1,78,84
+34,regular,UTA,2005,35,35,Milwaukee Bucks,1,86,89
+35,regular,UTA,2005,36,36,San Antonio Spurs,0,97,96
+36,regular,UTA,2005,37,37,Phoenix Suns,0,115,108
+37,regular,UTA,2005,38,38,Sacramento Kings,1,93,107
+38,regular,UTA,2005,39,39,Cleveland Cavaliers,0,71,84
+39,regular,UTA,2005,40,40,Los Angeles Lakers,1,102,94
+40,regular,UTA,2005,42,41,Memphis Grizzlies,0,94,110
+41,regular,UTA,2005,43,42,Seattle SuperSonics,1,105,122
+42,regular,UTA,2005,44,43,Seattle SuperSonics,0,109,100
+43,regular,UTA,2005,45,44,Minnesota Timberwolves,1,91,93
+44,regular,UTA,2005,46,45,New Jersey Nets,0,82,99
+45,regular,UTA,2005,47,46,Charlotte Bobcats,0,105,109
+46,regular,UTA,2005,48,47,New Orleans Hornets,0,108,92
+47,regular,UTA,2005,49,48,New York Knicks,0,99,102
+48,regular,UTA,2005,50,49,Denver Nuggets,1,87,97
+49,regular,UTA,2005,51,50,Minnesota Timberwolves,0,100,82
+50,regular,UTA,2005,52,51,Phoenix Suns,1,128,136
+51,regular,UTA,2005,53,52,Los Angeles Lakers,1,95,102
+52,regular,UTA,2005,54,53,Dallas Mavericks,0,83,101
+53,regular,UTA,2005,55,54,Boston Celtics,0,102,109
+54,regular,UTA,2005,56,55,Houston Rockets,1,99,92
+55,regular,UTA,2005,57,56,Los Angeles Clippers,0,87,86
+56,regular,UTA,2005,58,57,Atlanta Hawks,0,96,74
+57,regular,UTA,2005,59,58,New Orleans Hornets,1,85,92
+58,regular,UTA,2005,60,59,San Antonio Spurs,1,94,101
+59,regular,UTA,2005,61,60,Indiana Pacers,0,83,89
+60,regular,UTA,2005,63,61,Memphis Grizzlies,0,82,94
+61,regular,UTA,2005,64,62,Detroit Pistons,1,62,64
+62,regular,UTA,2005,65,63,Cleveland Cavaliers,1,73,92
+63,regular,UTA,2005,66,64,Indiana Pacers,1,84,103
+64,regular,UTA,2005,67,65,New Jersey Nets,1,80,94
+65,regular,UTA,2005,68,66,Washington Wizards,1,95,96
+66,regular,UTA,2005,69,67,Los Angeles Lakers,0,115,107
+67,regular,UTA,2005,70,68,Washington Wizards,0,84,85
+68,regular,UTA,2005,71,69,Milwaukee Bucks,0,94,89
+69,regular,UTA,2005,72,70,Houston Rockets,0,85,99
+70,regular,UTA,2005,73,71,Denver Nuggets,0,98,109
+71,regular,UTA,2005,74,72,Golden State Warriors,0,91,108
+72,regular,UTA,2005,75,73,Portland Trail Blazers,0,90,79
+73,regular,UTA,2005,76,74,Minnesota Timberwolves,1,86,111
+74,regular,UTA,2005,77,75,New Orleans Hornets,1,98,87
+75,regular,UTA,2005,78,76,Dallas Mavericks,1,81,88
+76,regular,UTA,2005,79,77,Los Angeles Clippers,1,85,94
+77,regular,UTA,2005,80,78,San Antonio Spurs,0,93,91
+78,regular,UTA,2005,81,79,Minnesota Timberwolves,0,84,100
+79,regular,UTA,2005,82,80,Portland Trail Blazers,1,82,100
+80,regular,UTA,2005,84,81,Sacramento Kings,0,92,82
+81,regular,UTA,2005,85,82,Golden State Warriors,1,89,106
+0,regular,UTA,2006,0,1,Dallas Mavericks,0,93,82
+1,regular,UTA,2006,1,2,Golden State Warriors,1,91,85
+2,regular,UTA,2006,2,3,Phoenix Suns,0,88,97
+3,regular,UTA,2006,3,4,Charlotte Bobcats,1,95,91
+4,regular,UTA,2006,4,5,New Jersey Nets,1,83,91
+5,regular,UTA,2006,5,6,Toronto Raptors,1,99,84
+6,regular,UTA,2006,6,7,Chicago Bulls,1,98,103
+7,regular,UTA,2006,7,8,New York Knicks,0,62,73
+8,regular,UTA,2006,8,9,Sacramento Kings,1,83,119
+9,regular,UTA,2006,9,10,Phoenix Suns,1,94,102
+10,regular,UTA,2006,10,11,Memphis Grizzlies,0,72,80
+11,regular,UTA,2006,11,12,Milwaukee Bucks,0,100,80
+12,regular,UTA,2006,12,13,Seattle SuperSonics,1,93,87
+13,regular,UTA,2006,13,14,Golden State Warriors,0,90,94
+14,regular,UTA,2006,14,15,Indiana Pacers,0,60,84
+15,regular,UTA,2006,15,16,Los Angeles Lakers,0,101,105
+16,regular,UTA,2006,16,17,Portland Trail Blazers,1,98,93
+17,regular,UTA,2006,17,18,Minnesota Timberwolves,0,77,91
+18,regular,UTA,2006,18,19,Atlanta Hawks,0,95,83
+19,regular,UTA,2006,19,20,Seattle SuperSonics,0,90,106
+20,regular,UTA,2006,21,21,Detroit Pistons,0,92,78
+21,regular,UTA,2006,22,22,Portland Trail Blazers,0,82,77
+22,regular,UTA,2006,23,23,Indiana Pacers,1,83,93
+23,regular,UTA,2006,24,24,Milwaukee Bucks,1,88,80
+24,regular,UTA,2006,25,25,Cleveland Cavaliers,1,85,110
+25,regular,UTA,2006,26,26,Boston Celtics,1,89,101
+26,regular,UTA,2006,27,27,New York Knicks,1,90,98
+27,regular,UTA,2006,28,28,Memphis Grizzlies,0,105,102
+28,regular,UTA,2006,29,29,Houston Rockets,1,82,74
+29,regular,UTA,2006,30,30,Philadelphia 76ers,0,108,102
+30,regular,UTA,2006,31,31,Los Angeles Lakers,1,98,94
+31,regular,UTA,2006,32,32,Los Angeles Lakers,0,90,80
+32,regular,UTA,2006,33,33,Memphis Grizzlies,1,65,87
+33,regular,UTA,2006,34,34,Detroit Pistons,1,94,90
+34,regular,UTA,2006,35,35,Washington Wizards,1,97,89
+35,regular,UTA,2006,36,36,Philadelphia 76ers,1,110,102
+36,regular,UTA,2006,37,37,Miami Heat,0,94,100
+37,regular,UTA,2006,38,38,Los Angeles Clippers,1,93,102
+38,regular,UTA,2006,39,39,Toronto Raptors,0,111,98
+39,regular,UTA,2006,40,40,Denver Nuggets,1,83,113
+40,regular,UTA,2006,42,41,Cleveland Cavaliers,0,90,108
+41,regular,UTA,2006,43,42,New Jersey Nets,0,89,78
+42,regular,UTA,2006,44,43,Seattle SuperSonics,0,94,113
+43,regular,UTA,2006,45,44,Dallas Mavericks,1,89,103
+44,regular,UTA,2006,46,45,San Antonio Spurs,0,70,79
+45,regular,UTA,2006,47,46,Denver Nuggets,0,103,90
+46,regular,UTA,2006,48,47,Sacramento Kings,0,89,79
+47,regular,UTA,2006,49,48,Sacramento Kings,1,78,96
+48,regular,UTA,2006,50,49,Chicago Bulls,0,109,107
+49,regular,UTA,2006,51,50,Minnesota Timberwolves,1,94,80
+50,regular,UTA,2006,52,51,Houston Rockets,1,88,102
+51,regular,UTA,2006,53,52,Los Angeles Lakers,1,88,94
+52,regular,UTA,2006,54,53,Boston Celtics,0,83,103
+53,regular,UTA,2006,55,54,New Orleans/Oklahoma City Hornets,1,82,76
+54,regular,UTA,2006,56,55,New Orleans/Oklahoma City Hornets,0,95,100
+55,regular,UTA,2006,57,56,Golden State Warriors,1,117,108
+56,regular,UTA,2006,58,57,Charlotte Bobcats,0,89,104
+57,regular,UTA,2006,59,58,Los Angeles Clippers,0,105,103
+58,regular,UTA,2006,60,59,Seattle SuperSonics,1,81,113
+59,regular,UTA,2006,61,60,Orlando Magic,0,90,85
+60,regular,UTA,2006,63,61,Minnesota Timberwolves,0,96,93
+61,regular,UTA,2006,64,62,Dallas Mavericks,0,87,90
+62,regular,UTA,2006,65,63,Miami Heat,1,83,121
+63,regular,UTA,2006,66,64,Orlando Magic,1,108,114
+64,regular,UTA,2006,67,65,Atlanta Hawks,1,111,101
+65,regular,UTA,2006,68,66,Memphis Grizzlies,1,84,90
+66,regular,UTA,2006,69,67,Phoenix Suns,0,107,99
+67,regular,UTA,2006,70,68,Washington Wizards,0,97,109
+68,regular,UTA,2006,71,69,Sacramento Kings,0,89,91
+69,regular,UTA,2006,72,70,New Orleans/Oklahoma City Hornets,0,104,80
+70,regular,UTA,2006,73,71,Denver Nuggets,1,115,104
+71,regular,UTA,2006,74,72,Los Angeles Clippers,1,91,106
+72,regular,UTA,2006,75,73,Portland Trail Blazers,1,102,89
+73,regular,UTA,2006,76,74,San Antonio Spurs,0,86,95
+74,regular,UTA,2006,77,75,Minnesota Timberwolves,1,103,95
+75,regular,UTA,2006,78,76,Portland Trail Blazers,0,110,93
+76,regular,UTA,2006,79,77,Houston Rockets,0,85,83
+77,regular,UTA,2006,80,78,Denver Nuggets,0,104,83
+78,regular,UTA,2006,81,79,New Orleans/Oklahoma City Hornets,1,105,104
+79,regular,UTA,2006,82,80,Dallas Mavericks,1,95,111
+80,regular,UTA,2006,84,81,San Antonio Spurs,1,82,115
+81,regular,UTA,2006,85,82,Golden State Warriors,0,105,102
+0,playoff,UTA,2007,0,1,Houston Rockets,1,75,84
+1,playoff,UTA,2007,1,2,Houston Rockets,1,90,98
+2,playoff,UTA,2007,2,3,Houston Rockets,0,81,67
+3,playoff,UTA,2007,3,4,Houston Rockets,0,98,85
+4,playoff,UTA,2007,4,5,Houston Rockets,1,92,96
+5,playoff,UTA,2007,5,6,Houston Rockets,0,94,82
+6,playoff,UTA,2007,6,7,Houston Rockets,1,103,99
+7,playoff,UTA,2007,8,8,Golden State Warriors,0,116,112
+8,playoff,UTA,2007,9,9,Golden State Warriors,0,127,117
+9,playoff,UTA,2007,10,10,Golden State Warriors,1,105,125
+10,playoff,UTA,2007,11,11,Golden State Warriors,1,115,101
+11,playoff,UTA,2007,12,12,Golden State Warriors,0,100,87
+12,playoff,UTA,2007,14,13,San Antonio Spurs,1,100,108
+13,playoff,UTA,2007,15,14,San Antonio Spurs,1,96,105
+14,playoff,UTA,2007,16,15,San Antonio Spurs,0,109,83
+15,playoff,UTA,2007,17,16,San Antonio Spurs,0,79,91
+16,playoff,UTA,2007,18,17,San Antonio Spurs,1,84,109
+0,regular,UTA,2007,0,1,Houston Rockets,0,107,97
+1,regular,UTA,2007,1,2,Phoenix Suns,1,108,104
+2,regular,UTA,2007,2,3,Golden State Warriors,0,106,82
+3,regular,UTA,2007,3,4,Detroit Pistons,0,103,101
+4,regular,UTA,2007,4,5,New Jersey Nets,1,89,96
+5,regular,UTA,2007,5,6,Boston Celtics,1,107,100
+6,regular,UTA,2007,6,7,Milwaukee Bucks,1,113,111
+7,regular,UTA,2007,7,8,Los Angeles Clippers,0,112,90
+8,regular,UTA,2007,8,9,Seattle SuperSonics,1,118,109
+9,regular,UTA,2007,9,10,Phoenix Suns,0,120,117
+10,regular,UTA,2007,10,11,Toronto Raptors,0,101,96
+11,regular,UTA,2007,11,12,Sacramento Kings,1,110,101
+12,regular,UTA,2007,12,13,Los Angeles Lakers,0,114,108
+13,regular,UTA,2007,13,14,Golden State Warriors,1,78,91
+14,regular,UTA,2007,14,15,Orlando Magic,0,75,88
+15,regular,UTA,2007,15,16,San Antonio Spurs,0,83,75
+16,regular,UTA,2007,16,17,Los Angeles Lakers,1,102,132
+17,regular,UTA,2007,17,18,Seattle SuperSonics,0,109,107
+18,regular,UTA,2007,18,19,Milwaukee Bucks,0,101,88
+19,regular,UTA,2007,19,20,Minnesota Timberwolves,1,103,110
+20,regular,UTA,2007,21,21,Dallas Mavericks,0,101,79
+21,regular,UTA,2007,22,22,Los Angeles Clippers,1,105,86
+22,regular,UTA,2007,23,23,Sacramento Kings,0,97,98
+23,regular,UTA,2007,24,24,Indiana Pacers,1,104,94
+24,regular,UTA,2007,25,25,New York Knicks,1,96,97
+25,regular,UTA,2007,26,26,Atlanta Hawks,1,112,106
+26,regular,UTA,2007,27,27,Charlotte Bobcats,1,89,101
+27,regular,UTA,2007,28,28,Memphis Grizzlies,1,100,97
+28,regular,UTA,2007,29,29,Los Angeles Clippers,0,102,92
+29,regular,UTA,2007,30,30,San Antonio Spurs,1,83,106
+30,regular,UTA,2007,31,31,Portland Trail Blazers,0,96,86
+31,regular,UTA,2007,32,32,Philadelphia 76ers,0,98,87
+32,regular,UTA,2007,33,33,Houston Rockets,1,86,100
+33,regular,UTA,2007,34,34,Denver Nuggets,1,96,84
+34,regular,UTA,2007,35,35,Dallas Mavericks,0,105,108
+35,regular,UTA,2007,36,36,Seattle SuperSonics,1,114,122
+36,regular,UTA,2007,37,37,Miami Heat,0,110,119
+37,regular,UTA,2007,38,38,Washington Wizards,1,111,114
+38,regular,UTA,2007,39,39,Detroit Pistons,1,100,99
+39,regular,UTA,2007,40,40,Toronto Raptors,1,102,94
+40,regular,UTA,2007,42,41,Chicago Bulls,1,95,85
+41,regular,UTA,2007,43,42,Minnesota Timberwolves,0,106,91
+42,regular,UTA,2007,44,43,Memphis Grizzlies,0,130,132
+43,regular,UTA,2007,45,44,Denver Nuggets,0,116,111
+44,regular,UTA,2007,46,45,New Orleans/Oklahoma City Hornets,1,83,94
+45,regular,UTA,2007,47,46,New Jersey Nets,0,115,116
+46,regular,UTA,2007,48,47,San Antonio Spurs,0,97,93
+47,regular,UTA,2007,49,48,Phoenix Suns,1,108,105
+48,regular,UTA,2007,50,49,Chicago Bulls,0,100,95
+49,regular,UTA,2007,51,50,New York Knicks,0,104,102
+50,regular,UTA,2007,52,51,Atlanta Hawks,0,102,76
+51,regular,UTA,2007,53,52,Cleveland Cavaliers,0,99,98
+52,regular,UTA,2007,54,53,Portland Trail Blazers,1,100,103
+53,regular,UTA,2007,55,54,Denver Nuggets,1,114,104
+54,regular,UTA,2007,56,55,Boston Celtics,0,105,87
+55,regular,UTA,2007,57,56,Los Angeles Lakers,0,94,102
+56,regular,UTA,2007,58,57,Memphis Grizzlies,1,104,88
+57,regular,UTA,2007,59,58,Minnesota Timberwolves,1,109,83
+58,regular,UTA,2007,60,59,New Orleans/Oklahoma City Hornets,1,108,94
+59,regular,UTA,2007,61,60,Charlotte Bobcats,0,120,95
+60,regular,UTA,2007,63,61,Indiana Pacers,0,94,72
+61,regular,UTA,2007,64,62,New Orleans/Oklahoma City Hornets,0,96,86
+62,regular,UTA,2007,65,63,Miami Heat,1,86,88
+63,regular,UTA,2007,66,64,Orlando Magic,1,90,101
+64,regular,UTA,2007,67,65,Philadelphia 76ers,1,88,89
+65,regular,UTA,2007,68,66,Cleveland Cavaliers,1,73,82
+66,regular,UTA,2007,69,67,Golden State Warriors,0,104,100
+67,regular,UTA,2007,70,68,Los Angeles Clippers,1,72,104
+68,regular,UTA,2007,71,69,Memphis Grizzlies,0,118,108
+69,regular,UTA,2007,72,70,Washington Wizards,0,103,97
+70,regular,UTA,2007,73,71,Minnesota Timberwolves,0,108,102
+71,regular,UTA,2007,74,72,San Antonio Spurs,1,93,102
+72,regular,UTA,2007,75,73,Houston Rockets,1,86,83
+73,regular,UTA,2007,76,74,Portland Trail Blazers,1,89,94
+74,regular,UTA,2007,77,75,Sacramento Kings,1,103,107
+75,regular,UTA,2007,78,76,Seattle SuperSonics,0,103,106
+76,regular,UTA,2007,79,77,Golden State Warriors,1,102,126
+77,regular,UTA,2007,80,78,Denver Nuggets,0,106,115
+78,regular,UTA,2007,81,79,Dallas Mavericks,1,104,89
+79,regular,UTA,2007,82,80,Phoenix Suns,0,98,126
+80,regular,UTA,2007,84,81,Portland Trail Blazers,0,130,93
+81,regular,UTA,2007,85,82,Houston Rockets,0,101,91
+0,playoff,UTA,2008,0,1,Houston Rockets,1,93,82
+1,playoff,UTA,2008,1,2,Houston Rockets,1,90,84
+2,playoff,UTA,2008,2,3,Houston Rockets,0,92,94
+3,playoff,UTA,2008,3,4,Houston Rockets,0,86,82
+4,playoff,UTA,2008,4,5,Houston Rockets,1,69,95
+5,playoff,UTA,2008,5,6,Houston Rockets,0,113,91
+6,playoff,UTA,2008,7,7,Los Angeles Lakers,1,98,109
+7,playoff,UTA,2008,8,8,Los Angeles Lakers,1,110,120
+8,playoff,UTA,2008,9,9,Los Angeles Lakers,0,104,99
+9,playoff,UTA,2008,10,10,Los Angeles Lakers,0,123,115
+10,playoff,UTA,2008,11,11,Los Angeles Lakers,1,104,111
+11,playoff,UTA,2008,12,12,Los Angeles Lakers,0,105,108
+0,regular,UTA,2008,0,1,Golden State Warriors,1,117,96
+1,regular,UTA,2008,1,2,Houston Rockets,0,95,106
+2,regular,UTA,2008,2,3,Golden State Warriors,0,133,110
+3,regular,UTA,2008,3,4,Los Angeles Lakers,1,109,119
+4,regular,UTA,2008,4,5,Cleveland Cavaliers,0,103,101
+5,regular,UTA,2008,5,6,Seattle SuperSonics,1,103,101
+6,regular,UTA,2008,6,7,Memphis Grizzlies,0,118,94
+7,regular,UTA,2008,7,8,Sacramento Kings,0,117,93
+8,regular,UTA,2008,8,9,Toronto Raptors,1,92,88
+9,regular,UTA,2008,9,10,Cleveland Cavaliers,1,94,99
+10,regular,UTA,2008,10,11,Indiana Pacers,1,97,117
+11,regular,UTA,2008,11,12,New Jersey Nets,0,102,75
+12,regular,UTA,2008,12,13,New Orleans Hornets,0,99,71
+13,regular,UTA,2008,13,14,Detroit Pistons,1,103,93
+14,regular,UTA,2008,14,15,New York Knicks,1,109,113
+15,regular,UTA,2008,15,16,Philadelphia 76ers,1,106,95
+16,regular,UTA,2008,16,17,Los Angeles Lakers,0,120,96
+17,regular,UTA,2008,17,18,Miami Heat,0,110,101
+18,regular,UTA,2008,18,19,Sacramento Kings,1,107,117
+19,regular,UTA,2008,19,20,San Antonio Spurs,1,98,104
+20,regular,UTA,2008,21,21,Dallas Mavericks,1,117,125
+21,regular,UTA,2008,22,22,Portland Trail Blazers,0,89,97
+22,regular,UTA,2008,23,23,Phoenix Suns,1,98,103
+23,regular,UTA,2008,24,24,Portland Trail Blazers,1,91,99
+24,regular,UTA,2008,25,25,Seattle SuperSonics,0,96,75
+25,regular,UTA,2008,26,26,Atlanta Hawks,1,111,116
+26,regular,UTA,2008,27,27,Charlotte Bobcats,1,92,98
+27,regular,UTA,2008,28,28,Orlando Magic,1,113,94
+28,regular,UTA,2008,29,29,Miami Heat,1,102,104
+29,regular,UTA,2008,30,30,Dallas Mavericks,0,99,90
+30,regular,UTA,2008,31,31,Los Angeles Lakers,1,109,123
+31,regular,UTA,2008,32,32,Boston Celtics,0,98,104
+32,regular,UTA,2008,33,33,Portland Trail Blazers,0,111,101
+33,regular,UTA,2008,34,34,Philadelphia 76ers,0,110,107
+34,regular,UTA,2008,35,35,Portland Trail Blazers,1,89,103
+35,regular,UTA,2008,36,36,Indiana Pacers,0,111,89
+36,regular,UTA,2008,37,37,Phoenix Suns,0,108,86
+37,regular,UTA,2008,38,38,Orlando Magic,0,119,115
+38,regular,UTA,2008,39,39,Milwaukee Bucks,0,98,87
+39,regular,UTA,2008,40,40,Denver Nuggets,1,109,120
+40,regular,UTA,2008,42,41,Los Angeles Clippers,0,106,88
+41,regular,UTA,2008,43,42,Los Angeles Clippers,1,109,93
+42,regular,UTA,2008,44,43,Sacramento Kings,0,127,113
+43,regular,UTA,2008,45,44,Houston Rockets,1,97,89
+44,regular,UTA,2008,46,45,San Antonio Spurs,0,97,91
+45,regular,UTA,2008,47,46,New York Knicks,0,100,89
+46,regular,UTA,2008,48,47,Washington Wizards,1,96,87
+47,regular,UTA,2008,49,48,Memphis Grizzlies,1,110,91
+48,regular,UTA,2008,50,49,New Orleans Hornets,0,110,88
+49,regular,UTA,2008,51,50,Denver Nuggets,1,118,115
+50,regular,UTA,2008,52,51,Sacramento Kings,1,104,117
+51,regular,UTA,2008,53,52,Chicago Bulls,0,97,87
+52,regular,UTA,2008,54,53,Seattle SuperSonics,1,112,93
+53,regular,UTA,2008,55,54,Golden State Warriors,0,119,109
+54,regular,UTA,2008,56,55,Los Angeles Clippers,1,104,114
+55,regular,UTA,2008,57,56,Atlanta Hawks,0,100,94
+56,regular,UTA,2008,58,57,Minnesota Timberwolves,1,100,111
+57,regular,UTA,2008,59,58,Detroit Pistons,0,103,95
+58,regular,UTA,2008,60,59,New Orleans Hornets,1,98,110
+59,regular,UTA,2008,61,60,Memphis Grizzlies,1,113,92
+60,regular,UTA,2008,63,61,Dallas Mavericks,0,116,110
+61,regular,UTA,2008,64,62,Minnesota Timberwolves,0,105,76
+62,regular,UTA,2008,65,63,Phoenix Suns,1,126,118
+63,regular,UTA,2008,66,64,Denver Nuggets,0,132,105
+64,regular,UTA,2008,67,65,Chicago Bulls,1,96,108
+65,regular,UTA,2008,68,66,Milwaukee Bucks,1,114,110
+66,regular,UTA,2008,69,67,Boston Celtics,1,110,92
+67,regular,UTA,2008,70,68,New Jersey Nets,1,115,117
+68,regular,UTA,2008,71,69,Toronto Raptors,0,96,79
+69,regular,UTA,2008,72,70,Los Angeles Lakers,0,95,106
+70,regular,UTA,2008,73,71,Seattle SuperSonics,0,115,101
+71,regular,UTA,2008,74,72,Charlotte Bobcats,0,128,106
+72,regular,UTA,2008,75,73,Los Angeles Clippers,0,121,101
+73,regular,UTA,2008,76,74,Minnesota Timberwolves,1,103,110
+74,regular,UTA,2008,77,75,Washington Wizards,0,129,87
+75,regular,UTA,2008,78,76,Minnesota Timberwolves,0,117,100
+76,regular,UTA,2008,79,77,San Antonio Spurs,0,90,64
+77,regular,UTA,2008,80,78,New Orleans Hornets,1,77,66
+78,regular,UTA,2008,81,79,Dallas Mavericks,1,94,97
+79,regular,UTA,2008,82,80,Denver Nuggets,0,124,97
+80,regular,UTA,2008,84,81,Houston Rockets,0,105,96
+81,regular,UTA,2008,85,82,San Antonio Spurs,1,80,109
+0,playoff,UTA,2009,0,1,Los Angeles Lakers,1,100,113
+1,playoff,UTA,2009,1,2,Los Angeles Lakers,1,109,119
+2,playoff,UTA,2009,2,3,Los Angeles Lakers,0,88,86
+3,playoff,UTA,2009,3,4,Los Angeles Lakers,0,94,108
+4,playoff,UTA,2009,4,5,Los Angeles Lakers,1,96,107
+0,regular,UTA,2009,0,1,Denver Nuggets,0,98,94
+1,regular,UTA,2009,1,2,Los Angeles Clippers,0,101,79
+2,regular,UTA,2009,2,3,Los Angeles Clippers,1,89,73
+3,regular,UTA,2009,3,4,Portland Trail Blazers,0,103,96
+4,regular,UTA,2009,4,5,Oklahoma City Thunder,0,104,97
+5,regular,UTA,2009,5,6,New York Knicks,1,99,107
+6,regular,UTA,2009,6,7,Philadelphia 76ers,1,93,80
+7,regular,UTA,2009,7,8,Washington Wizards,1,87,95
+8,regular,UTA,2009,8,9,Charlotte Bobcats,1,96,104
+9,regular,UTA,2009,9,10,Cleveland Cavaliers,1,93,105
+10,regular,UTA,2009,10,11,Phoenix Suns,0,109,97
+11,regular,UTA,2009,11,12,Milwaukee Bucks,0,105,94
+12,regular,UTA,2009,12,13,San Antonio Spurs,1,94,119
+13,regular,UTA,2009,13,14,Memphis Grizzlies,1,103,94
+14,regular,UTA,2009,14,15,Chicago Bulls,0,100,101
+15,regular,UTA,2009,15,16,Memphis Grizzlies,0,117,100
+16,regular,UTA,2009,16,17,Sacramento Kings,0,120,94
+17,regular,UTA,2009,17,18,New Jersey Nets,0,88,105
+18,regular,UTA,2009,18,19,Sacramento Kings,1,99,94
+19,regular,UTA,2009,19,20,Miami Heat,0,89,93
+20,regular,UTA,2009,21,21,Toronto Raptors,0,114,87
+21,regular,UTA,2009,22,22,Phoenix Suns,1,104,106
+22,regular,UTA,2009,23,23,Minnesota Timberwolves,1,99,96
+23,regular,UTA,2009,24,24,Portland Trail Blazers,0,97,88
+24,regular,UTA,2009,25,25,Orlando Magic,0,94,103
+25,regular,UTA,2009,26,26,Boston Celtics,1,91,100
+26,regular,UTA,2009,27,27,New Jersey Nets,1,103,92
+27,regular,UTA,2009,28,28,Detroit Pistons,1,120,114
+28,regular,UTA,2009,29,29,Chicago Bulls,1,98,106
+29,regular,UTA,2009,30,30,Milwaukee Bucks,1,86,94
+30,regular,UTA,2009,31,31,Dallas Mavericks,0,97,88
+31,regular,UTA,2009,32,32,Houston Rockets,1,115,120
+32,regular,UTA,2009,33,33,Philadelphia 76ers,0,112,95
+33,regular,UTA,2009,34,34,Los Angeles Lakers,1,100,113
+34,regular,UTA,2009,35,35,Golden State Warriors,0,119,114
+35,regular,UTA,2009,36,36,New Orleans Hornets,0,116,90
+36,regular,UTA,2009,37,37,Detroit Pistons,0,99,82
+37,regular,UTA,2009,38,38,Indiana Pacers,0,120,113
+38,regular,UTA,2009,39,39,Oklahoma City Thunder,1,93,114
+39,regular,UTA,2009,40,40,Memphis Grizzlies,1,101,91
+40,regular,UTA,2009,42,41,Dallas Mavericks,1,108,115
+41,regular,UTA,2009,43,42,Minnesota Timberwolves,0,112,107
+42,regular,UTA,2009,44,43,Houston Rockets,1,99,108
+43,regular,UTA,2009,45,44,Cleveland Cavaliers,0,97,102
+44,regular,UTA,2009,46,45,Denver Nuggets,1,97,117
+45,regular,UTA,2009,47,46,San Antonio Spurs,0,100,106
+46,regular,UTA,2009,48,47,Oklahoma City Thunder,0,110,90
+47,regular,UTA,2009,49,48,Portland Trail Blazers,1,108,122
+48,regular,UTA,2009,50,49,Charlotte Bobcats,0,105,86
+49,regular,UTA,2009,51,50,Dallas Mavericks,0,115,87
+50,regular,UTA,2009,52,51,Sacramento Kings,1,111,107
+51,regular,UTA,2009,53,52,Golden State Warriors,1,96,116
+52,regular,UTA,2009,54,53,Los Angeles Lakers,0,113,109
+53,regular,UTA,2009,55,54,Memphis Grizzlies,0,117,99
+54,regular,UTA,2009,56,55,Boston Celtics,0,90,85
+55,regular,UTA,2009,57,56,New Orleans Hornets,0,102,88
+56,regular,UTA,2009,58,57,Atlanta Hawks,0,108,89
+57,regular,UTA,2009,59,58,Minnesota Timberwolves,1,120,103
+58,regular,UTA,2009,60,59,Sacramento Kings,0,102,89
+59,regular,UTA,2009,61,60,Golden State Warriors,1,112,104
+60,regular,UTA,2009,63,61,Houston Rockets,0,101,94
+61,regular,UTA,2009,64,62,Denver Nuggets,0,97,91
+62,regular,UTA,2009,65,63,Toronto Raptors,1,109,101
+63,regular,UTA,2009,66,64,Indiana Pacers,1,112,100
+64,regular,UTA,2009,67,65,Atlanta Hawks,1,93,100
+65,regular,UTA,2009,68,66,Miami Heat,1,129,140
+66,regular,UTA,2009,69,67,Orlando Magic,1,87,105
+67,regular,UTA,2009,70,68,Washington Wizards,0,103,88
+68,regular,UTA,2009,71,69,Oklahoma City Thunder,1,101,94
+69,regular,UTA,2009,72,70,Houston Rockets,0,99,86
+70,regular,UTA,2009,73,71,Phoenix Suns,1,114,118
+71,regular,UTA,2009,74,72,Phoenix Suns,0,104,99
+72,regular,UTA,2009,75,73,New York Knicks,0,112,104
+73,regular,UTA,2009,76,74,Portland Trail Blazers,1,104,125
+74,regular,UTA,2009,77,75,Denver Nuggets,1,104,114
+75,regular,UTA,2009,78,76,Minnesota Timberwolves,0,102,103
+76,regular,UTA,2009,79,77,New Orleans Hornets,1,108,94
+77,regular,UTA,2009,80,78,Dallas Mavericks,1,101,130
+78,regular,UTA,2009,81,79,San Antonio Spurs,1,99,105
+79,regular,UTA,2009,82,80,Golden State Warriors,0,108,118
+80,regular,UTA,2009,84,81,Los Angeles Clippers,0,106,85
+81,regular,UTA,2009,85,82,Los Angeles Lakers,1,112,125
+0,playoff,UTA,2010,0,1,Denver Nuggets,1,113,126
+1,playoff,UTA,2010,1,2,Denver Nuggets,1,114,111
+2,playoff,UTA,2010,2,3,Denver Nuggets,0,105,93
+3,playoff,UTA,2010,3,4,Denver Nuggets,0,117,106
+4,playoff,UTA,2010,4,5,Denver Nuggets,1,102,116
+5,playoff,UTA,2010,5,6,Denver Nuggets,0,112,104
+6,playoff,UTA,2010,7,7,Los Angeles Lakers,1,99,104
+7,playoff,UTA,2010,8,8,Los Angeles Lakers,1,103,111
+8,playoff,UTA,2010,9,9,Los Angeles Lakers,0,110,111
+9,playoff,UTA,2010,10,10,Los Angeles Lakers,0,96,111
+0,regular,UTA,2010,0,1,Denver Nuggets,1,105,114
+1,regular,UTA,2010,1,2,Los Angeles Clippers,0,111,98
+2,regular,UTA,2010,2,3,Houston Rockets,0,96,113
+3,regular,UTA,2010,3,4,Dallas Mavericks,1,85,96
+4,regular,UTA,2010,4,5,San Antonio Spurs,0,113,99
+5,regular,UTA,2010,5,6,Sacramento Kings,0,99,104
+6,regular,UTA,2010,6,7,New York Knicks,1,95,93
+7,regular,UTA,2010,7,8,Boston Celtics,1,86,105
+8,regular,UTA,2010,8,9,Philadelphia 76ers,1,112,90
+9,regular,UTA,2010,9,10,Cleveland Cavaliers,1,103,107
+10,regular,UTA,2010,10,11,Toronto Raptors,0,104,91
+11,regular,UTA,2010,11,12,San Antonio Spurs,1,90,83
+12,regular,UTA,2010,12,13,Detroit Pistons,0,100,97
+13,regular,UTA,2010,13,14,Oklahoma City Thunder,0,94,104
+14,regular,UTA,2010,14,15,Chicago Bulls,0,105,86
+15,regular,UTA,2010,15,16,Portland Trail Blazers,0,108,92
+16,regular,UTA,2010,16,17,Memphis Grizzlies,0,120,93
+17,regular,UTA,2010,17,18,Indiana Pacers,0,96,87
+18,regular,UTA,2010,18,19,Minnesota Timberwolves,1,101,108
+19,regular,UTA,2010,19,20,San Antonio Spurs,0,104,101
+20,regular,UTA,2010,21,21,Los Angeles Lakers,1,77,101
+21,regular,UTA,2010,22,22,Orlando Magic,0,120,111
+22,regular,UTA,2010,23,23,Los Angeles Lakers,0,102,94
+23,regular,UTA,2010,24,24,Minnesota Timberwolves,0,108,110
+24,regular,UTA,2010,25,25,New Jersey Nets,1,108,92
+25,regular,UTA,2010,26,26,Atlanta Hawks,1,83,96
+26,regular,UTA,2010,27,27,Charlotte Bobcats,1,110,102
+27,regular,UTA,2010,28,28,Orlando Magic,1,99,104
+28,regular,UTA,2010,29,29,Miami Heat,1,70,80
+29,regular,UTA,2010,30,30,Philadelphia 76ers,0,97,76
+30,regular,UTA,2010,31,31,Minnesota Timberwolves,1,107,103
+31,regular,UTA,2010,32,32,Oklahoma City Thunder,1,86,87
+32,regular,UTA,2010,33,33,Denver Nuggets,0,95,105
+33,regular,UTA,2010,34,34,New Orleans Hornets,0,87,91
+34,regular,UTA,2010,35,35,Memphis Grizzlies,0,117,94
+35,regular,UTA,2010,36,36,Memphis Grizzlies,1,89,91
+36,regular,UTA,2010,37,37,Dallas Mavericks,1,111,93
+37,regular,UTA,2010,38,38,Miami Heat,0,118,89
+38,regular,UTA,2010,39,39,Cleveland Cavaliers,0,97,96
+39,regular,UTA,2010,40,40,Milwaukee Bucks,0,112,95
+40,regular,UTA,2010,42,41,Denver Nuggets,1,112,119
+41,regular,UTA,2010,43,42,San Antonio Spurs,1,105,98
+42,regular,UTA,2010,44,43,New Jersey Nets,0,116,83
+43,regular,UTA,2010,45,44,Phoenix Suns,0,124,115
+44,regular,UTA,2010,46,45,Portland Trail Blazers,1,106,95
+45,regular,UTA,2010,47,46,Sacramento Kings,0,101,94
+46,regular,UTA,2010,48,47,Dallas Mavericks,0,104,92
+47,regular,UTA,2010,49,48,Portland Trail Blazers,0,118,105
+48,regular,UTA,2010,50,49,Denver Nuggets,0,116,106
+49,regular,UTA,2010,51,50,Los Angeles Clippers,1,109,99
+50,regular,UTA,2010,52,51,Los Angeles Lakers,0,81,96
+51,regular,UTA,2010,53,52,Houston Rockets,1,104,95
+52,regular,UTA,2010,54,53,New Orleans Hornets,1,98,90
+53,regular,UTA,2010,55,54,Golden State Warriors,1,100,89
+54,regular,UTA,2010,56,55,Portland Trail Blazers,1,93,89
+55,regular,UTA,2010,57,56,Atlanta Hawks,0,100,105
+56,regular,UTA,2010,58,57,Charlotte Bobcats,0,102,93
+57,regular,UTA,2010,59,58,Sacramento Kings,1,99,103
+58,regular,UTA,2010,60,59,Houston Rockets,0,133,110
+59,regular,UTA,2010,61,60,Los Angeles Clippers,1,104,108
+60,regular,UTA,2010,63,61,Phoenix Suns,1,116,108
+61,regular,UTA,2010,64,62,Los Angeles Clippers,0,107,85
+62,regular,UTA,2010,65,63,Chicago Bulls,1,132,108
+63,regular,UTA,2010,66,64,Detroit Pistons,1,115,104
+64,regular,UTA,2010,67,65,Milwaukee Bucks,1,87,95
+65,regular,UTA,2010,68,66,Oklahoma City Thunder,1,111,119
+66,regular,UTA,2010,69,67,Washington Wizards,0,112,89
+67,regular,UTA,2010,70,68,Minnesota Timberwolves,0,122,100
+68,regular,UTA,2010,71,69,Phoenix Suns,1,100,110
+69,regular,UTA,2010,72,70,New Orleans Hornets,0,106,86
+70,regular,UTA,2010,73,71,Boston Celtics,0,110,97
+71,regular,UTA,2010,74,72,Toronto Raptors,1,113,87
+72,regular,UTA,2010,75,73,Indiana Pacers,1,106,122
+73,regular,UTA,2010,76,74,Washington Wizards,1,103,87
+74,regular,UTA,2010,77,75,New York Knicks,0,103,98
+75,regular,UTA,2010,78,76,Golden State Warriors,0,128,104
+76,regular,UTA,2010,79,77,Los Angeles Lakers,1,92,106
+77,regular,UTA,2010,80,78,Oklahoma City Thunder,0,140,139
+78,regular,UTA,2010,81,79,Houston Rockets,1,96,113
+79,regular,UTA,2010,82,80,New Orleans Hornets,1,114,103
+80,regular,UTA,2010,84,81,Golden State Warriors,1,103,94
+81,regular,UTA,2010,85,82,Phoenix Suns,0,86,100
+0,regular,UTA,2011,0,1,Denver Nuggets,1,88,110
+1,regular,UTA,2011,1,2,Phoenix Suns,0,94,110
+2,regular,UTA,2011,2,3,Oklahoma City Thunder,1,120,99
+3,regular,UTA,2011,3,4,Toronto Raptors,0,125,108
+4,regular,UTA,2011,4,5,Golden State Warriors,1,78,85
+5,regular,UTA,2011,5,6,Los Angeles Clippers,0,109,107
+6,regular,UTA,2011,6,7,Miami Heat,1,116,114
+7,regular,UTA,2011,7,8,Orlando Magic,1,104,94
+8,regular,UTA,2011,8,9,Atlanta Hawks,1,90,86
+9,regular,UTA,2011,9,10,Charlotte Bobcats,1,96,95
+10,regular,UTA,2011,10,11,Oklahoma City Thunder,0,108,115
+11,regular,UTA,2011,11,12,New Jersey Nets,0,98,88
+12,regular,UTA,2011,12,13,San Antonio Spurs,0,82,94
+13,regular,UTA,2011,13,14,Portland Trail Blazers,1,103,94
+14,regular,UTA,2011,14,15,Sacramento Kings,0,94,83
+15,regular,UTA,2011,15,16,New Orleans Hornets,0,105,87
+16,regular,UTA,2011,16,17,Los Angeles Lakers,0,102,96
+17,regular,UTA,2011,17,18,Los Angeles Clippers,1,109,97
+18,regular,UTA,2011,18,19,Milwaukee Bucks,0,109,88
+19,regular,UTA,2011,19,20,Indiana Pacers,0,110,88
+20,regular,UTA,2011,21,21,Dallas Mavericks,0,81,93
+21,regular,UTA,2011,22,22,Memphis Grizzlies,0,94,85
+22,regular,UTA,2011,23,23,Miami Heat,0,98,111
+23,regular,UTA,2011,24,24,Orlando Magic,0,117,105
+24,regular,UTA,2011,25,25,Dallas Mavericks,1,97,103
+25,regular,UTA,2011,26,26,Golden State Warriors,0,108,95
+26,regular,UTA,2011,27,27,New Orleans Hornets,1,71,100
+27,regular,UTA,2011,28,28,Milwaukee Bucks,1,95,86
+28,regular,UTA,2011,29,29,Cleveland Cavaliers,1,101,90
+29,regular,UTA,2011,30,30,Minnesota Timberwolves,1,112,107
+30,regular,UTA,2011,31,31,Portland Trail Blazers,0,91,96
+31,regular,UTA,2011,32,32,Los Angeles Clippers,1,103,95
+32,regular,UTA,2011,33,33,Portland Trail Blazers,1,89,100
+33,regular,UTA,2011,34,34,Memphis Grizzlies,0,98,92
+34,regular,UTA,2011,35,35,Detroit Pistons,0,102,97
+35,regular,UTA,2011,36,36,Atlanta Hawks,0,87,110
+36,regular,UTA,2011,37,37,Memphis Grizzlies,1,99,110
+37,regular,UTA,2011,38,38,Houston Rockets,1,103,99
+38,regular,UTA,2011,39,39,New York Knicks,0,131,125
+39,regular,UTA,2011,40,40,Cleveland Cavaliers,0,121,99
+40,regular,UTA,2011,42,41,Washington Wizards,1,101,108
+41,regular,UTA,2011,43,42,New Jersey Nets,1,95,103
+42,regular,UTA,2011,44,43,Boston Celtics,1,86,110
+43,regular,UTA,2011,45,44,Philadelphia 76ers,1,85,96
+44,regular,UTA,2011,46,45,Los Angeles Lakers,1,91,120
+45,regular,UTA,2011,47,46,San Antonio Spurs,0,105,112
+46,regular,UTA,2011,48,47,Minnesota Timberwolves,0,108,100
+47,regular,UTA,2011,49,48,Golden State Warriors,1,81,96
+48,regular,UTA,2011,50,49,Charlotte Bobcats,0,83,78
+49,regular,UTA,2011,51,50,Houston Rockets,0,96,97
+50,regular,UTA,2011,52,51,Denver Nuggets,1,113,106
+51,regular,UTA,2011,53,52,Oklahoma City Thunder,0,105,121
+52,regular,UTA,2011,54,53,Sacramento Kings,1,107,104
+53,regular,UTA,2011,55,54,Chicago Bulls,0,86,91
+54,regular,UTA,2011,56,55,Phoenix Suns,0,83,95
+55,regular,UTA,2011,57,56,Phoenix Suns,1,101,102
+56,regular,UTA,2011,58,57,Golden State Warriors,0,100,107
+57,regular,UTA,2011,59,58,Dallas Mavericks,1,99,118
+58,regular,UTA,2011,60,59,Indiana Pacers,1,95,84
+59,regular,UTA,2011,61,60,Detroit Pistons,1,116,120
+60,regular,UTA,2011,63,61,Boston Celtics,0,102,107
+61,regular,UTA,2011,64,62,Denver Nuggets,0,101,103
+62,regular,UTA,2011,65,63,Sacramento Kings,0,109,102
+63,regular,UTA,2011,66,64,New York Knicks,1,109,131
+64,regular,UTA,2011,67,65,Toronto Raptors,1,96,94
+65,regular,UTA,2011,68,66,Minnesota Timberwolves,1,101,122
+66,regular,UTA,2011,69,67,Chicago Bulls,1,100,118
+67,regular,UTA,2011,70,68,Philadelphia 76ers,0,112,107
+68,regular,UTA,2011,71,69,Minnesota Timberwolves,0,119,104
+69,regular,UTA,2011,72,70,Houston Rockets,1,108,110
+70,regular,UTA,2011,73,71,Memphis Grizzlies,1,85,103
+71,regular,UTA,2011,74,72,Oklahoma City Thunder,1,94,106
+72,regular,UTA,2011,75,73,New Orleans Hornets,0,117,121
+73,regular,UTA,2011,76,74,Dallas Mavericks,0,77,94
+74,regular,UTA,2011,77,75,Washington Wizards,0,95,100
+75,regular,UTA,2011,78,76,Los Angeles Lakers,0,85,96
+76,regular,UTA,2011,79,77,Sacramento Kings,1,97,106
+77,regular,UTA,2011,80,78,Los Angeles Lakers,1,86,85
+78,regular,UTA,2011,81,79,Portland Trail Blazers,0,87,98
+79,regular,UTA,2011,82,80,San Antonio Spurs,1,102,111
+80,regular,UTA,2011,84,81,New Orleans Hornets,1,90,78
+81,regular,UTA,2011,85,82,Denver Nuggets,0,107,103
+0,playoff,UTA,2012,0,1,San Antonio Spurs,1,91,106
+1,playoff,UTA,2012,1,2,San Antonio Spurs,1,83,114
+2,playoff,UTA,2012,2,3,San Antonio Spurs,0,90,102
+3,playoff,UTA,2012,3,4,San Antonio Spurs,0,81,87
+0,regular,UTA,2012,0,1,Los Angeles Lakers,1,71,96
+1,regular,UTA,2012,1,2,Denver Nuggets,1,100,117
+2,regular,UTA,2012,2,3,Philadelphia 76ers,0,102,99
+3,regular,UTA,2012,3,4,San Antonio Spurs,1,89,104
+4,regular,UTA,2012,4,5,New Orleans Hornets,0,94,90
+5,regular,UTA,2012,5,6,Milwaukee Bucks,0,85,73
+6,regular,UTA,2012,6,7,Memphis Grizzlies,0,94,85
+7,regular,UTA,2012,7,8,Golden State Warriors,1,88,87
+8,regular,UTA,2012,8,9,Cleveland Cavaliers,0,113,105
+9,regular,UTA,2012,9,10,Los Angeles Lakers,0,87,90
+10,regular,UTA,2012,10,11,New Jersey Nets,0,107,94
+11,regular,UTA,2012,11,12,Denver Nuggets,1,106,96
+12,regular,UTA,2012,12,13,Los Angeles Clippers,0,108,79
+13,regular,UTA,2012,13,14,Dallas Mavericks,0,91,94
+14,regular,UTA,2012,14,15,Minnesota Timberwolves,0,108,98
+15,regular,UTA,2012,15,16,Toronto Raptors,0,106,111
+16,regular,UTA,2012,16,17,Dallas Mavericks,1,101,116
+17,regular,UTA,2012,17,18,Sacramento Kings,0,96,93
+18,regular,UTA,2012,18,19,Portland Trail Blazers,0,93,89
+19,regular,UTA,2012,19,20,Los Angeles Clippers,0,105,107
+20,regular,UTA,2012,21,21,Golden State Warriors,1,101,119
+21,regular,UTA,2012,22,22,Los Angeles Lakers,0,96,87
+22,regular,UTA,2012,23,23,New York Knicks,1,88,99
+23,regular,UTA,2012,24,24,Indiana Pacers,1,99,104
+24,regular,UTA,2012,25,25,Oklahoma City Thunder,0,87,101
+25,regular,UTA,2012,26,26,Memphis Grizzlies,1,98,88
+26,regular,UTA,2012,27,27,New Orleans Hornets,1,80,86
+27,regular,UTA,2012,28,28,Oklahoma City Thunder,1,85,111
+28,regular,UTA,2012,29,29,Washington Wizards,0,114,100
+29,regular,UTA,2012,30,30,Houston Rockets,1,85,101
+30,regular,UTA,2012,31,31,San Antonio Spurs,0,102,106
+31,regular,UTA,2012,32,32,Minnesota Timberwolves,1,98,100
+32,regular,UTA,2012,33,33,Sacramento Kings,1,96,103
+33,regular,UTA,2012,34,34,Houston Rockets,0,104,83
+34,regular,UTA,2012,35,35,Miami Heat,0,99,98
+35,regular,UTA,2012,36,36,Dallas Mavericks,1,96,102
+36,regular,UTA,2012,37,37,Cleveland Cavaliers,1,109,100
+37,regular,UTA,2012,38,38,Charlotte Bobcats,1,99,93
+38,regular,UTA,2012,39,39,Philadelphia 76ers,1,91,104
+39,regular,UTA,2012,40,40,Chicago Bulls,1,97,111
+40,regular,UTA,2012,42,41,Detroit Pistons,0,105,90
+41,regular,UTA,2012,43,42,Phoenix Suns,1,111,120
+42,regular,UTA,2012,44,43,Minnesota Timberwolves,0,111,105
+43,regular,UTA,2012,45,44,Golden State Warriors,0,99,92
+44,regular,UTA,2012,46,45,Los Angeles Lakers,1,103,99
+45,regular,UTA,2012,47,46,Oklahoma City Thunder,0,97,90
+46,regular,UTA,2012,48,47,Sacramento Kings,1,103,102
+47,regular,UTA,2012,49,48,Denver Nuggets,0,121,102
+48,regular,UTA,2012,50,49,Atlanta Hawks,1,133,139
+49,regular,UTA,2012,51,50,New Jersey Nets,1,105,84
+50,regular,UTA,2012,52,51,Boston Celtics,1,82,94
+51,regular,UTA,2012,53,52,Sacramento Kings,0,103,104
+52,regular,UTA,2012,54,53,Los Angeles Clippers,1,96,105
+53,regular,UTA,2012,55,54,Portland Trail Blazers,1,102,97
+54,regular,UTA,2012,56,55,Phoenix Suns,0,105,107
+55,regular,UTA,2012,57,56,Golden State Warriors,0,104,98
+56,regular,UTA,2012,58,57,San Antonio Spurs,1,104,114
+57,regular,UTA,2012,59,58,San Antonio Spurs,0,91,84
+58,regular,UTA,2012,60,59,Houston Rockets,1,103,91
+59,regular,UTA,2012,61,60,New Orleans Hornets,1,85,96
+60,regular,UTA,2012,63,61,Memphis Grizzlies,1,98,103
+61,regular,UTA,2012,64,62,Dallas Mavericks,0,123,121
+62,regular,UTA,2012,65,63,Portland Trail Blazers,1,112,91
+63,regular,UTA,2012,66,64,Orlando Magic,0,117,107
+64,regular,UTA,2012,67,65,Phoenix Suns,0,100,88
+65,regular,UTA,2012,68,66,Portland Trail Blazers,0,96,94
+0,regular,UTA,2013,0,1,Dallas Mavericks,0,113,94
+1,regular,UTA,2013,1,2,New Orleans Hornets,1,86,88
+2,regular,UTA,2013,2,3,San Antonio Spurs,1,100,110
+3,regular,UTA,2013,3,4,Memphis Grizzlies,1,94,103
+4,regular,UTA,2013,4,5,Los Angeles Lakers,0,95,86
+5,regular,UTA,2013,5,6,Denver Nuggets,1,84,104
+6,regular,UTA,2013,6,7,Phoenix Suns,0,94,81
+7,regular,UTA,2013,7,8,Toronto Raptors,1,140,133
+8,regular,UTA,2013,8,9,Boston Celtics,1,93,98
+9,regular,UTA,2013,9,10,Philadelphia 76ers,1,93,99
+10,regular,UTA,2013,10,11,Washington Wizards,1,83,76
+11,regular,UTA,2013,11,12,Houston Rockets,0,102,91
+12,regular,UTA,2013,12,13,Sacramento Kings,0,104,102
+13,regular,UTA,2013,13,14,Sacramento Kings,1,97,108
+14,regular,UTA,2013,14,15,Denver Nuggets,0,105,103
+15,regular,UTA,2013,15,16,New Orleans Hornets,1,96,84
+16,regular,UTA,2013,16,17,Oklahoma City Thunder,1,94,106
+17,regular,UTA,2013,17,18,Houston Rockets,1,116,124
+18,regular,UTA,2013,18,19,Los Angeles Clippers,0,104,105
+19,regular,UTA,2013,19,20,Orlando Magic,0,87,81
+20,regular,UTA,2013,21,21,Toronto Raptors,0,131,99
+21,regular,UTA,2013,22,22,Los Angeles Lakers,1,117,110
+22,regular,UTA,2013,23,23,San Antonio Spurs,0,99,96
+23,regular,UTA,2013,24,24,Phoenix Suns,1,84,99
+24,regular,UTA,2013,25,25,Memphis Grizzlies,0,86,99
+25,regular,UTA,2013,26,26,Brooklyn Nets,1,92,90
+26,regular,UTA,2013,27,27,Indiana Pacers,1,84,104
+27,regular,UTA,2013,28,28,Miami Heat,1,89,105
+28,regular,UTA,2013,29,29,Orlando Magic,1,97,93
+29,regular,UTA,2013,30,30,Golden State Warriors,0,83,94
+30,regular,UTA,2013,31,31,Los Angeles Clippers,0,114,116
+31,regular,UTA,2013,32,32,Los Angeles Clippers,1,96,107
+32,regular,UTA,2013,33,33,Minnesota Timberwolves,0,106,84
+33,regular,UTA,2013,34,34,Phoenix Suns,1,87,80
+34,regular,UTA,2013,35,35,Denver Nuggets,1,91,110
+35,regular,UTA,2013,36,36,Dallas Mavericks,0,100,94
+36,regular,UTA,2013,37,37,Charlotte Bobcats,1,112,102
+37,regular,UTA,2013,38,38,Atlanta Hawks,1,95,103
+38,regular,UTA,2013,39,39,Detroit Pistons,1,90,87
+39,regular,UTA,2013,40,40,Miami Heat,0,104,97
+40,regular,UTA,2013,42,41,Cleveland Cavaliers,0,109,98
+41,regular,UTA,2013,43,42,Washington Wizards,0,92,88
+42,regular,UTA,2013,44,43,Los Angeles Lakers,1,84,102
+43,regular,UTA,2013,45,44,Indiana Pacers,0,114,110
+44,regular,UTA,2013,46,45,Houston Rockets,0,80,125
+45,regular,UTA,2013,47,46,New Orleans Hornets,0,104,99
+46,regular,UTA,2013,48,47,Portland Trail Blazers,0,86,77
+47,regular,UTA,2013,49,48,Portland Trail Blazers,1,99,105
+48,regular,UTA,2013,50,49,Sacramento Kings,0,98,91
+49,regular,UTA,2013,51,50,Milwaukee Bucks,0,100,86
+50,regular,UTA,2013,52,51,Chicago Bulls,0,89,93
+51,regular,UTA,2013,53,52,Sacramento Kings,1,109,120
+52,regular,UTA,2013,54,53,Oklahoma City Thunder,0,109,94
+53,regular,UTA,2013,55,54,Minnesota Timberwolves,1,97,93
+54,regular,UTA,2013,56,55,Golden State Warriors,0,115,101
+55,regular,UTA,2013,57,56,Los Angeles Clippers,1,94,107
+56,regular,UTA,2013,58,57,Boston Celtics,0,107,110
+57,regular,UTA,2013,59,58,Atlanta Hawks,0,91,102
+58,regular,UTA,2013,60,59,Charlotte Bobcats,0,98,68
+59,regular,UTA,2013,61,60,Milwaukee Bucks,1,108,109
+60,regular,UTA,2013,63,61,Cleveland Cavaliers,1,101,104
+61,regular,UTA,2013,64,62,Chicago Bulls,1,88,89
+62,regular,UTA,2013,65,63,New York Knicks,1,84,113
+63,regular,UTA,2013,66,64,Detroit Pistons,0,103,90
+64,regular,UTA,2013,67,65,Oklahoma City Thunder,1,87,110
+65,regular,UTA,2013,68,66,Memphis Grizzlies,0,90,84
+66,regular,UTA,2013,69,67,New York Knicks,0,83,90
+67,regular,UTA,2013,70,68,Houston Rockets,1,93,100
+68,regular,UTA,2013,71,69,San Antonio Spurs,1,97,104
+69,regular,UTA,2013,72,70,Dallas Mavericks,1,108,113
+70,regular,UTA,2013,73,71,Philadelphia 76ers,0,107,91
+71,regular,UTA,2013,74,72,Phoenix Suns,0,103,88
+72,regular,UTA,2013,75,73,Portland Trail Blazers,1,105,95
+73,regular,UTA,2013,76,74,Brooklyn Nets,0,116,107
+74,regular,UTA,2013,77,75,Portland Trail Blazers,0,112,102
+75,regular,UTA,2013,78,76,Denver Nuggets,0,96,113
+76,regular,UTA,2013,79,77,New Orleans Hornets,0,95,83
+77,regular,UTA,2013,80,78,Golden State Warriors,1,97,90
+78,regular,UTA,2013,81,79,Oklahoma City Thunder,0,80,90
+79,regular,UTA,2013,82,80,Minnesota Timberwolves,0,107,100
+80,regular,UTA,2013,84,81,Minnesota Timberwolves,1,96,80
+81,regular,UTA,2013,85,82,Memphis Grizzlies,1,70,86
+0,regular,UTA,2014,0,1,Oklahoma City Thunder,0,98,101
+1,regular,UTA,2014,1,2,Phoenix Suns,1,84,87
+2,regular,UTA,2014,2,3,Houston Rockets,0,93,104
+3,regular,UTA,2014,3,4,Brooklyn Nets,1,88,104
+4,regular,UTA,2014,4,5,Boston Celtics,1,87,97
+5,regular,UTA,2014,5,6,Chicago Bulls,1,73,97
+6,regular,UTA,2014,6,7,Toronto Raptors,1,91,115
+7,regular,UTA,2014,7,8,Denver Nuggets,0,81,100
+8,regular,UTA,2014,8,9,New Orleans Pelicans,0,111,105
+9,regular,UTA,2014,9,10,San Antonio Spurs,0,82,91
+10,regular,UTA,2014,10,11,Golden State Warriors,1,88,102
+11,regular,UTA,2014,11,12,Golden State Warriors,0,87,98
+12,regular,UTA,2014,12,13,New Orleans Pelicans,1,98,105
+13,regular,UTA,2014,13,14,Dallas Mavericks,1,93,103
+14,regular,UTA,2014,14,15,Oklahoma City Thunder,1,73,95
+15,regular,UTA,2014,15,16,Chicago Bulls,0,89,83
+16,regular,UTA,2014,16,17,Phoenix Suns,0,101,112
+17,regular,UTA,2014,17,18,Phoenix Suns,1,112,104
+18,regular,UTA,2014,18,19,Houston Rockets,0,109,103
+19,regular,UTA,2014,19,20,Indiana Pacers,0,86,95
+20,regular,UTA,2014,21,21,Portland Trail Blazers,1,98,130
+21,regular,UTA,2014,22,22,Sacramento Kings,0,102,112
+22,regular,UTA,2014,23,23,Portland Trail Blazers,0,94,105
+23,regular,UTA,2014,24,24,Sacramento Kings,1,122,101
+24,regular,UTA,2014,25,25,Denver Nuggets,1,103,93
+25,regular,UTA,2014,26,26,San Antonio Spurs,0,84,100
+26,regular,UTA,2014,27,27,Miami Heat,1,94,117
+27,regular,UTA,2014,28,28,Orlando Magic,1,86,82
+28,regular,UTA,2014,29,29,Atlanta Hawks,1,85,118
+29,regular,UTA,2014,30,30,Charlotte Bobcats,1,88,85
+30,regular,UTA,2014,31,31,Memphis Grizzlies,1,94,104
+31,regular,UTA,2014,32,32,Los Angeles Lakers,0,105,103
+32,regular,UTA,2014,33,33,Los Angeles Clippers,1,90,98
+33,regular,UTA,2014,34,34,Charlotte Bobcats,0,83,80
+34,regular,UTA,2014,35,35,Milwaukee Bucks,0,96,87
+35,regular,UTA,2014,36,36,Los Angeles Lakers,1,99,110
+36,regular,UTA,2014,37,37,Oklahoma City Thunder,0,112,101
+37,regular,UTA,2014,38,38,Cleveland Cavaliers,0,102,113
+38,regular,UTA,2014,39,39,Denver Nuggets,0,118,103
+39,regular,UTA,2014,40,40,San Antonio Spurs,1,105,109
+40,regular,UTA,2014,42,41,Detroit Pistons,1,110,89
+41,regular,UTA,2014,43,42,Minnesota Timberwolves,1,72,98
+42,regular,UTA,2014,44,43,Minnesota Timberwolves,0,97,112
+43,regular,UTA,2014,45,44,Washington Wizards,0,104,101
+44,regular,UTA,2014,46,45,Sacramento Kings,0,106,99
+45,regular,UTA,2014,47,46,Golden State Warriors,0,90,95
+46,regular,UTA,2014,48,47,Los Angeles Clippers,1,87,102
+47,regular,UTA,2014,49,48,Toronto Raptors,0,79,94
+48,regular,UTA,2014,50,49,Dallas Mavericks,1,81,103
+49,regular,UTA,2014,51,50,Miami Heat,0,94,89
+50,regular,UTA,2014,52,51,Los Angeles Lakers,1,96,79
+51,regular,UTA,2014,53,52,Philadelphia 76ers,0,105,100
+52,regular,UTA,2014,54,53,Brooklyn Nets,0,99,105
+53,regular,UTA,2014,55,54,Portland Trail Blazers,1,94,102
+54,regular,UTA,2014,56,55,Minnesota Timberwolves,0,104,121
+55,regular,UTA,2014,57,56,Boston Celtics,0,110,98
+56,regular,UTA,2014,58,57,Phoenix Suns,0,109,86
+57,regular,UTA,2014,59,58,Cleveland Cavaliers,1,79,99
+58,regular,UTA,2014,60,59,Indiana Pacers,1,91,94
+59,regular,UTA,2014,61,60,Milwaukee Bucks,1,88,114
+60,regular,UTA,2014,63,61,Washington Wizards,1,91,104
+61,regular,UTA,2014,64,62,New York Knicks,1,81,108
+62,regular,UTA,2014,65,63,Philadelphia 76ers,1,104,92
+63,regular,UTA,2014,66,64,Atlanta Hawks,0,110,112
+64,regular,UTA,2014,67,65,Dallas Mavericks,0,101,108
+65,regular,UTA,2014,68,66,Los Angeles Clippers,0,87,96
+66,regular,UTA,2014,69,67,San Antonio Spurs,1,104,122
+67,regular,UTA,2014,70,68,Houston Rockets,1,86,124
+68,regular,UTA,2014,71,69,Memphis Grizzlies,1,86,96
+69,regular,UTA,2014,72,70,Orlando Magic,0,89,88
+70,regular,UTA,2014,73,71,Detroit Pistons,0,94,114
+71,regular,UTA,2014,74,72,Memphis Grizzlies,0,87,91
+72,regular,UTA,2014,75,73,New Orleans Pelicans,1,95,102
+73,regular,UTA,2014,76,74,Oklahoma City Thunder,1,96,116
+74,regular,UTA,2014,77,75,New York Knicks,0,83,92
+75,regular,UTA,2014,78,76,New Orleans Pelicans,0,100,96
+76,regular,UTA,2014,79,77,Golden State Warriors,1,102,130
+77,regular,UTA,2014,80,78,Dallas Mavericks,0,83,95
+78,regular,UTA,2014,81,79,Portland Trail Blazers,0,99,111
+79,regular,UTA,2014,82,80,Denver Nuggets,1,94,101
+80,regular,UTA,2014,84,81,Los Angeles Lakers,0,104,119
+81,regular,UTA,2014,85,82,Minnesota Timberwolves,1,136,130
+0,regular,UTA,2015,0,1,Houston Rockets,0,93,104
+1,regular,UTA,2015,1,2,Dallas Mavericks,1,102,120
+2,regular,UTA,2015,2,3,Phoenix Suns,0,118,91
+3,regular,UTA,2015,3,4,Los Angeles Clippers,1,101,107
+4,regular,UTA,2015,4,5,Cleveland Cavaliers,0,102,100
+5,regular,UTA,2015,5,6,Dallas Mavericks,0,82,105
+6,regular,UTA,2015,6,7,Detroit Pistons,1,97,96
+7,regular,UTA,2015,7,8,Indiana Pacers,1,86,97
+8,regular,UTA,2015,8,9,Atlanta Hawks,1,97,100
+9,regular,UTA,2015,9,10,New York Knicks,1,102,100
+10,regular,UTA,2015,10,11,Toronto Raptors,1,93,111
+11,regular,UTA,2015,11,12,Oklahoma City Thunder,0,98,81
+12,regular,UTA,2015,12,13,Golden State Warriors,1,88,101
+13,regular,UTA,2015,13,14,New Orleans Pelicans,0,94,106
+14,regular,UTA,2015,14,15,Chicago Bulls,0,95,97
+15,regular,UTA,2015,15,16,Oklahoma City Thunder,1,82,97
+16,regular,UTA,2015,16,17,Los Angeles Clippers,0,96,112
+17,regular,UTA,2015,17,18,Denver Nuggets,0,101,103
+18,regular,UTA,2015,18,19,Toronto Raptors,0,104,123
+19,regular,UTA,2015,19,20,Orlando Magic,0,93,98
+20,regular,UTA,2015,21,21,Sacramento Kings,1,92,101
+21,regular,UTA,2015,22,22,San Antonio Spurs,0,100,96
+22,regular,UTA,2015,23,23,Miami Heat,0,95,100
+23,regular,UTA,2015,24,24,Washington Wizards,1,84,93
+24,regular,UTA,2015,25,25,New Orleans Pelicans,1,111,119
+25,regular,UTA,2015,26,26,Miami Heat,1,105,87
+26,regular,UTA,2015,27,27,Orlando Magic,1,101,94
+27,regular,UTA,2015,28,28,Charlotte Hornets,1,86,104
+28,regular,UTA,2015,29,29,Memphis Grizzlies,1,97,91
+29,regular,UTA,2015,30,30,Philadelphia 76ers,0,88,71
+30,regular,UTA,2015,31,31,Los Angeles Clippers,1,97,101
+31,regular,UTA,2015,32,32,Minnesota Timberwolves,0,100,94
+32,regular,UTA,2015,33,33,Atlanta Hawks,0,92,98
+33,regular,UTA,2015,34,34,Minnesota Timberwolves,1,101,89
+34,regular,UTA,2015,35,35,Indiana Pacers,0,101,105
+35,regular,UTA,2015,36,36,Chicago Bulls,1,97,77
+36,regular,UTA,2015,37,37,Oklahoma City Thunder,1,94,99
+37,regular,UTA,2015,38,38,Houston Rockets,1,82,97
+38,regular,UTA,2015,39,39,Golden State Warriors,0,105,116
+39,regular,UTA,2015,40,40,Los Angeles Lakers,0,94,85
+40,regular,UTA,2015,42,41,San Antonio Spurs,1,69,89
+41,regular,UTA,2015,43,42,Cleveland Cavaliers,1,92,106
+42,regular,UTA,2015,44,43,Milwaukee Bucks,1,101,99
+43,regular,UTA,2015,45,44,Brooklyn Nets,0,108,73
+44,regular,UTA,2015,46,45,Boston Celtics,0,90,99
+45,regular,UTA,2015,47,46,Los Angeles Clippers,0,89,94
+46,regular,UTA,2015,48,47,Golden State Warriors,0,110,100
+47,regular,UTA,2015,49,48,Portland Trail Blazers,1,102,103
+48,regular,UTA,2015,50,49,Memphis Grizzlies,0,90,100
+49,regular,UTA,2015,51,50,Phoenix Suns,1,93,100
+50,regular,UTA,2015,52,51,Sacramento Kings,0,102,90
+51,regular,UTA,2015,53,52,New Orleans Pelicans,1,100,96
+52,regular,UTA,2015,54,53,Dallas Mavericks,1,82,87
+53,regular,UTA,2015,55,54,Portland Trail Blazers,0,92,76
+54,regular,UTA,2015,56,55,San Antonio Spurs,0,90,81
+55,regular,UTA,2015,57,56,Los Angeles Lakers,0,97,100
+56,regular,UTA,2015,58,57,Denver Nuggets,1,104,82
+57,regular,UTA,2015,59,58,Milwaukee Bucks,0,82,75
+58,regular,UTA,2015,60,59,Memphis Grizzlies,1,93,82
+59,regular,UTA,2015,61,60,Boston Celtics,1,84,85
+60,regular,UTA,2015,63,61,Philadelphia 76ers,1,89,83
+61,regular,UTA,2015,64,62,Brooklyn Nets,1,95,88
+62,regular,UTA,2015,65,63,New York Knicks,0,87,82
+63,regular,UTA,2015,66,64,Houston Rockets,0,109,91
+64,regular,UTA,2015,67,65,Detroit Pistons,0,88,85
+65,regular,UTA,2015,68,66,Charlotte Hornets,0,94,66
+66,regular,UTA,2015,69,67,Washington Wizards,0,84,88
+67,regular,UTA,2015,70,68,Los Angeles Lakers,1,80,73
+68,regular,UTA,2015,71,69,Golden State Warriors,1,91,106
+69,regular,UTA,2015,72,70,Minnesota Timberwolves,0,104,106
+70,regular,UTA,2015,73,71,Portland Trail Blazers,0,89,92
+71,regular,UTA,2015,74,72,Denver Nuggets,1,91,107
+72,regular,UTA,2015,75,73,Oklahoma City Thunder,0,94,89
+73,regular,UTA,2015,76,74,Minnesota Timberwolves,1,104,84
+74,regular,UTA,2015,77,75,Denver Nuggets,0,98,84
+75,regular,UTA,2015,78,76,Phoenix Suns,1,85,87
+76,regular,UTA,2015,79,77,Sacramento Kings,1,101,95
+77,regular,UTA,2015,80,78,Sacramento Kings,0,103,91
+78,regular,UTA,2015,81,79,Memphis Grizzlies,0,88,89
+79,regular,UTA,2015,82,80,Portland Trail Blazers,1,111,105
+80,regular,UTA,2015,84,81,Dallas Mavericks,0,109,92
+81,regular,UTA,2015,85,82,Houston Rockets,1,91,117
+0,regular,UTA,2016,0,1,Detroit Pistons,1,87,92
+1,regular,UTA,2016,1,2,Philadelphia 76ers,1,99,71
+2,regular,UTA,2016,2,3,Indiana Pacers,1,97,76
+3,regular,UTA,2016,3,4,Portland Trail Blazers,0,92,108
+4,regular,UTA,2016,4,5,Denver Nuggets,1,96,84
+5,regular,UTA,2016,5,6,Memphis Grizzlies,0,89,79
+6,regular,UTA,2016,6,7,Cleveland Cavaliers,1,114,118
+7,regular,UTA,2016,7,8,Miami Heat,1,91,92
+8,regular,UTA,2016,8,9,Orlando Magic,1,93,102
+9,regular,UTA,2016,9,10,Atlanta Hawks,1,97,96
+10,regular,UTA,2016,10,11,Toronto Raptors,0,93,89
+11,regular,UTA,2016,11,12,Dallas Mavericks,1,93,102
+12,regular,UTA,2016,12,13,Oklahoma City Thunder,0,89,111
+13,regular,UTA,2016,13,14,Los Angeles Clippers,1,102,91
+14,regular,UTA,2016,14,15,New Orleans Pelicans,0,101,87
+15,regular,UTA,2016,15,16,Golden State Warriors,0,103,106
+16,regular,UTA,2016,16,17,Orlando Magic,0,94,103
+17,regular,UTA,2016,17,18,Indiana Pacers,0,122,119
+18,regular,UTA,2016,18,19,Sacramento Kings,1,106,114
+19,regular,UTA,2016,19,20,New York Knicks,0,106,85
+20,regular,UTA,2016,21,21,Oklahoma City Thunder,0,90,94
+21,regular,UTA,2016,22,22,Oklahoma City Thunder,1,98,104
+22,regular,UTA,2016,23,23,San Antonio Spurs,1,81,118
+23,regular,UTA,2016,24,24,New Orleans Pelicans,0,94,104
+24,regular,UTA,2016,25,25,Denver Nuggets,0,97,88
+25,regular,UTA,2016,26,26,Phoenix Suns,0,110,89
+26,regular,UTA,2016,27,27,Golden State Warriors,1,85,103
+27,regular,UTA,2016,28,28,Los Angeles Clippers,0,104,109
+28,regular,UTA,2016,29,29,Philadelphia 76ers,0,95,91
+29,regular,UTA,2016,30,30,Minnesota Timberwolves,1,80,94
+30,regular,UTA,2016,31,31,Portland Trail Blazers,0,109,96
+31,regular,UTA,2016,32,32,Memphis Grizzlies,0,92,87
+32,regular,UTA,2016,33,33,Houston Rockets,0,91,93
+33,regular,UTA,2016,34,34,San Antonio Spurs,1,98,123
+34,regular,UTA,2016,35,35,Houston Rockets,1,94,103
+35,regular,UTA,2016,36,36,Miami Heat,0,98,83
+36,regular,UTA,2016,37,37,Los Angeles Lakers,1,86,74
+37,regular,UTA,2016,38,38,Portland Trail Blazers,1,85,99
+38,regular,UTA,2016,39,39,Sacramento Kings,0,101,103
+39,regular,UTA,2016,40,40,Los Angeles Lakers,0,109,82
+40,regular,UTA,2016,42,41,Charlotte Hornets,1,119,124
+41,regular,UTA,2016,43,42,New York Knicks,1,111,118
+42,regular,UTA,2016,44,43,Brooklyn Nets,1,108,86
+43,regular,UTA,2016,45,44,Detroit Pistons,0,92,95
+44,regular,UTA,2016,46,45,Charlotte Hornets,0,102,73
+45,regular,UTA,2016,47,46,Minnesota Timberwolves,0,103,90
+46,regular,UTA,2016,48,47,Chicago Bulls,0,105,96
+47,regular,UTA,2016,49,48,Denver Nuggets,0,85,81
+48,regular,UTA,2016,50,49,Milwaukee Bucks,0,84,81
+49,regular,UTA,2016,51,50,Phoenix Suns,1,98,89
+50,regular,UTA,2016,52,51,Dallas Mavericks,1,121,119
+51,regular,UTA,2016,53,52,New Orleans Pelicans,1,96,100
+52,regular,UTA,2016,54,53,Washington Wizards,1,89,103
+53,regular,UTA,2016,55,54,Boston Celtics,0,111,93
+54,regular,UTA,2016,56,55,Portland Trail Blazers,1,111,115
+55,regular,UTA,2016,57,56,Houston Rockets,0,117,114
+56,regular,UTA,2016,58,57,San Antonio Spurs,0,78,96
+57,regular,UTA,2016,59,58,Brooklyn Nets,0,96,98
+58,regular,UTA,2016,60,59,Boston Celtics,1,95,100
+59,regular,UTA,2016,61,60,Toronto Raptors,1,94,104
+60,regular,UTA,2016,63,61,Memphis Grizzlies,1,88,94
+61,regular,UTA,2016,64,62,New Orleans Pelicans,1,106,94
+62,regular,UTA,2016,65,63,Atlanta Hawks,0,84,91
+63,regular,UTA,2016,66,64,Golden State Warriors,1,94,115
+64,regular,UTA,2016,67,65,Washington Wizards,0,114,93
+65,regular,UTA,2016,68,66,Sacramento Kings,1,108,99
+66,regular,UTA,2016,69,67,Cleveland Cavaliers,0,94,85
+67,regular,UTA,2016,70,68,Phoenix Suns,0,103,69
+68,regular,UTA,2016,71,69,Chicago Bulls,1,85,92
+69,regular,UTA,2016,72,70,Milwaukee Bucks,1,94,85
+70,regular,UTA,2016,73,71,Houston Rockets,1,89,87
+71,regular,UTA,2016,74,72,Oklahoma City Thunder,1,91,113
+72,regular,UTA,2016,75,73,Minnesota Timberwolves,1,93,84
+73,regular,UTA,2016,76,74,Los Angeles Lakers,0,123,75
+74,regular,UTA,2016,77,75,Golden State Warriors,0,96,103
+75,regular,UTA,2016,78,76,Minnesota Timberwolves,0,98,85
+76,regular,UTA,2016,79,77,Phoenix Suns,1,101,86
+77,regular,UTA,2016,80,78,San Antonio Spurs,0,86,88
+78,regular,UTA,2016,81,79,Los Angeles Clippers,0,99,102
+79,regular,UTA,2016,82,80,Denver Nuggets,1,100,84
+80,regular,UTA,2016,84,81,Dallas Mavericks,0,92,101
+81,regular,UTA,2016,85,82,Los Angeles Lakers,1,96,101
+0,playoff,UTA,2017,0,1,Los Angeles Clippers,1,97,95
+1,playoff,UTA,2017,1,2,Los Angeles Clippers,1,91,99
+2,playoff,UTA,2017,2,3,Los Angeles Clippers,0,106,111
+3,playoff,UTA,2017,3,4,Los Angeles Clippers,0,105,98
+4,playoff,UTA,2017,4,5,Los Angeles Clippers,1,96,92
+5,playoff,UTA,2017,5,6,Los Angeles Clippers,0,93,98
+6,playoff,UTA,2017,6,7,Los Angeles Clippers,1,104,91
+7,playoff,UTA,2017,8,8,Golden State Warriors,1,94,106
+8,playoff,UTA,2017,9,9,Golden State Warriors,1,104,115
+9,playoff,UTA,2017,10,10,Golden State Warriors,0,91,102
+10,playoff,UTA,2017,11,11,Golden State Warriors,0,95,121
+0,regular,UTA,2017,0,1,Portland Trail Blazers,1,104,113
+1,regular,UTA,2017,1,2,Los Angeles Lakers,0,96,89
+2,regular,UTA,2017,2,3,Los Angeles Clippers,1,75,88
+3,regular,UTA,2017,3,4,San Antonio Spurs,1,106,91
+4,regular,UTA,2017,4,5,Dallas Mavericks,0,97,81
+5,regular,UTA,2017,5,6,San Antonio Spurs,0,86,100
+6,regular,UTA,2017,6,7,New York Knicks,1,114,109
+7,regular,UTA,2017,7,8,Philadelphia 76ers,1,109,84
+8,regular,UTA,2017,8,9,Charlotte Hornets,1,98,104
+9,regular,UTA,2017,9,10,Orlando Magic,1,87,74
+10,regular,UTA,2017,10,11,Miami Heat,1,102,91
+11,regular,UTA,2017,11,12,Memphis Grizzlies,0,96,102
+12,regular,UTA,2017,12,13,Chicago Bulls,0,77,85
+13,regular,UTA,2017,13,14,Houston Rockets,1,102,111
+14,regular,UTA,2017,14,15,Denver Nuggets,1,91,105
+15,regular,UTA,2017,15,16,Denver Nuggets,0,108,83
+16,regular,UTA,2017,16,17,Atlanta Hawks,0,95,68
+17,regular,UTA,2017,17,18,Minnesota Timberwolves,1,112,103
+18,regular,UTA,2017,18,19,Houston Rockets,0,120,101
+19,regular,UTA,2017,19,20,Miami Heat,0,110,111
+20,regular,UTA,2017,21,21,Denver Nuggets,0,105,98
+21,regular,UTA,2017,22,22,Los Angeles Lakers,1,107,101
+22,regular,UTA,2017,23,23,Phoenix Suns,0,112,105
+23,regular,UTA,2017,24,24,Golden State Warriors,0,99,106
+24,regular,UTA,2017,25,25,Sacramento Kings,0,104,84
+25,regular,UTA,2017,26,26,Oklahoma City Thunder,0,109,89
+26,regular,UTA,2017,27,27,Dallas Mavericks,0,103,100
+27,regular,UTA,2017,28,28,Memphis Grizzlies,1,82,73
+28,regular,UTA,2017,29,29,Golden State Warriors,1,74,104
+29,regular,UTA,2017,30,30,Sacramento Kings,0,93,94
+30,regular,UTA,2017,31,31,Toronto Raptors,0,98,104
+31,regular,UTA,2017,32,32,Los Angeles Lakers,1,102,100
+32,regular,UTA,2017,33,33,Philadelphia 76ers,0,100,83
+33,regular,UTA,2017,34,34,Phoenix Suns,0,91,86
+34,regular,UTA,2017,35,35,Brooklyn Nets,1,101,89
+35,regular,UTA,2017,36,36,Boston Celtics,1,104,115
+36,regular,UTA,2017,37,37,Toronto Raptors,1,93,101
+37,regular,UTA,2017,38,38,Minnesota Timberwolves,1,94,92
+38,regular,UTA,2017,39,39,Memphis Grizzlies,1,79,88
+39,regular,UTA,2017,40,40,Cleveland Cavaliers,0,100,92
+40,regular,UTA,2017,42,41,Detroit Pistons,0,110,77
+41,regular,UTA,2017,43,42,Orlando Magic,0,114,107
+42,regular,UTA,2017,44,43,Phoenix Suns,1,106,101
+43,regular,UTA,2017,45,44,Dallas Mavericks,1,112,107
+44,regular,UTA,2017,46,45,Indiana Pacers,0,109,100
+45,regular,UTA,2017,47,46,Oklahoma City Thunder,0,95,97
+46,regular,UTA,2017,48,47,Denver Nuggets,1,93,103
+47,regular,UTA,2017,49,48,Los Angeles Lakers,0,96,88
+48,regular,UTA,2017,50,49,Memphis Grizzlies,0,95,102
+49,regular,UTA,2017,51,50,Milwaukee Bucks,0,104,88
+50,regular,UTA,2017,52,51,Charlotte Hornets,0,105,98
+51,regular,UTA,2017,53,52,Atlanta Hawks,1,120,95
+52,regular,UTA,2017,54,53,New Orleans Pelicans,1,127,94
+53,regular,UTA,2017,55,54,Dallas Mavericks,1,105,112
+54,regular,UTA,2017,56,55,Boston Celtics,0,104,112
+55,regular,UTA,2017,57,56,Los Angeles Clippers,0,72,88
+56,regular,UTA,2017,58,57,Portland Trail Blazers,0,111,88
+57,regular,UTA,2017,59,58,Milwaukee Bucks,1,109,95
+58,regular,UTA,2017,60,59,Washington Wizards,1,102,92
+59,regular,UTA,2017,61,60,Oklahoma City Thunder,1,106,109
+60,regular,UTA,2017,63,61,Minnesota Timberwolves,0,80,107
+61,regular,UTA,2017,64,62,Brooklyn Nets,0,112,97
+62,regular,UTA,2017,65,63,Sacramento Kings,1,110,109
+63,regular,UTA,2017,66,64,New Orleans Pelicans,0,88,83
+64,regular,UTA,2017,67,65,Houston Rockets,1,115,108
+65,regular,UTA,2017,68,66,Oklahoma City Thunder,1,104,112
+66,regular,UTA,2017,69,67,Los Angeles Clippers,0,114,108
+67,regular,UTA,2017,70,68,Detroit Pistons,1,97,83
+68,regular,UTA,2017,71,69,Cleveland Cavaliers,1,83,91
+69,regular,UTA,2017,72,70,Chicago Bulls,1,86,95
+70,regular,UTA,2017,73,71,Indiana Pacers,1,100,107
+71,regular,UTA,2017,74,72,New York Knicks,0,108,101
+72,regular,UTA,2017,75,73,Los Angeles Clippers,1,95,108
+73,regular,UTA,2017,76,74,New Orleans Pelicans,0,108,100
+74,regular,UTA,2017,77,75,Sacramento Kings,1,112,82
+75,regular,UTA,2017,78,76,Washington Wizards,0,95,88
+76,regular,UTA,2017,79,77,San Antonio Spurs,1,103,109
+77,regular,UTA,2017,80,78,Portland Trail Blazers,0,106,87
+78,regular,UTA,2017,81,79,Minnesota Timberwolves,0,120,113
+79,regular,UTA,2017,82,80,Portland Trail Blazers,1,86,101
+80,regular,UTA,2017,84,81,Golden State Warriors,1,105,99
+81,regular,UTA,2017,85,82,San Antonio Spurs,0,101,97
