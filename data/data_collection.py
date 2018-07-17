@@ -9,6 +9,7 @@ import os
 import pandas as pd
 from selenium import webdriver
 import time
+import copy
 import urllib3
 from bs4 import BeautifulSoup
 import re
@@ -16,8 +17,9 @@ import csv
 from selenium import webdriver
 
 
+# In[2]:
 
-def preprocess_match(game, team_name, filename):
+def preprocess_match(game, team_name, fileName):
     matchID_set = [str(x) for x in range(0, 200)]
     game.rename(columns = {'Unnamed: 5':'Home_away'}, inplace = True)
     mask_home = (game['Home_away'] == '@')
@@ -89,6 +91,7 @@ def collect_player_performance():
     player_id = read_player_id()
     for pid in player_id:
         for year in range(1999, 2018):
+#             print('https://www.basketball-reference.com/players/' + pid[0] +'/' + str(pid) + '/gamelog/' + str(year) +'/')
             try:
                 url = 'https://www.basketball-reference.com/players/' + pid[0] +'/' + str(pid) + '/gamelog/' + str(year) +'/'
                 tb = pd.read_html(url)
@@ -98,14 +101,50 @@ def collect_player_performance():
 #                 print('save')
             except:
                 continue
+# def collect_player_average():
+#     player_id = read_player_id()
+#     for pid in player_id:
+
+
+# In[11]:
+
+# collect_player_performance()
+# https://www.basketball-reference.com/players/c/curryst01.html
+player_id = read_player_id()
+count = 0
+for pid in player_id:
+    try:
+        url = 'https://www.basketball-reference.com/players/'+pid[0]+'/'+pid+'.html'
+        tb = pd.read_html(url)
+        col_ct = 0
+        lst = (list(tb[0])[0:30])
+        for it in lst:
+            if it.split(':')[0] != 'Unnamed':
+                col_ct += 1
+            else:
+                break
+        tb = tb[0][list(tb[0])[0:col_ct]]
+        tb.insert(loc=0, column='Id', value= [pid] * len(tb['Season']))
+        tb = tb[0:-1]
+        if count == 0:
+            all_tab = copy.deepcopy(tb)
+            count += 1
+        else:
+            all_tab = all_tab.append(copy.deepcopy(tb))
+        print(pid)
+    except:
+        continue
+all_tab = all_tab.fillna(0)
+all_tab.to_csv('player_perform_avg.csv')
+
+
+# In[10]:
+
+all_tab = all_tab.fillna(0)
+all_tab['3P%']
 
 
 # In[ ]:
-
-collect_player_performance()
-
-
-
 
 dict_used_name = {}
 dict_used_name['ATL'] = ['ATL','STL', 'MLH']
@@ -238,12 +277,33 @@ comments = soup.findAll(text=lambda text:isinstance(text, Comment))
 type(html_text)
 
 
-# In[51]:
+# In[4]:
 
-# from pyquery import PyQuery
+alphabet = [chr(i) for i in range(97,98)] 
+for charc in alphabet:
+    if charc != 'x':
+        url = 'https://www.basketball-reference.com/players/' + charc + '/'
+        tb = pd.read_html(url)
+        for k in range(len(tb[0]['Ht'])):
+            tb[0]['Ht'][k] = str(tb[0]['Ht'][k]) + '\t'
+        file_path = './player_data/basic/' 
+        os.makedirs(file_path, exist_ok=True)
+        tb[0].to_csv(file_path + '/' + charc + '.csv')     
 
-# pq = PyQuery(url="https://www.basketball-reference.com/players/z/zellety01/gamelog/2017/")
-# all_tables = pq(".table")
-# # print len(all_tables)
-# all_tables
+
+
+# In[5]:
+
+url = 'https://www.basketball-reference.com/players/' + 'a' + '/'
+tb = pd.read_html(url)
+
+
+# In[6]:
+
+tb
+
+
+# In[ ]:
+
+
 

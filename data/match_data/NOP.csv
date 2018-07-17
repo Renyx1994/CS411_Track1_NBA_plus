@@ -1,0 +1,1255 @@
+,playoff_regualr,team,year,Unnamed: 0,G,Opponent,Home_away,Tm,Opp
+0,playoff,NOP,2003,0,1,Philadelphia 76ers,1,90,98
+1,playoff,NOP,2003,1,2,Philadelphia 76ers,1,85,90
+2,playoff,NOP,2003,2,3,Philadelphia 76ers,0,99,85
+3,playoff,NOP,2003,3,4,Philadelphia 76ers,0,87,96
+4,playoff,NOP,2003,4,5,Philadelphia 76ers,1,93,91
+5,playoff,NOP,2003,5,6,Philadelphia 76ers,0,103,107
+0,regular,NOP,2003,0,1,Utah Jazz,0,100,75
+1,regular,NOP,2003,1,2,Chicago Bulls,1,79,84
+2,regular,NOP,2003,2,3,Miami Heat,0,100,95
+3,regular,NOP,2003,3,4,Seattle SuperSonics,0,86,84
+4,regular,NOP,2003,4,5,Golden State Warriors,0,110,104
+5,regular,NOP,2003,5,6,New York Knicks,1,97,91
+6,regular,NOP,2003,6,7,Detroit Pistons,1,87,93
+7,regular,NOP,2003,7,8,Minnesota Timberwolves,0,102,98
+8,regular,NOP,2003,8,9,Chicago Bulls,0,105,87
+9,regular,NOP,2003,9,10,Atlanta Hawks,1,82,89
+10,regular,NOP,2003,10,11,Philadelphia 76ers,0,99,98
+11,regular,NOP,2003,11,12,New York Knicks,0,105,97
+12,regular,NOP,2003,12,13,Cleveland Cavaliers,1,97,84
+13,regular,NOP,2003,13,14,Philadelphia 76ers,1,87,108
+14,regular,NOP,2003,14,15,Atlanta Hawks,0,106,94
+15,regular,NOP,2003,15,16,New York Knicks,1,86,92
+16,regular,NOP,2003,16,17,Boston Celtics,1,86,95
+17,regular,NOP,2003,17,18,Chicago Bulls,1,115,90
+18,regular,NOP,2003,18,19,Toronto Raptors,0,89,74
+19,regular,NOP,2003,19,20,Houston Rockets,0,98,96
+20,regular,NOP,2003,21,21,Milwaukee Bucks,1,94,88
+21,regular,NOP,2003,22,22,Los Angeles Clippers,0,90,94
+22,regular,NOP,2003,23,23,Utah Jazz,1,93,88
+23,regular,NOP,2003,24,24,Los Angeles Lakers,1,98,82
+24,regular,NOP,2003,25,25,Sacramento Kings,1,92,107
+25,regular,NOP,2003,26,26,Portland Trail Blazers,1,93,102
+26,regular,NOP,2003,27,27,Golden State Warriors,1,106,111
+27,regular,NOP,2003,28,28,Seattle SuperSonics,1,88,86
+28,regular,NOP,2003,29,29,San Antonio Spurs,1,94,99
+29,regular,NOP,2003,30,30,Dallas Mavericks,0,81,83
+30,regular,NOP,2003,31,31,Indiana Pacers,1,84,91
+31,regular,NOP,2003,32,32,Houston Rockets,1,85,97
+32,regular,NOP,2003,33,33,Indiana Pacers,0,86,89
+33,regular,NOP,2003,34,34,Orlando Magic,0,100,89
+34,regular,NOP,2003,35,35,Toronto Raptors,1,99,84
+35,regular,NOP,2003,36,36,Memphis Grizzlies,1,102,106
+36,regular,NOP,2003,37,37,Boston Celtics,0,83,93
+37,regular,NOP,2003,38,38,Detroit Pistons,0,99,101
+38,regular,NOP,2003,39,39,Atlanta Hawks,1,80,87
+39,regular,NOP,2003,40,40,Los Angeles Lakers,0,82,90
+40,regular,NOP,2003,42,41,Chicago Bulls,0,90,83
+41,regular,NOP,2003,43,42,Phoenix Suns,0,114,102
+42,regular,NOP,2003,44,43,Washington Wizards,0,103,94
+43,regular,NOP,2003,45,44,Portland Trail Blazers,0,96,97
+44,regular,NOP,2003,46,45,Milwaukee Bucks,0,93,108
+45,regular,NOP,2003,47,46,Toronto Raptors,0,104,83
+46,regular,NOP,2003,48,47,New Jersey Nets,1,72,89
+47,regular,NOP,2003,49,48,Washington Wizards,1,104,109
+48,regular,NOP,2003,50,49,Boston Celtics,0,103,96
+49,regular,NOP,2003,51,50,Sacramento Kings,0,108,84
+50,regular,NOP,2003,52,51,Miami Heat,1,78,69
+51,regular,NOP,2003,53,52,Indiana Pacers,0,72,83
+52,regular,NOP,2003,54,53,Minnesota Timberwolves,1,93,114
+53,regular,NOP,2003,55,54,Denver Nuggets,0,100,92
+54,regular,NOP,2003,56,55,Orlando Magic,1,94,99
+55,regular,NOP,2003,57,56,Washington Wizards,0,87,75
+56,regular,NOP,2003,58,57,Memphis Grizzlies,0,125,123
+57,regular,NOP,2003,59,58,Detroit Pistons,1,93,91
+58,regular,NOP,2003,60,59,Miami Heat,0,91,82
+59,regular,NOP,2003,61,60,Denver Nuggets,1,94,88
+60,regular,NOP,2003,63,61,Phoenix Suns,1,97,92
+61,regular,NOP,2003,64,62,Los Angeles Clippers,1,111,108
+62,regular,NOP,2003,65,63,Cleveland Cavaliers,0,102,76
+63,regular,NOP,2003,66,64,New Jersey Nets,0,92,102
+64,regular,NOP,2003,67,65,Indiana Pacers,1,81,71
+65,regular,NOP,2003,68,66,Boston Celtics,1,65,93
+66,regular,NOP,2003,69,67,Miami Heat,1,87,83
+67,regular,NOP,2003,70,68,Orlando Magic,1,86,96
+68,regular,NOP,2003,71,69,New York Knicks,0,101,96
+69,regular,NOP,2003,72,70,Milwaukee Bucks,0,113,98
+70,regular,NOP,2003,73,71,Milwaukee Bucks,1,85,93
+71,regular,NOP,2003,74,72,Orlando Magic,0,95,97
+72,regular,NOP,2003,75,73,Toronto Raptors,1,101,92
+73,regular,NOP,2003,76,74,San Antonio Spurs,0,90,92
+74,regular,NOP,2003,77,75,Dallas Mavericks,1,86,95
+75,regular,NOP,2003,78,76,New Jersey Nets,0,106,97
+76,regular,NOP,2003,79,77,Cleveland Cavaliers,1,76,79
+77,regular,NOP,2003,80,78,Cleveland Cavaliers,0,100,81
+78,regular,NOP,2003,81,79,Detroit Pistons,0,93,89
+79,regular,NOP,2003,82,80,Philadelphia 76ers,1,94,89
+80,regular,NOP,2003,84,81,New Jersey Nets,1,87,74
+81,regular,NOP,2003,85,82,Atlanta Hawks,0,92,77
+0,playoff,NOP,2004,0,1,Miami Heat,1,79,81
+1,playoff,NOP,2004,1,2,Miami Heat,1,63,93
+2,playoff,NOP,2004,2,3,Miami Heat,0,77,71
+3,playoff,NOP,2004,3,4,Miami Heat,0,96,85
+4,playoff,NOP,2004,4,5,Miami Heat,1,83,87
+5,playoff,NOP,2004,5,6,Miami Heat,0,89,83
+6,playoff,NOP,2004,6,7,Miami Heat,1,77,85
+0,regular,NOP,2004,0,1,Atlanta Hawks,0,88,83
+1,regular,NOP,2004,1,2,Orlando Magic,1,100,98
+2,regular,NOP,2004,2,3,Boston Celtics,0,97,90
+3,regular,NOP,2004,3,4,Atlanta Hawks,1,80,90
+4,regular,NOP,2004,4,5,Philadelphia 76ers,1,106,99
+5,regular,NOP,2004,5,6,Los Angeles Lakers,0,114,95
+6,regular,NOP,2004,6,7,Chicago Bulls,0,106,109
+7,regular,NOP,2004,7,8,Dallas Mavericks,1,97,125
+8,regular,NOP,2004,8,9,Utah Jazz,0,96,89
+9,regular,NOP,2004,9,10,Portland Trail Blazers,0,101,79
+10,regular,NOP,2004,10,11,New Jersey Nets,1,88,85
+11,regular,NOP,2004,11,12,Boston Celtics,1,81,73
+12,regular,NOP,2004,12,13,Indiana Pacers,0,75,76
+13,regular,NOP,2004,13,14,Detroit Pistons,1,81,80
+14,regular,NOP,2004,14,15,Miami Heat,1,87,91
+15,regular,NOP,2004,15,16,Cleveland Cavaliers,0,82,72
+16,regular,NOP,2004,16,17,New York Knicks,1,74,79
+17,regular,NOP,2004,17,18,Orlando Magic,1,100,91
+18,regular,NOP,2004,18,19,Orlando Magic,0,106,91
+19,regular,NOP,2004,19,20,Houston Rockets,0,74,83
+20,regular,NOP,2004,21,21,Chicago Bulls,1,97,91
+21,regular,NOP,2004,22,22,Milwaukee Bucks,0,91,85
+22,regular,NOP,2004,23,23,Phoenix Suns,1,111,101
+23,regular,NOP,2004,24,24,Golden State Warriors,1,96,85
+24,regular,NOP,2004,25,25,Los Angeles Clippers,1,80,109
+25,regular,NOP,2004,26,26,Denver Nuggets,1,94,116
+26,regular,NOP,2004,27,27,Sacramento Kings,0,90,101
+27,regular,NOP,2004,28,28,Memphis Grizzlies,0,94,89
+28,regular,NOP,2004,29,29,Cleveland Cavaliers,1,86,97
+29,regular,NOP,2004,30,30,Atlanta Hawks,0,109,79
+30,regular,NOP,2004,31,31,Detroit Pistons,1,99,108
+31,regular,NOP,2004,32,32,Boston Celtics,1,96,94
+32,regular,NOP,2004,33,33,Toronto Raptors,1,86,74
+33,regular,NOP,2004,34,34,Indiana Pacers,1,84,91
+34,regular,NOP,2004,35,35,Washington Wizards,0,97,87
+35,regular,NOP,2004,36,36,San Antonio Spurs,0,84,94
+36,regular,NOP,2004,37,37,Chicago Bulls,1,84,89
+37,regular,NOP,2004,38,38,Minnesota Timberwolves,0,89,94
+38,regular,NOP,2004,39,39,Toronto Raptors,0,74,78
+39,regular,NOP,2004,40,40,Orlando Magic,0,91,90
+40,regular,NOP,2004,42,41,Minnesota Timberwolves,1,90,97
+41,regular,NOP,2004,43,42,Philadelphia 76ers,0,86,92
+42,regular,NOP,2004,44,43,Denver Nuggets,0,97,91
+43,regular,NOP,2004,45,44,San Antonio Spurs,1,98,96
+44,regular,NOP,2004,46,45,Milwaukee Bucks,0,101,100
+45,regular,NOP,2004,47,46,Philadelphia 76ers,1,82,85
+46,regular,NOP,2004,48,47,Miami Heat,0,70,94
+47,regular,NOP,2004,49,48,New Jersey Nets,0,70,91
+48,regular,NOP,2004,50,49,Dallas Mavericks,0,104,113
+49,regular,NOP,2004,51,50,Detroit Pistons,0,92,81
+50,regular,NOP,2004,52,51,Milwaukee Bucks,1,97,107
+51,regular,NOP,2004,53,52,New York Knicks,0,106,98
+52,regular,NOP,2004,54,53,Indiana Pacers,1,89,75
+53,regular,NOP,2004,55,54,Washington Wizards,0,120,98
+54,regular,NOP,2004,56,55,New Jersey Nets,1,84,97
+55,regular,NOP,2004,57,56,Cleveland Cavaliers,1,100,104
+56,regular,NOP,2004,58,57,Los Angeles Clippers,0,99,93
+57,regular,NOP,2004,59,58,Indiana Pacers,0,89,77
+58,regular,NOP,2004,60,59,Memphis Grizzlies,1,92,97
+59,regular,NOP,2004,61,60,Washington Wizards,1,106,111
+60,regular,NOP,2004,63,61,Chicago Bulls,0,100,97
+61,regular,NOP,2004,64,62,Cleveland Cavaliers,0,85,88
+62,regular,NOP,2004,65,63,Toronto Raptors,1,76,84
+63,regular,NOP,2004,66,64,Miami Heat,0,95,84
+64,regular,NOP,2004,67,65,Houston Rockets,1,86,97
+65,regular,NOP,2004,68,66,Golden State Warriors,0,102,84
+66,regular,NOP,2004,69,67,Miami Heat,1,83,96
+67,regular,NOP,2004,70,68,Philadelphia 76ers,0,104,80
+68,regular,NOP,2004,71,69,Seattle SuperSonics,0,80,91
+69,regular,NOP,2004,72,70,Toronto Raptors,0,120,121
+70,regular,NOP,2004,73,71,Detroit Pistons,0,82,81
+71,regular,NOP,2004,74,72,Atlanta Hawks,1,76,84
+72,regular,NOP,2004,75,73,Phoenix Suns,0,94,99
+73,regular,NOP,2004,76,74,Los Angeles Lakers,1,88,107
+74,regular,NOP,2004,77,75,Utah Jazz,1,76,89
+75,regular,NOP,2004,78,76,Portland Trail Blazers,1,94,81
+76,regular,NOP,2004,79,77,Seattle SuperSonics,1,88,96
+77,regular,NOP,2004,80,78,Sacramento Kings,1,91,105
+78,regular,NOP,2004,81,79,Boston Celtics,0,89,80
+79,regular,NOP,2004,82,80,Milwaukee Bucks,1,92,87
+80,regular,NOP,2004,84,81,New York Knicks,0,97,101
+81,regular,NOP,2004,85,82,Washington Wizards,1,94,78
+0,regular,NOP,2005,0,1,Dallas Mavericks,0,91,106
+1,regular,NOP,2005,1,2,Orlando Magic,0,89,90
+2,regular,NOP,2005,2,3,Minnesota Timberwolves,1,92,99
+3,regular,NOP,2005,3,4,Los Angeles Lakers,0,98,106
+4,regular,NOP,2005,4,5,Atlanta Hawks,0,95,96
+5,regular,NOP,2005,5,6,Milwaukee Bucks,1,91,94
+6,regular,NOP,2005,6,7,Phoenix Suns,0,84,95
+7,regular,NOP,2005,7,8,Minnesota Timberwolves,0,94,99
+8,regular,NOP,2005,8,9,Utah Jazz,1,76,75
+9,regular,NOP,2005,9,10,Golden State Warriors,1,109,115
+10,regular,NOP,2005,10,11,Phoenix Suns,1,86,95
+11,regular,NOP,2005,11,12,Los Angeles Lakers,1,76,89
+12,regular,NOP,2005,12,13,Denver Nuggets,1,67,76
+13,regular,NOP,2005,13,14,Sacramento Kings,0,81,94
+14,regular,NOP,2005,14,15,Detroit Pistons,0,69,92
+15,regular,NOP,2005,15,16,Houston Rockets,1,81,89
+16,regular,NOP,2005,16,17,New York Knicks,0,79,86
+17,regular,NOP,2005,17,18,New Jersey Nets,1,91,94
+18,regular,NOP,2005,18,19,Washington Wizards,1,69,88
+19,regular,NOP,2005,19,20,Charlotte Bobcats,1,93,94
+20,regular,NOP,2005,21,21,Golden State Warriors,0,98,89
+21,regular,NOP,2005,22,22,San Antonio Spurs,0,67,83
+22,regular,NOP,2005,23,23,Sacramento Kings,1,71,107
+23,regular,NOP,2005,24,24,Los Angeles Clippers,1,91,100
+24,regular,NOP,2005,25,25,Los Angeles Lakers,1,89,101
+25,regular,NOP,2005,26,26,Cleveland Cavaliers,1,91,100
+26,regular,NOP,2005,27,27,Indiana Pacers,1,82,100
+27,regular,NOP,2005,28,28,Phoenix Suns,0,96,107
+28,regular,NOP,2005,29,29,Boston Celtics,1,90,108
+29,regular,NOP,2005,30,30,Chicago Bulls,0,89,95
+30,regular,NOP,2005,31,31,Memphis Grizzlies,1,76,84
+31,regular,NOP,2005,32,32,Sacramento Kings,0,121,117
+32,regular,NOP,2005,33,33,New York Knicks,1,88,82
+33,regular,NOP,2005,34,34,Detroit Pistons,1,76,90
+34,regular,NOP,2005,35,35,Portland Trail Blazers,0,112,106
+35,regular,NOP,2005,36,36,Toronto Raptors,1,99,102
+36,regular,NOP,2005,37,37,Philadelphia 76ers,1,91,95
+37,regular,NOP,2005,38,38,Indiana Pacers,0,90,87
+38,regular,NOP,2005,39,39,Los Angeles Clippers,0,88,85
+39,regular,NOP,2005,40,40,Miami Heat,1,68,97
+40,regular,NOP,2005,42,41,Houston Rockets,0,77,82
+41,regular,NOP,2005,43,42,Philadelphia 76ers,0,99,95
+42,regular,NOP,2005,44,43,San Antonio Spurs,1,83,93
+43,regular,NOP,2005,45,44,Memphis Grizzlies,0,91,98
+44,regular,NOP,2005,46,45,Dallas Mavericks,0,82,90
+45,regular,NOP,2005,47,46,Golden State Warriors,1,82,90
+46,regular,NOP,2005,48,47,Utah Jazz,1,92,108
+47,regular,NOP,2005,49,48,Seattle SuperSonics,1,91,108
+48,regular,NOP,2005,50,49,Portland Trail Blazers,1,91,80
+49,regular,NOP,2005,51,50,Golden State Warriors,0,111,108
+50,regular,NOP,2005,52,51,Orlando Magic,1,94,97
+51,regular,NOP,2005,53,52,Washington Wizards,0,98,96
+52,regular,NOP,2005,54,53,San Antonio Spurs,0,78,101
+53,regular,NOP,2005,55,54,Seattle SuperSonics,0,85,103
+54,regular,NOP,2005,56,55,Denver Nuggets,0,93,94
+55,regular,NOP,2005,57,56,Dallas Mavericks,1,86,90
+56,regular,NOP,2005,58,57,Charlotte Bobcats,0,94,85
+57,regular,NOP,2005,59,58,Utah Jazz,0,92,85
+58,regular,NOP,2005,60,59,Toronto Raptors,0,84,95
+59,regular,NOP,2005,61,60,New Jersey Nets,0,85,86
+60,regular,NOP,2005,63,61,Milwaukee Bucks,0,111,107
+61,regular,NOP,2005,64,62,San Antonio Spurs,1,89,112
+62,regular,NOP,2005,65,63,Memphis Grizzlies,0,82,88
+63,regular,NOP,2005,66,64,Chicago Bulls,1,94,90
+64,regular,NOP,2005,67,65,Boston Celtics,0,100,113
+65,regular,NOP,2005,68,66,Dallas Mavericks,1,86,103
+66,regular,NOP,2005,69,67,Minnesota Timberwolves,1,102,107
+67,regular,NOP,2005,70,68,Houston Rockets,0,68,81
+68,regular,NOP,2005,71,69,Memphis Grizzlies,1,96,85
+69,regular,NOP,2005,72,70,Cleveland Cavaliers,0,108,109
+70,regular,NOP,2005,73,71,Houston Rockets,1,76,73
+71,regular,NOP,2005,74,72,Miami Heat,0,99,111
+72,regular,NOP,2005,75,73,Atlanta Hawks,1,96,86
+73,regular,NOP,2005,76,74,Denver Nuggets,0,83,94
+74,regular,NOP,2005,77,75,Utah Jazz,0,87,98
+75,regular,NOP,2005,78,76,Portland Trail Blazers,0,81,90
+76,regular,NOP,2005,79,77,Phoenix Suns,1,85,99
+77,regular,NOP,2005,80,78,Denver Nuggets,1,102,116
+78,regular,NOP,2005,81,79,Seattle SuperSonics,1,72,97
+79,regular,NOP,2005,82,80,Los Angeles Clippers,1,89,94
+80,regular,NOP,2005,84,81,Minnesota Timberwolves,0,99,102
+81,regular,NOP,2005,85,82,Los Angeles Clippers,0,75,86
+0,regular,NOP,2006,0,1,Sacramento Kings,0,93,67
+1,regular,NOP,2006,1,2,Cleveland Cavaliers,1,87,109
+2,regular,NOP,2006,2,3,Houston Rockets,1,91,84
+3,regular,NOP,2006,3,4,Orlando Magic,0,83,88
+4,regular,NOP,2006,4,5,Dallas Mavericks,0,103,109
+5,regular,NOP,2006,5,6,Miami Heat,1,102,109
+6,regular,NOP,2006,6,7,Denver Nuggets,0,81,91
+7,regular,NOP,2006,7,8,Atlanta Hawks,0,95,92
+8,regular,NOP,2006,8,9,Orlando Magic,1,98,95
+9,regular,NOP,2006,9,10,Philadelphia 76ers,1,91,103
+10,regular,NOP,2006,10,11,Minnesota Timberwolves,0,84,80
+11,regular,NOP,2006,11,12,Seattle SuperSonics,1,105,99
+12,regular,NOP,2006,12,13,Golden State Warriors,1,83,99
+13,regular,NOP,2006,13,14,Denver Nuggets,1,102,95
+14,regular,NOP,2006,14,15,Philadelphia 76ers,0,88,86
+15,regular,NOP,2006,15,16,Dallas Mavericks,1,88,97
+16,regular,NOP,2006,16,17,Memphis Grizzlies,1,73,89
+17,regular,NOP,2006,17,18,Boston Celtics,0,87,101
+18,regular,NOP,2006,18,19,Portland Trail Blazers,1,95,98
+19,regular,NOP,2006,19,20,Sacramento Kings,1,100,110
+20,regular,NOP,2006,21,21,Phoenix Suns,1,91,87
+21,regular,NOP,2006,22,22,Los Angeles Clippers,0,102,89
+22,regular,NOP,2006,23,23,Phoenix Suns,0,88,101
+23,regular,NOP,2006,24,24,San Antonio Spurs,0,89,76
+24,regular,NOP,2006,25,25,Minnesota Timberwolves,1,69,88
+25,regular,NOP,2006,26,26,Milwaukee Bucks,1,94,101
+26,regular,NOP,2006,27,27,Houston Rockets,0,92,90
+27,regular,NOP,2006,28,28,San Antonio Spurs,1,84,111
+28,regular,NOP,2006,29,29,Dallas Mavericks,0,90,95
+29,regular,NOP,2006,30,30,Charlotte Bobcats,0,103,86
+30,regular,NOP,2006,31,31,Miami Heat,0,107,92
+31,regular,NOP,2006,32,32,Portland Trail Blazers,0,90,80
+32,regular,NOP,2006,33,33,Atlanta Hawks,1,93,101
+33,regular,NOP,2006,34,34,Detroit Pistons,0,86,96
+34,regular,NOP,2006,35,35,Sacramento Kings,0,90,76
+35,regular,NOP,2006,36,36,Houston Rockets,1,86,80
+36,regular,NOP,2006,37,37,Charlotte Bobcats,1,107,92
+37,regular,NOP,2006,38,38,Memphis Grizzlies,0,87,79
+38,regular,NOP,2006,39,39,Washington Wizards,1,99,110
+39,regular,NOP,2006,40,40,New York Knicks,1,109,98
+40,regular,NOP,2006,42,41,Boston Celtics,1,78,91
+41,regular,NOP,2006,43,42,San Antonio Spurs,0,68,84
+42,regular,NOP,2006,44,43,Memphis Grizzlies,1,95,86
+43,regular,NOP,2006,45,44,Milwaukee Bucks,0,94,93
+44,regular,NOP,2006,46,45,Chicago Bulls,0,100,95
+45,regular,NOP,2006,47,46,Los Angeles Lakers,0,106,90
+46,regular,NOP,2006,48,47,New Jersey Nets,1,91,99
+47,regular,NOP,2006,49,48,Seattle SuperSonics,0,109,102
+48,regular,NOP,2006,50,49,New York Knicks,0,111,100
+49,regular,NOP,2006,51,50,Minnesota Timberwolves,1,100,94
+50,regular,NOP,2006,52,51,Washington Wizards,0,97,96
+51,regular,NOP,2006,53,52,Portland Trail Blazers,0,102,86
+52,regular,NOP,2006,54,53,Indiana Pacers,1,75,97
+53,regular,NOP,2006,55,54,Utah Jazz,0,76,82
+54,regular,NOP,2006,56,55,Utah Jazz,1,100,95
+55,regular,NOP,2006,57,56,Portland Trail Blazers,1,88,75
+56,regular,NOP,2006,58,57,Seattle SuperSonics,1,104,114
+57,regular,NOP,2006,59,58,Los Angeles Clippers,1,67,89
+58,regular,NOP,2006,60,59,Phoenix Suns,0,88,101
+59,regular,NOP,2006,61,60,Los Angeles Lakers,0,107,113
+60,regular,NOP,2006,63,61,Indiana Pacers,0,90,92
+61,regular,NOP,2006,64,62,New Jersey Nets,0,84,95
+62,regular,NOP,2006,65,63,San Antonio Spurs,1,81,96
+63,regular,NOP,2006,66,64,Denver Nuggets,0,94,109
+64,regular,NOP,2006,67,65,Los Angeles Clippers,0,120,108
+65,regular,NOP,2006,68,66,Houston Rockets,0,92,93
+66,regular,NOP,2006,69,67,Chicago Bulls,1,82,96
+67,regular,NOP,2006,70,68,Los Angeles Lakers,1,94,105
+68,regular,NOP,2006,71,69,Utah Jazz,1,80,104
+69,regular,NOP,2006,72,70,Golden State Warriors,1,86,85
+70,regular,NOP,2006,73,71,Memphis Grizzlies,0,107,102
+71,regular,NOP,2006,74,72,Toronto Raptors,1,120,113
+72,regular,NOP,2006,75,73,Detroit Pistons,1,93,101
+73,regular,NOP,2006,76,74,Golden State Warriors,0,114,109
+74,regular,NOP,2006,77,75,Toronto Raptors,0,95,89
+75,regular,NOP,2006,78,76,Dallas Mavericks,1,77,101
+76,regular,NOP,2006,79,77,Cleveland Cavaliers,0,101,103
+77,regular,NOP,2006,80,78,Seattle SuperSonics,0,104,99
+78,regular,NOP,2006,81,79,Utah Jazz,0,104,105
+79,regular,NOP,2006,82,80,Sacramento Kings,1,79,96
+80,regular,NOP,2006,84,81,Phoenix Suns,1,78,115
+81,regular,NOP,2006,85,82,Los Angeles Lakers,1,95,115
+0,regular,NOP,2007,0,1,Boston Celtics,1,91,87
+1,regular,NOP,2007,1,2,Indiana Pacers,1,100,91
+2,regular,NOP,2007,2,3,Houston Rockets,0,96,90
+3,regular,NOP,2007,3,4,Golden State Warriors,0,97,93
+4,regular,NOP,2007,4,5,Golden State Warriors,1,116,121
+5,regular,NOP,2007,5,6,Portland Trail Blazers,1,91,92
+6,regular,NOP,2007,6,7,Los Angeles Clippers,1,76,92
+7,regular,NOP,2007,7,8,Charlotte Bobcats,0,94,85
+8,regular,NOP,2007,8,9,Detroit Pistons,1,100,99
+9,regular,NOP,2007,9,10,Minnesota Timberwolves,1,99,96
+10,regular,NOP,2007,10,11,Miami Heat,0,101,86
+11,regular,NOP,2007,11,12,Phoenix Suns,1,83,92
+12,regular,NOP,2007,12,13,Minnesota Timberwolves,0,79,86
+13,regular,NOP,2007,13,14,Dallas Mavericks,1,73,85
+14,regular,NOP,2007,14,15,Toronto Raptors,0,77,94
+15,regular,NOP,2007,15,16,Chicago Bulls,0,108,111
+16,regular,NOP,2007,16,17,Los Angeles Lakers,1,105,89
+17,regular,NOP,2007,17,18,Seattle SuperSonics,1,74,94
+18,regular,NOP,2007,18,19,Golden State Warriors,1,80,101
+19,regular,NOP,2007,19,20,Cleveland Cavaliers,0,95,89
+20,regular,NOP,2007,21,21,San Antonio Spurs,0,77,103
+21,regular,NOP,2007,22,22,Dallas Mavericks,0,79,90
+22,regular,NOP,2007,23,23,Miami Heat,1,99,101
+23,regular,NOP,2007,24,24,Orlando Magic,1,83,86
+24,regular,NOP,2007,25,25,Memphis Grizzlies,0,100,97
+25,regular,NOP,2007,26,26,San Antonio Spurs,0,77,112
+26,regular,NOP,2007,27,27,Seattle SuperSonics,1,94,102
+27,regular,NOP,2007,28,28,Portland Trail Blazers,1,85,100
+28,regular,NOP,2007,29,29,Denver Nuggets,0,99,89
+29,regular,NOP,2007,30,30,Dallas Mavericks,1,80,94
+30,regular,NOP,2007,31,31,Golden State Warriors,0,89,97
+31,regular,NOP,2007,32,32,Detroit Pistons,0,68,92
+32,regular,NOP,2007,33,33,Indiana Pacers,0,93,100
+33,regular,NOP,2007,34,34,Los Angeles Clippers,0,90,100
+34,regular,NOP,2007,35,35,Atlanta Hawks,1,96,77
+35,regular,NOP,2007,36,36,Washington Wizards,0,104,97
+36,regular,NOP,2007,37,37,Orlando Magic,0,84,78
+37,regular,NOP,2007,38,38,San Antonio Spurs,1,86,99
+38,regular,NOP,2007,39,39,Los Angeles Lakers,0,113,103
+39,regular,NOP,2007,40,40,Philadelphia 76ers,1,96,102
+40,regular,NOP,2007,42,41,Toronto Raptors,1,88,90
+41,regular,NOP,2007,43,42,Sacramento Kings,0,88,84
+42,regular,NOP,2007,44,43,Utah Jazz,0,94,83
+43,regular,NOP,2007,45,44,Portland Trail Blazers,0,103,91
+44,regular,NOP,2007,46,45,Philadelphia 76ers,0,78,89
+45,regular,NOP,2007,47,46,Minnesota Timberwolves,0,90,83
+46,regular,NOP,2007,48,47,Houston Rockets,1,87,74
+47,regular,NOP,2007,49,48,Sacramento Kings,1,99,105
+48,regular,NOP,2007,50,49,Denver Nuggets,1,114,112
+49,regular,NOP,2007,51,50,Milwaukee Bucks,0,109,101
+50,regular,NOP,2007,52,51,Memphis Grizzlies,0,114,99
+51,regular,NOP,2007,53,52,Memphis Grizzlies,1,104,108
+52,regular,NOP,2007,54,53,Sacramento Kings,0,110,93
+53,regular,NOP,2007,55,54,Charlotte Bobcats,1,100,104
+54,regular,NOP,2007,56,55,New Jersey Nets,1,111,107
+55,regular,NOP,2007,57,56,Seattle SuperSonics,0,98,97
+56,regular,NOP,2007,58,57,Cleveland Cavaliers,1,89,97
+57,regular,NOP,2007,59,58,Atlanta Hawks,0,107,100
+58,regular,NOP,2007,60,59,Chicago Bulls,1,93,104
+59,regular,NOP,2007,61,60,Utah Jazz,0,94,108
+60,regular,NOP,2007,63,61,Denver Nuggets,1,91,106
+61,regular,NOP,2007,64,62,Phoenix Suns,1,103,104
+62,regular,NOP,2007,65,63,Utah Jazz,1,86,96
+63,regular,NOP,2007,66,64,New Jersey Nets,0,108,112
+64,regular,NOP,2007,67,65,New York Knicks,1,92,90
+65,regular,NOP,2007,68,66,Washington Wizards,1,103,125
+66,regular,NOP,2007,69,67,Boston Celtics,0,106,88
+67,regular,NOP,2007,70,68,Memphis Grizzlies,1,114,103
+68,regular,NOP,2007,71,69,Los Angeles Lakers,0,105,111
+69,regular,NOP,2007,72,70,Houston Rockets,0,106,94
+70,regular,NOP,2007,73,71,Dallas Mavericks,0,89,105
+71,regular,NOP,2007,74,72,San Antonio Spurs,1,88,92
+72,regular,NOP,2007,75,73,New York Knicks,0,103,94
+73,regular,NOP,2007,76,74,Milwaukee Bucks,1,119,101
+74,regular,NOP,2007,77,75,Seattle SuperSonics,0,101,92
+75,regular,NOP,2007,78,76,Phoenix Suns,0,95,103
+76,regular,NOP,2007,79,77,Minnesota Timberwolves,1,96,94
+77,regular,NOP,2007,80,78,Los Angeles Clippers,0,103,100
+78,regular,NOP,2007,81,79,Denver Nuggets,0,105,107
+79,regular,NOP,2007,82,80,Houston Rockets,1,112,123
+80,regular,NOP,2007,84,81,Sacramento Kings,1,125,118
+81,regular,NOP,2007,85,82,Los Angeles Clippers,1,86,83
+0,playoff,NOP,2008,0,1,Dallas Mavericks,0,104,92
+1,playoff,NOP,2008,1,2,Dallas Mavericks,0,127,103
+2,playoff,NOP,2008,2,3,Dallas Mavericks,1,87,97
+3,playoff,NOP,2008,3,4,Dallas Mavericks,1,97,84
+4,playoff,NOP,2008,4,5,Dallas Mavericks,0,99,94
+5,playoff,NOP,2008,6,6,San Antonio Spurs,0,101,82
+6,playoff,NOP,2008,7,7,San Antonio Spurs,0,102,84
+7,playoff,NOP,2008,8,8,San Antonio Spurs,1,99,110
+8,playoff,NOP,2008,9,9,San Antonio Spurs,1,80,100
+9,playoff,NOP,2008,10,10,San Antonio Spurs,0,101,79
+10,playoff,NOP,2008,11,11,San Antonio Spurs,1,80,99
+11,playoff,NOP,2008,12,12,San Antonio Spurs,0,82,91
+0,regular,NOP,2008,0,1,Sacramento Kings,0,104,90
+1,regular,NOP,2008,1,2,Portland Trail Blazers,0,113,93
+2,regular,NOP,2008,2,3,Denver Nuggets,1,93,88
+3,regular,NOP,2008,3,4,Los Angeles Lakers,1,118,104
+4,regular,NOP,2008,4,5,Portland Trail Blazers,1,90,93
+5,regular,NOP,2008,5,6,San Antonio Spurs,0,85,97
+6,regular,NOP,2008,6,7,Philadelphia 76ers,1,93,72
+7,regular,NOP,2008,7,8,New Jersey Nets,1,84,82
+8,regular,NOP,2008,8,9,Philadelphia 76ers,0,95,76
+9,regular,NOP,2008,9,10,Memphis Grizzlies,1,120,118
+10,regular,NOP,2008,10,11,Minnesota Timberwolves,1,100,82
+11,regular,NOP,2008,11,12,Orlando Magic,0,88,95
+12,regular,NOP,2008,12,13,Indiana Pacers,0,93,105
+13,regular,NOP,2008,13,14,Utah Jazz,1,71,99
+14,regular,NOP,2008,14,15,Los Angeles Clippers,1,98,89
+15,regular,NOP,2008,15,16,Minnesota Timberwolves,0,94,103
+16,regular,NOP,2008,16,17,Atlanta Hawks,1,92,86
+17,regular,NOP,2008,17,18,Dallas Mavericks,0,112,108
+18,regular,NOP,2008,18,19,Detroit Pistons,0,76,91
+19,regular,NOP,2008,19,20,Memphis Grizzlies,0,118,116
+20,regular,NOP,2008,21,21,Seattle SuperSonics,0,91,88
+21,regular,NOP,2008,22,22,Denver Nuggets,1,99,105
+22,regular,NOP,2008,23,23,Dallas Mavericks,1,80,89
+23,regular,NOP,2008,24,24,Phoenix Suns,0,101,98
+24,regular,NOP,2008,25,25,Portland Trail Blazers,1,76,88
+25,regular,NOP,2008,26,26,Seattle SuperSonics,1,107,93
+26,regular,NOP,2008,27,27,Minnesota Timberwolves,0,110,76
+27,regular,NOP,2008,28,28,Memphis Grizzlies,1,116,98
+28,regular,NOP,2008,29,29,Charlotte Bobcats,1,99,85
+29,regular,NOP,2008,30,30,Cleveland Cavaliers,0,86,76
+30,regular,NOP,2008,31,31,Toronto Raptors,0,92,97
+31,regular,NOP,2008,32,32,Los Angeles Clippers,1,95,81
+32,regular,NOP,2008,33,33,Golden State Warriors,1,116,104
+33,regular,NOP,2008,34,34,Phoenix Suns,1,118,113
+34,regular,NOP,2008,35,35,Los Angeles Lakers,0,80,109
+35,regular,NOP,2008,36,36,Miami Heat,0,114,88
+36,regular,NOP,2008,37,37,Houston Rockets,1,87,82
+37,regular,NOP,2008,38,38,Seattle SuperSonics,0,123,92
+38,regular,NOP,2008,39,39,Charlotte Bobcats,0,112,84
+39,regular,NOP,2008,40,40,Milwaukee Bucks,0,106,92
+40,regular,NOP,2008,42,41,Portland Trail Blazers,0,96,81
+41,regular,NOP,2008,43,42,Los Angeles Clippers,0,111,92
+42,regular,NOP,2008,44,43,San Antonio Spurs,1,102,78
+43,regular,NOP,2008,45,44,Denver Nuggets,0,117,93
+44,regular,NOP,2008,46,45,Golden State Warriors,0,103,116
+45,regular,NOP,2008,47,46,Sacramento Kings,1,103,112
+46,regular,NOP,2008,48,47,Utah Jazz,1,88,110
+47,regular,NOP,2008,49,48,Phoenix Suns,1,132,130
+48,regular,NOP,2008,50,49,Memphis Grizzlies,0,112,99
+49,regular,NOP,2008,51,50,Chicago Bulls,1,100,86
+50,regular,NOP,2008,52,51,Milwaukee Bucks,1,111,107
+51,regular,NOP,2008,53,52,Dallas Mavericks,0,104,93
+52,regular,NOP,2008,54,53,Houston Rockets,0,80,100
+53,regular,NOP,2008,55,54,San Antonio Spurs,1,89,98
+54,regular,NOP,2008,56,55,Washington Wizards,0,92,95
+55,regular,NOP,2008,57,56,Phoenix Suns,0,120,103
+56,regular,NOP,2008,58,57,Utah Jazz,0,110,98
+57,regular,NOP,2008,59,58,Washington Wizards,1,84,101
+58,regular,NOP,2008,60,59,New York Knicks,1,100,88
+59,regular,NOP,2008,61,60,Atlanta Hawks,0,116,101
+60,regular,NOP,2008,63,61,New Jersey Nets,0,107,96
+61,regular,NOP,2008,64,62,Houston Rockets,1,96,106
+62,regular,NOP,2008,65,63,San Antonio Spurs,0,100,75
+63,regular,NOP,2008,66,64,Los Angeles Lakers,0,108,98
+64,regular,NOP,2008,67,65,Detroit Pistons,1,84,105
+65,regular,NOP,2008,68,66,Chicago Bulls,0,108,97
+66,regular,NOP,2008,69,67,Houston Rockets,0,90,69
+67,regular,NOP,2008,70,68,Boston Celtics,0,113,106
+68,regular,NOP,2008,71,69,Indiana Pacers,1,114,106
+69,regular,NOP,2008,72,70,Cleveland Cavaliers,1,100,99
+70,regular,NOP,2008,73,71,Boston Celtics,1,92,112
+71,regular,NOP,2008,74,72,Toronto Raptors,1,118,111
+72,regular,NOP,2008,75,73,Orlando Magic,1,98,97
+73,regular,NOP,2008,76,74,Miami Heat,1,106,77
+74,regular,NOP,2008,77,75,New York Knicks,0,118,110
+75,regular,NOP,2008,78,76,Golden State Warriors,0,108,96
+76,regular,NOP,2008,79,77,Utah Jazz,0,66,77
+77,regular,NOP,2008,80,78,Minnesota Timberwolves,1,122,90
+78,regular,NOP,2008,81,79,Los Angeles Lakers,1,104,107
+79,regular,NOP,2008,82,80,Sacramento Kings,1,91,94
+80,regular,NOP,2008,84,81,Los Angeles Clippers,0,114,92
+81,regular,NOP,2008,85,82,Dallas Mavericks,1,98,111
+0,playoff,NOP,2009,0,1,Denver Nuggets,1,84,113
+1,playoff,NOP,2009,1,2,Denver Nuggets,1,93,108
+2,playoff,NOP,2009,2,3,Denver Nuggets,0,95,93
+3,playoff,NOP,2009,3,4,Denver Nuggets,0,63,121
+4,playoff,NOP,2009,4,5,Denver Nuggets,1,86,107
+0,regular,NOP,2009,0,1,Golden State Warriors,1,108,103
+1,regular,NOP,2009,1,2,Phoenix Suns,1,108,95
+2,regular,NOP,2009,2,3,Cleveland Cavaliers,0,104,92
+3,regular,NOP,2009,3,4,Atlanta Hawks,0,79,87
+4,regular,NOP,2009,4,5,Charlotte Bobcats,1,89,92
+5,regular,NOP,2009,5,6,Miami Heat,0,100,89
+6,regular,NOP,2009,6,7,Los Angeles Lakers,0,86,93
+7,regular,NOP,2009,7,8,Portland Trail Blazers,0,87,82
+8,regular,NOP,2009,8,9,Houston Rockets,1,82,91
+9,regular,NOP,2009,9,10,Sacramento Kings,0,96,105
+10,regular,NOP,2009,10,11,Oklahoma City Thunder,1,105,80
+11,regular,NOP,2009,11,12,Oklahoma City Thunder,0,109,97
+12,regular,NOP,2009,12,13,Los Angeles Clippers,1,99,87
+13,regular,NOP,2009,13,14,Denver Nuggets,1,105,101
+14,regular,NOP,2009,14,15,Portland Trail Blazers,1,86,101
+15,regular,NOP,2009,15,16,Phoenix Suns,0,104,91
+16,regular,NOP,2009,16,17,Memphis Grizzlies,0,106,87
+17,regular,NOP,2009,17,18,Charlotte Bobcats,0,105,89
+18,regular,NOP,2009,18,19,Boston Celtics,1,82,94
+19,regular,NOP,2009,19,20,Toronto Raptors,1,99,91
+20,regular,NOP,2009,21,21,Memphis Grizzlies,1,91,84
+21,regular,NOP,2009,22,22,San Antonio Spurs,0,90,83
+22,regular,NOP,2009,23,23,Sacramento Kings,0,99,90
+23,regular,NOP,2009,24,24,Los Angeles Lakers,0,87,100
+24,regular,NOP,2009,25,25,Orlando Magic,1,68,88
+25,regular,NOP,2009,26,26,Houston Rockets,0,88,79
+26,regular,NOP,2009,27,27,Indiana Pacers,1,105,103
+27,regular,NOP,2009,28,28,Washington Wizards,0,97,85
+28,regular,NOP,2009,29,29,Portland Trail Blazers,1,92,77
+29,regular,NOP,2009,30,30,Denver Nuggets,1,100,105
+30,regular,NOP,2009,31,31,Los Angeles Lakers,1,116,105
+31,regular,NOP,2009,32,32,Utah Jazz,1,90,116
+32,regular,NOP,2009,33,33,Los Angeles Clippers,0,107,80
+33,regular,NOP,2009,34,34,New York Knicks,0,95,101
+34,regular,NOP,2009,35,35,Dallas Mavericks,1,104,97
+35,regular,NOP,2009,36,36,Cleveland Cavaliers,1,78,92
+36,regular,NOP,2009,37,37,Detroit Pistons,1,91,85
+37,regular,NOP,2009,38,38,Indiana Pacers,0,103,100
+38,regular,NOP,2009,39,39,New Jersey Nets,0,102,92
+39,regular,NOP,2009,40,40,Minnesota Timberwolves,1,108,116
+40,regular,NOP,2009,42,41,Philadelphia 76ers,0,101,86
+41,regular,NOP,2009,43,42,Denver Nuggets,0,94,81
+42,regular,NOP,2009,44,43,Golden State Warriors,0,87,91
+43,regular,NOP,2009,45,44,San Antonio Spurs,1,93,106
+44,regular,NOP,2009,46,45,Portland Trail Blazers,0,89,97
+45,regular,NOP,2009,47,46,Chicago Bulls,0,93,107
+46,regular,NOP,2009,48,47,Toronto Raptors,0,101,92
+47,regular,NOP,2009,49,48,Minnesota Timberwolves,0,101,97
+48,regular,NOP,2009,50,49,Memphis Grizzlies,1,80,85
+49,regular,NOP,2009,51,50,Boston Celtics,0,77,89
+50,regular,NOP,2009,52,51,Oklahoma City Thunder,1,100,98
+51,regular,NOP,2009,53,52,Orlando Magic,0,117,85
+52,regular,NOP,2009,54,53,Los Angeles Lakers,1,111,115
+53,regular,NOP,2009,55,54,Utah Jazz,1,88,102
+54,regular,NOP,2009,56,55,Sacramento Kings,1,112,105
+55,regular,NOP,2009,57,56,Detroit Pistons,0,90,87
+56,regular,NOP,2009,58,57,Milwaukee Bucks,0,95,94
+57,regular,NOP,2009,59,58,New Jersey Nets,1,99,96
+58,regular,NOP,2009,60,59,Philadelphia 76ers,1,98,91
+59,regular,NOP,2009,61,60,Dallas Mavericks,0,104,88
+60,regular,NOP,2009,63,61,Oklahoma City Thunder,0,108,90
+61,regular,NOP,2009,64,62,Atlanta Hawks,1,79,89
+62,regular,NOP,2009,65,63,Washington Wizards,1,109,98
+63,regular,NOP,2009,66,64,Milwaukee Bucks,1,95,86
+64,regular,NOP,2009,67,65,Chicago Bulls,1,79,97
+65,regular,NOP,2009,68,66,Houston Rockets,0,84,95
+66,regular,NOP,2009,69,67,Minnesota Timberwolves,0,94,93
+67,regular,NOP,2009,70,68,Memphis Grizzlies,0,96,84
+68,regular,NOP,2009,71,69,Golden State Warriors,0,99,89
+69,regular,NOP,2009,72,70,Denver Nuggets,0,88,101
+70,regular,NOP,2009,73,71,New York Knicks,1,93,103
+71,regular,NOP,2009,74,72,San Antonio Spurs,0,90,86
+72,regular,NOP,2009,75,73,Sacramento Kings,1,111,110
+73,regular,NOP,2009,76,74,Los Angeles Clippers,1,104,98
+74,regular,NOP,2009,77,75,Golden State Warriors,1,103,111
+75,regular,NOP,2009,78,76,Utah Jazz,0,94,108
+76,regular,NOP,2009,79,77,Miami Heat,1,93,87
+77,regular,NOP,2009,80,78,Phoenix Suns,0,100,105
+78,regular,NOP,2009,81,79,Dallas Mavericks,1,92,100
+79,regular,NOP,2009,82,80,Dallas Mavericks,0,102,92
+80,regular,NOP,2009,84,81,Houston Rockets,1,66,86
+81,regular,NOP,2009,85,82,San Antonio Spurs,1,98,105
+0,regular,NOP,2010,0,1,San Antonio Spurs,1,96,113
+1,regular,NOP,2010,1,2,Sacramento Kings,0,97,92
+2,regular,NOP,2010,2,3,Boston Celtics,1,87,97
+3,regular,NOP,2010,3,4,New York Knicks,1,111,117
+4,regular,NOP,2010,4,5,Dallas Mavericks,0,114,107
+5,regular,NOP,2010,5,6,Toronto Raptors,0,90,107
+6,regular,NOP,2010,6,7,Los Angeles Lakers,1,88,104
+7,regular,NOP,2010,7,8,Los Angeles Clippers,1,112,84
+8,regular,NOP,2010,8,9,Phoenix Suns,1,104,124
+9,regular,NOP,2010,9,10,Portland Trail Blazers,0,78,86
+10,regular,NOP,2010,10,11,Atlanta Hawks,1,98,121
+11,regular,NOP,2010,11,12,Los Angeles Clippers,0,110,102
+12,regular,NOP,2010,12,13,Phoenix Suns,0,110,103
+13,regular,NOP,2010,13,14,Atlanta Hawks,0,96,88
+14,regular,NOP,2010,14,15,Miami Heat,1,101,102
+15,regular,NOP,2010,15,16,Milwaukee Bucks,0,102,99
+16,regular,NOP,2010,16,17,Sacramento Kings,1,96,112
+17,regular,NOP,2010,17,18,Los Angeles Lakers,1,99,110
+18,regular,NOP,2010,18,19,Minnesota Timberwolves,0,98,89
+19,regular,NOP,2010,19,20,Sacramento Kings,0,96,94
+20,regular,NOP,2010,21,21,Minnesota Timberwolves,1,97,96
+21,regular,NOP,2010,22,22,New York Knicks,0,96,113
+22,regular,NOP,2010,23,23,Dallas Mavericks,1,90,94
+23,regular,NOP,2010,24,24,Detroit Pistons,0,95,87
+24,regular,NOP,2010,25,25,Denver Nuggets,0,98,92
+25,regular,NOP,2010,26,26,Toronto Raptors,1,92,98
+26,regular,NOP,2010,27,27,Golden State Warriors,0,108,102
+27,regular,NOP,2010,28,28,Chicago Bulls,1,85,96
+28,regular,NOP,2010,29,29,Houston Rockets,1,100,108
+29,regular,NOP,2010,30,30,Miami Heat,0,95,91
+30,regular,NOP,2010,31,31,Houston Rockets,0,99,95
+31,regular,NOP,2010,32,32,Utah Jazz,1,91,87
+32,regular,NOP,2010,33,33,Oklahoma City Thunder,1,97,92
+33,regular,NOP,2010,34,34,New Jersey Nets,0,103,99
+34,regular,NOP,2010,35,35,Washington Wizards,1,115,110
+35,regular,NOP,2010,36,36,Philadelphia 76ers,1,92,96
+36,regular,NOP,2010,37,37,Los Angeles Clippers,0,108,94
+37,regular,NOP,2010,38,38,Detroit Pistons,1,104,110
+38,regular,NOP,2010,39,39,Indiana Pacers,1,101,96
+39,regular,NOP,2010,40,40,San Antonio Spurs,0,90,97
+40,regular,NOP,2010,42,41,Memphis Grizzlies,0,113,111
+41,regular,NOP,2010,43,42,Minnesota Timberwolves,1,96,94
+42,regular,NOP,2010,44,43,Denver Nuggets,1,110,116
+43,regular,NOP,2010,45,44,Portland Trail Blazers,1,98,97
+44,regular,NOP,2010,46,45,Golden State Warriors,1,123,110
+45,regular,NOP,2010,47,46,Chicago Bulls,0,106,108
+46,regular,NOP,2010,48,47,Memphis Grizzlies,1,109,102
+47,regular,NOP,2010,49,48,Phoenix Suns,0,100,109
+48,regular,NOP,2010,50,49,Oklahoma City Thunder,0,99,103
+49,regular,NOP,2010,51,50,Philadelphia 76ers,0,94,101
+50,regular,NOP,2010,52,51,Charlotte Bobcats,1,104,99
+51,regular,NOP,2010,53,52,Orlando Magic,1,117,123
+52,regular,NOP,2010,54,53,Boston Celtics,0,93,85
+53,regular,NOP,2010,55,54,Utah Jazz,0,90,98
+54,regular,NOP,2010,56,55,Indiana Pacers,0,107,101
+55,regular,NOP,2010,57,56,Houston Rockets,0,102,94
+56,regular,NOP,2010,58,57,Cleveland Cavaliers,1,95,105
+57,regular,NOP,2010,59,58,Milwaukee Bucks,1,95,115
+58,regular,NOP,2010,60,59,Orlando Magic,0,100,93
+59,regular,NOP,2010,61,60,Dallas Mavericks,1,100,108
+60,regular,NOP,2010,63,61,San Antonio Spurs,0,92,106
+61,regular,NOP,2010,64,62,Memphis Grizzlies,0,100,104
+62,regular,NOP,2010,65,63,San Antonio Spurs,1,91,102
+63,regular,NOP,2010,66,64,Golden State Warriors,0,135,131
+64,regular,NOP,2010,67,65,Oklahoma City Thunder,1,83,98
+65,regular,NOP,2010,68,66,Denver Nuggets,0,95,102
+66,regular,NOP,2010,69,67,Phoenix Suns,1,106,120
+67,regular,NOP,2010,70,68,Los Angeles Clippers,1,108,100
+68,regular,NOP,2010,71,69,Golden State Warriors,1,121,131
+69,regular,NOP,2010,72,70,Denver Nuggets,1,80,93
+70,regular,NOP,2010,73,71,Utah Jazz,1,86,106
+71,regular,NOP,2010,74,72,Dallas Mavericks,0,115,99
+72,regular,NOP,2010,75,73,Cleveland Cavaliers,0,92,105
+73,regular,NOP,2010,76,74,Portland Trail Blazers,0,101,112
+74,regular,NOP,2010,77,75,Los Angeles Lakers,0,108,100
+75,regular,NOP,2010,78,76,Washington Wizards,0,91,96
+76,regular,NOP,2010,79,77,Memphis Grizzlies,1,96,107
+77,regular,NOP,2010,80,78,New Jersey Nets,1,87,115
+78,regular,NOP,2010,81,79,Charlotte Bobcats,0,103,104
+79,regular,NOP,2010,82,80,Utah Jazz,0,103,114
+80,regular,NOP,2010,84,81,Minnesota Timberwolves,0,114,86
+81,regular,NOP,2010,85,82,Houston Rockets,1,123,115
+0,playoff,NOP,2011,0,1,Los Angeles Lakers,1,109,100
+1,playoff,NOP,2011,1,2,Los Angeles Lakers,1,78,87
+2,playoff,NOP,2011,2,3,Los Angeles Lakers,0,86,100
+3,playoff,NOP,2011,3,4,Los Angeles Lakers,0,93,88
+4,playoff,NOP,2011,4,5,Los Angeles Lakers,1,90,106
+5,playoff,NOP,2011,5,6,Los Angeles Lakers,0,80,98
+0,regular,NOP,2011,0,1,Milwaukee Bucks,0,95,91
+1,regular,NOP,2011,1,2,Denver Nuggets,0,101,95
+2,regular,NOP,2011,2,3,San Antonio Spurs,1,99,90
+3,regular,NOP,2011,3,4,Houston Rockets,1,107,99
+4,regular,NOP,2011,4,5,Miami Heat,0,96,93
+5,regular,NOP,2011,5,6,Milwaukee Bucks,1,87,81
+6,regular,NOP,2011,6,7,Los Angeles Clippers,0,101,82
+7,regular,NOP,2011,7,8,Portland Trail Blazers,0,107,87
+8,regular,NOP,2011,8,9,Dallas Mavericks,1,95,98
+9,regular,NOP,2011,9,10,Dallas Mavericks,0,99,97
+10,regular,NOP,2011,10,11,Cleveland Cavaliers,0,108,101
+11,regular,NOP,2011,11,12,Sacramento Kings,1,75,71
+12,regular,NOP,2011,12,13,Los Angeles Clippers,1,95,99
+13,regular,NOP,2011,13,14,Utah Jazz,1,87,105
+14,regular,NOP,2011,14,15,Portland Trail Blazers,1,97,78
+15,regular,NOP,2011,15,16,San Antonio Spurs,0,95,109
+16,regular,NOP,2011,16,17,Oklahoma City Thunder,1,89,95
+17,regular,NOP,2011,17,18,Charlotte Bobcats,0,89,73
+18,regular,NOP,2011,18,19,New York Knicks,0,92,100
+19,regular,NOP,2011,19,20,San Antonio Spurs,1,84,109
+20,regular,NOP,2011,21,21,Detroit Pistons,0,93,74
+21,regular,NOP,2011,22,22,Oklahoma City Thunder,0,92,97
+22,regular,NOP,2011,23,23,Philadelphia 76ers,1,70,88
+23,regular,NOP,2011,24,24,Miami Heat,1,84,96
+24,regular,NOP,2011,25,25,Sacramento Kings,0,94,91
+25,regular,NOP,2011,26,26,Utah Jazz,0,100,71
+26,regular,NOP,2011,27,27,Detroit Pistons,1,108,111
+27,regular,NOP,2011,28,28,Indiana Pacers,1,93,94
+28,regular,NOP,2011,29,29,New Jersey Nets,0,105,91
+29,regular,NOP,2011,30,30,Atlanta Hawks,0,93,86
+30,regular,NOP,2011,31,31,Minnesota Timberwolves,1,98,113
+31,regular,NOP,2011,32,32,Los Angeles Lakers,0,88,103
+32,regular,NOP,2011,33,33,Boston Celtics,1,83,81
+33,regular,NOP,2011,34,34,Washington Wizards,1,92,81
+34,regular,NOP,2011,35,35,Philadelphia 76ers,0,84,77
+35,regular,NOP,2011,36,36,Golden State Warriors,0,103,110
+36,regular,NOP,2011,37,37,Los Angeles Lakers,1,97,101
+37,regular,NOP,2011,38,38,Denver Nuggets,1,96,87
+38,regular,NOP,2011,39,39,Orlando Magic,0,92,89
+39,regular,NOP,2011,40,40,Houston Rockets,1,110,105
+40,regular,NOP,2011,42,41,Charlotte Bobcats,1,88,81
+41,regular,NOP,2011,43,42,Toronto Raptors,0,85,81
+42,regular,NOP,2011,44,43,Memphis Grizzlies,0,103,102
+43,regular,NOP,2011,45,44,Atlanta Hawks,1,100,59
+44,regular,NOP,2011,46,45,San Antonio Spurs,0,96,72
+45,regular,NOP,2011,47,46,Oklahoma City Thunder,0,91,89
+46,regular,NOP,2011,48,47,Golden State Warriors,1,112,103
+47,regular,NOP,2011,49,48,Sacramento Kings,1,96,102
+48,regular,NOP,2011,50,49,Phoenix Suns,1,102,104
+49,regular,NOP,2011,51,50,Washington Wizards,0,97,89
+50,regular,NOP,2011,52,51,Oklahoma City Thunder,1,93,104
+51,regular,NOP,2011,53,52,Los Angeles Lakers,0,95,101
+52,regular,NOP,2011,54,53,Minnesota Timberwolves,0,92,104
+53,regular,NOP,2011,55,54,New Jersey Nets,1,101,103
+54,regular,NOP,2011,56,55,Orlando Magic,1,99,93
+55,regular,NOP,2011,57,56,Chicago Bulls,0,88,97
+56,regular,NOP,2011,58,57,Golden State Warriors,1,89,102
+57,regular,NOP,2011,59,58,Portland Trail Blazers,1,96,103
+58,regular,NOP,2011,60,59,Los Angeles Clippers,0,98,87
+59,regular,NOP,2011,61,60,Minnesota Timberwolves,1,95,81
+60,regular,NOP,2011,63,61,Houston Rockets,0,89,91
+61,regular,NOP,2011,64,62,Toronto Raptors,1,90,96
+62,regular,NOP,2011,65,63,New York Knicks,1,88,107
+63,regular,NOP,2011,66,64,Memphis Grizzlies,1,98,91
+64,regular,NOP,2011,67,65,Cleveland Cavaliers,1,96,81
+65,regular,NOP,2011,68,66,Chicago Bulls,1,77,85
+66,regular,NOP,2011,69,67,Dallas Mavericks,0,93,92
+67,regular,NOP,2011,70,68,Sacramento Kings,0,115,103
+68,regular,NOP,2011,71,69,Denver Nuggets,0,103,114
+69,regular,NOP,2011,72,70,Phoenix Suns,0,100,95
+70,regular,NOP,2011,73,71,Boston Celtics,0,85,89
+71,regular,NOP,2011,74,72,Utah Jazz,1,121,117
+72,regular,NOP,2011,75,73,Phoenix Suns,1,106,100
+73,regular,NOP,2011,76,74,Los Angeles Lakers,1,84,102
+74,regular,NOP,2011,77,75,Portland Trail Blazers,0,95,91
+75,regular,NOP,2011,78,76,Memphis Grizzlies,0,81,93
+76,regular,NOP,2011,79,77,Indiana Pacers,0,108,96
+77,regular,NOP,2011,80,78,Houston Rockets,0,101,93
+78,regular,NOP,2011,81,79,Phoenix Suns,0,109,97
+79,regular,NOP,2011,82,80,Memphis Grizzlies,1,89,111
+80,regular,NOP,2011,84,81,Utah Jazz,0,78,90
+81,regular,NOP,2011,85,82,Dallas Mavericks,1,89,121
+0,regular,NOP,2012,0,1,Phoenix Suns,1,85,84
+1,regular,NOP,2012,1,2,Boston Celtics,0,97,78
+2,regular,NOP,2012,2,3,Phoenix Suns,0,78,93
+3,regular,NOP,2012,3,4,Sacramento Kings,1,80,96
+4,regular,NOP,2012,4,5,Utah Jazz,1,90,94
+5,regular,NOP,2012,5,6,Philadelphia 76ers,0,93,101
+6,regular,NOP,2012,6,7,Denver Nuggets,0,88,96
+7,regular,NOP,2012,7,8,Dallas Mavericks,1,81,96
+8,regular,NOP,2012,8,9,Denver Nuggets,1,94,81
+9,regular,NOP,2012,9,10,Oklahoma City Thunder,0,85,95
+10,regular,NOP,2012,10,11,Minnesota Timberwolves,0,80,87
+11,regular,NOP,2012,11,12,Memphis Grizzlies,1,99,108
+12,regular,NOP,2012,12,13,Portland Trail Blazers,0,77,84
+13,regular,NOP,2012,13,14,Memphis Grizzlies,0,87,93
+14,regular,NOP,2012,14,15,Houston Rockets,1,88,90
+15,regular,NOP,2012,15,16,Dallas Mavericks,0,81,83
+16,regular,NOP,2012,16,17,San Antonio Spurs,0,102,104
+17,regular,NOP,2012,17,18,Oklahoma City Thunder,1,91,101
+18,regular,NOP,2012,18,19,Orlando Magic,0,93,67
+19,regular,NOP,2012,19,20,Atlanta Hawks,0,72,94
+20,regular,NOP,2012,21,21,Miami Heat,1,95,109
+21,regular,NOP,2012,22,22,Phoenix Suns,0,103,120
+22,regular,NOP,2012,23,23,San Antonio Spurs,1,81,93
+23,regular,NOP,2012,24,24,Detroit Pistons,1,87,89
+24,regular,NOP,2012,25,25,Sacramento Kings,0,92,100
+25,regular,NOP,2012,26,26,Chicago Bulls,0,67,90
+26,regular,NOP,2012,27,27,Portland Trail Blazers,0,86,94
+27,regular,NOP,2012,28,28,Utah Jazz,0,86,80
+28,regular,NOP,2012,29,29,Milwaukee Bucks,1,92,89
+29,regular,NOP,2012,30,30,New York Knicks,1,89,85
+30,regular,NOP,2012,31,31,Oklahoma City Thunder,1,93,101
+31,regular,NOP,2012,32,32,Indiana Pacers,1,108,117
+32,regular,NOP,2012,33,33,Cleveland Cavaliers,1,89,84
+33,regular,NOP,2012,34,34,Chicago Bulls,1,95,99
+34,regular,NOP,2012,35,35,Toronto Raptors,0,84,95
+35,regular,NOP,2012,36,36,Dallas Mavericks,0,97,92
+36,regular,NOP,2012,37,37,Indiana Pacers,0,84,102
+37,regular,NOP,2012,38,38,Portland Trail Blazers,1,74,86
+38,regular,NOP,2012,39,39,Sacramento Kings,1,98,99
+39,regular,NOP,2012,40,40,Denver Nuggets,1,97,110
+40,regular,NOP,2012,42,41,Minnesota Timberwolves,1,95,89
+41,regular,NOP,2012,43,42,Charlotte Bobcats,0,71,73
+42,regular,NOP,2012,44,43,Los Angeles Lakers,0,101,107
+43,regular,NOP,2012,45,44,Washington Wizards,0,89,99
+44,regular,NOP,2012,46,45,New Jersey Nets,1,102,94
+45,regular,NOP,2012,47,46,Golden State Warriors,0,92,101
+46,regular,NOP,2012,48,47,Los Angeles Clippers,0,97,90
+47,regular,NOP,2012,49,48,San Antonio Spurs,0,86,89
+48,regular,NOP,2012,50,49,Los Angeles Clippers,1,85,97
+49,regular,NOP,2012,51,50,Golden State Warriors,1,102,87
+50,regular,NOP,2012,52,51,Portland Trail Blazers,1,93,99
+51,regular,NOP,2012,53,52,Los Angeles Lakers,1,85,88
+52,regular,NOP,2012,54,53,Phoenix Suns,1,75,92
+53,regular,NOP,2012,55,54,Denver Nuggets,0,94,92
+54,regular,NOP,2012,56,55,San Antonio Spurs,1,103,128
+55,regular,NOP,2012,57,56,Minnesota Timberwolves,0,99,90
+56,regular,NOP,2012,58,57,Los Angeles Lakers,0,91,93
+57,regular,NOP,2012,59,58,Sacramento Kings,0,105,96
+58,regular,NOP,2012,60,59,Utah Jazz,0,96,85
+59,regular,NOP,2012,61,60,Memphis Grizzlies,0,88,75
+60,regular,NOP,2012,63,61,Charlotte Bobcats,1,75,67
+61,regular,NOP,2012,64,62,Memphis Grizzlies,1,91,103
+62,regular,NOP,2012,65,63,Houston Rockets,0,105,99
+63,regular,NOP,2012,66,64,Los Angeles Clippers,1,98,107
+64,regular,NOP,2012,67,65,Golden State Warriors,1,83,81
+65,regular,NOP,2012,68,66,Houston Rockets,1,77,84
+0,regular,NOP,2013,0,1,San Antonio Spurs,0,95,99
+1,regular,NOP,2013,1,2,Utah Jazz,0,88,86
+2,regular,NOP,2013,2,3,Chicago Bulls,1,89,82
+3,regular,NOP,2013,3,4,Philadelphia 76ers,0,62,77
+4,regular,NOP,2013,4,5,Charlotte Bobcats,0,107,99
+5,regular,NOP,2013,5,6,Houston Rockets,1,96,100
+6,regular,NOP,2013,6,7,Oklahoma City Thunder,0,95,110
+7,regular,NOP,2013,7,8,Milwaukee Bucks,1,113,117
+8,regular,NOP,2013,8,9,New York Knicks,0,80,102
+9,regular,NOP,2013,9,10,Indiana Pacers,1,107,115
+10,regular,NOP,2013,10,11,Phoenix Suns,1,108,111
+11,regular,NOP,2013,11,12,Denver Nuggets,1,84,102
+12,regular,NOP,2013,12,13,Los Angeles Clippers,1,105,98
+13,regular,NOP,2013,13,14,Utah Jazz,0,84,96
+14,regular,NOP,2013,14,15,Oklahoma City Thunder,0,79,100
+15,regular,NOP,2013,15,16,Milwaukee Bucks,0,102,81
+16,regular,NOP,2013,16,17,Los Angeles Lakers,0,87,103
+17,regular,NOP,2013,17,18,Memphis Grizzlies,0,89,96
+18,regular,NOP,2013,18,19,Miami Heat,1,90,106
+19,regular,NOP,2013,19,20,Washington Wizards,0,70,77
+20,regular,NOP,2013,21,21,Oklahoma City Thunder,1,88,92
+21,regular,NOP,2013,22,22,Minnesota Timberwolves,0,102,113
+22,regular,NOP,2013,23,23,Portland Trail Blazers,1,94,95
+23,regular,NOP,2013,24,24,Golden State Warriors,1,96,103
+24,regular,NOP,2013,25,25,Los Angeles Clippers,1,77,93
+25,regular,NOP,2013,26,26,San Antonio Spurs,1,94,99
+26,regular,NOP,2013,27,27,Indiana Pacers,0,75,81
+27,regular,NOP,2013,28,28,Orlando Magic,1,97,94
+28,regular,NOP,2013,29,29,Toronto Raptors,0,97,104
+29,regular,NOP,2013,30,30,Charlotte Bobcats,1,98,95
+30,regular,NOP,2013,31,31,Atlanta Hawks,0,86,95
+31,regular,NOP,2013,32,32,Houston Rockets,1,92,104
+32,regular,NOP,2013,33,33,Dallas Mavericks,1,99,96
+33,regular,NOP,2013,34,34,San Antonio Spurs,0,95,88
+34,regular,NOP,2013,35,35,Houston Rockets,0,88,79
+35,regular,NOP,2013,36,36,Minnesota Timberwolves,0,104,92
+36,regular,NOP,2013,37,37,New York Knicks,1,87,100
+37,regular,NOP,2013,38,38,Philadelphia 76ers,1,111,99
+38,regular,NOP,2013,39,39,Boston Celtics,1,90,78
+39,regular,NOP,2013,40,40,Golden State Warriors,0,112,116
+40,regular,NOP,2013,42,41,Sacramento Kings,0,114,105
+41,regular,NOP,2013,43,42,San Antonio Spurs,1,102,106
+42,regular,NOP,2013,44,43,Houston Rockets,0,82,100
+43,regular,NOP,2013,45,44,Memphis Grizzlies,1,91,83
+44,regular,NOP,2013,46,45,Los Angeles Lakers,1,106,111
+45,regular,NOP,2013,47,46,Utah Jazz,1,99,104
+46,regular,NOP,2013,48,47,Denver Nuggets,1,98,113
+47,regular,NOP,2013,49,48,Minnesota Timberwolves,1,86,115
+48,regular,NOP,2013,50,49,Phoenix Suns,0,93,84
+49,regular,NOP,2013,51,50,Atlanta Hawks,1,111,100
+50,regular,NOP,2013,52,51,Toronto Raptors,1,89,102
+51,regular,NOP,2013,53,52,Detroit Pistons,1,105,86
+52,regular,NOP,2013,54,53,Portland Trail Blazers,0,99,63
+53,regular,NOP,2013,55,54,Chicago Bulls,0,87,96
+54,regular,NOP,2013,56,55,Cleveland Cavaliers,1,100,105
+55,regular,NOP,2013,57,56,Dallas Mavericks,0,100,104
+56,regular,NOP,2013,58,57,Sacramento Kings,0,110,95
+57,regular,NOP,2013,59,58,Brooklyn Nets,0,97,101
+58,regular,NOP,2013,60,59,Oklahoma City Thunder,1,74,119
+59,regular,NOP,2013,61,60,Detroit Pistons,0,100,95
+60,regular,NOP,2013,63,61,Orlando Magic,0,102,105
+61,regular,NOP,2013,64,62,Los Angeles Lakers,0,102,108
+62,regular,NOP,2013,65,63,Memphis Grizzlies,1,85,96
+63,regular,NOP,2013,66,64,Portland Trail Blazers,0,98,96
+64,regular,NOP,2013,67,65,Brooklyn Nets,1,98,108
+65,regular,NOP,2013,68,66,Washington Wizards,1,87,96
+66,regular,NOP,2013,69,67,Minnesota Timberwolves,1,95,97
+67,regular,NOP,2013,70,68,Golden State Warriors,0,72,93
+68,regular,NOP,2013,71,69,Boston Celtics,0,87,86
+69,regular,NOP,2013,72,70,Memphis Grizzlies,0,90,83
+70,regular,NOP,2013,73,71,Denver Nuggets,0,110,86
+71,regular,NOP,2013,74,72,Los Angeles Clippers,0,91,105
+72,regular,NOP,2013,75,73,Miami Heat,0,89,108
+73,regular,NOP,2013,76,74,Cleveland Cavaliers,0,112,92
+74,regular,NOP,2013,77,75,Golden State Warriors,1,88,98
+75,regular,NOP,2013,78,76,Utah Jazz,1,83,95
+76,regular,NOP,2013,79,77,Phoenix Suns,1,95,92
+77,regular,NOP,2013,80,78,Los Angeles Lakers,1,96,104
+78,regular,NOP,2013,81,79,Sacramento Kings,1,110,121
+79,regular,NOP,2013,82,80,Los Angeles Clippers,0,93,96
+80,regular,NOP,2013,84,81,Dallas Mavericks,0,89,107
+81,regular,NOP,2013,85,82,Dallas Mavericks,1,87,99
+0,regular,NOP,2014,0,1,Indiana Pacers,0,90,95
+1,regular,NOP,2014,1,2,Orlando Magic,1,90,110
+2,regular,NOP,2014,2,3,Charlotte Bobcats,0,105,84
+3,regular,NOP,2014,3,4,Phoenix Suns,0,98,104
+4,regular,NOP,2014,4,5,Memphis Grizzlies,1,99,84
+5,regular,NOP,2014,5,6,Los Angeles Lakers,0,96,85
+6,regular,NOP,2014,6,7,Phoenix Suns,1,94,101
+7,regular,NOP,2014,7,8,Los Angeles Lakers,1,95,116
+8,regular,NOP,2014,8,9,Utah Jazz,1,105,111
+9,regular,NOP,2014,9,10,Philadelphia 76ers,0,135,98
+10,regular,NOP,2014,10,11,Utah Jazz,0,105,98
+11,regular,NOP,2014,11,12,Cleveland Cavaliers,0,104,100
+12,regular,NOP,2014,12,13,San Antonio Spurs,1,93,112
+13,regular,NOP,2014,13,14,Golden State Warriors,0,101,102
+14,regular,NOP,2014,14,15,Philadelphia 76ers,1,121,105
+15,regular,NOP,2014,15,16,New York Knicks,1,103,99
+16,regular,NOP,2014,16,17,Chicago Bulls,1,131,128
+17,regular,NOP,2014,17,18,Dallas Mavericks,0,97,100
+18,regular,NOP,2014,18,19,Oklahoma City Thunder,0,95,109
+19,regular,NOP,2014,19,20,Detroit Pistons,0,111,106
+20,regular,NOP,2014,21,21,Memphis Grizzlies,0,104,98
+21,regular,NOP,2014,22,22,Denver Nuggets,1,93,102
+22,regular,NOP,2014,23,23,Golden State Warriors,1,93,104
+23,regular,NOP,2014,24,24,Los Angeles Clippers,1,95,108
+24,regular,NOP,2014,25,25,Portland Trail Blazers,1,107,110
+25,regular,NOP,2014,26,26,Sacramento Kings,1,113,100
+26,regular,NOP,2014,27,27,Denver Nuggets,0,105,89
+27,regular,NOP,2014,28,28,Houston Rockets,1,98,107
+28,regular,NOP,2014,29,29,Portland Trail Blazers,0,110,108
+29,regular,NOP,2014,30,30,Minnesota Timberwolves,1,112,124
+30,regular,NOP,2014,31,31,Boston Celtics,1,95,92
+31,regular,NOP,2014,32,32,Indiana Pacers,1,82,99
+32,regular,NOP,2014,33,33,Miami Heat,1,88,107
+33,regular,NOP,2014,34,34,Washington Wizards,0,96,102
+34,regular,NOP,2014,35,35,Dallas Mavericks,0,90,107
+35,regular,NOP,2014,36,36,Dallas Mavericks,1,107,110
+36,regular,NOP,2014,37,37,San Antonio Spurs,0,95,101
+37,regular,NOP,2014,38,38,Houston Rockets,0,100,103
+38,regular,NOP,2014,39,39,Golden State Warriors,0,87,97
+39,regular,NOP,2014,40,40,Memphis Grizzlies,1,95,92
+40,regular,NOP,2014,42,41,Sacramento Kings,0,97,114
+41,regular,NOP,2014,43,42,Detroit Pistons,1,103,101
+42,regular,NOP,2014,44,43,Orlando Magic,0,100,92
+43,regular,NOP,2014,45,44,Cleveland Cavaliers,1,100,89
+44,regular,NOP,2014,46,45,Minnesota Timberwolves,1,77,88
+45,regular,NOP,2014,47,46,Chicago Bulls,0,88,79
+46,regular,NOP,2014,48,47,San Antonio Spurs,0,95,102
+47,regular,NOP,2014,49,48,Atlanta Hawks,0,105,100
+48,regular,NOP,2014,50,49,Minnesota Timberwolves,0,98,91
+49,regular,NOP,2014,51,50,Brooklyn Nets,1,81,93
+50,regular,NOP,2014,52,51,Toronto Raptors,1,101,108
+51,regular,NOP,2014,53,52,Milwaukee Bucks,1,102,98
+52,regular,NOP,2014,54,53,New York Knicks,0,91,98
+53,regular,NOP,2014,55,54,Charlotte Bobcats,1,87,90
+54,regular,NOP,2014,56,55,Washington Wizards,1,93,94
+55,regular,NOP,2014,57,56,Los Angeles Clippers,0,110,123
+56,regular,NOP,2014,58,57,Dallas Mavericks,1,89,108
+57,regular,NOP,2014,59,58,Phoenix Suns,1,104,116
+58,regular,NOP,2014,60,59,Los Angeles Clippers,1,76,108
+59,regular,NOP,2014,61,60,Sacramento Kings,1,89,96
+60,regular,NOP,2014,63,61,Los Angeles Lakers,1,132,125
+61,regular,NOP,2014,64,62,Milwaukee Bucks,0,112,104
+62,regular,NOP,2014,65,63,Denver Nuggets,0,111,107
+63,regular,NOP,2014,66,64,Memphis Grizzlies,0,88,90
+64,regular,NOP,2014,67,65,Portland Trail Blazers,0,103,111
+65,regular,NOP,2014,68,66,Boston Celtics,0,121,120
+66,regular,NOP,2014,69,67,Toronto Raptors,0,100,107
+67,regular,NOP,2014,70,68,Atlanta Hawks,1,111,105
+68,regular,NOP,2014,71,69,Miami Heat,0,105,95
+69,regular,NOP,2014,72,70,Brooklyn Nets,0,109,104
+70,regular,NOP,2014,73,71,Los Angeles Clippers,0,98,96
+71,regular,NOP,2014,74,72,Utah Jazz,0,102,95
+72,regular,NOP,2014,75,73,San Antonio Spurs,1,80,96
+73,regular,NOP,2014,76,74,Sacramento Kings,0,97,102
+74,regular,NOP,2014,77,75,Denver Nuggets,1,107,137
+75,regular,NOP,2014,78,76,Utah Jazz,1,96,100
+76,regular,NOP,2014,79,77,Portland Trail Blazers,1,94,100
+77,regular,NOP,2014,80,78,Phoenix Suns,0,88,94
+78,regular,NOP,2014,81,79,Oklahoma City Thunder,1,94,116
+79,regular,NOP,2014,82,80,Houston Rockets,1,104,111
+80,regular,NOP,2014,84,81,Oklahoma City Thunder,0,101,89
+81,regular,NOP,2014,85,82,Houston Rockets,0,105,100
+0,playoff,NOP,2015,0,1,Golden State Warriors,1,99,106
+1,playoff,NOP,2015,1,2,Golden State Warriors,1,87,97
+2,playoff,NOP,2015,2,3,Golden State Warriors,0,119,123
+3,playoff,NOP,2015,3,4,Golden State Warriors,0,98,109
+0,regular,NOP,2015,0,1,Orlando Magic,0,101,84
+1,regular,NOP,2015,1,2,Dallas Mavericks,0,104,109
+2,regular,NOP,2015,2,3,Memphis Grizzlies,1,81,93
+3,regular,NOP,2015,3,4,Charlotte Hornets,0,100,91
+4,regular,NOP,2015,4,5,San Antonio Spurs,1,100,99
+5,regular,NOP,2015,5,6,Cleveland Cavaliers,1,111,118
+6,regular,NOP,2015,6,7,Los Angeles Lakers,0,109,102
+7,regular,NOP,2015,7,8,Minnesota Timberwolves,0,139,91
+8,regular,NOP,2015,8,9,Portland Trail Blazers,1,93,102
+9,regular,NOP,2015,9,10,Sacramento Kings,1,106,100
+10,regular,NOP,2015,10,11,Denver Nuggets,1,97,117
+11,regular,NOP,2015,11,12,Utah Jazz,1,106,94
+12,regular,NOP,2015,12,13,Sacramento Kings,0,89,99
+13,regular,NOP,2015,13,14,Atlanta Hawks,1,91,100
+14,regular,NOP,2015,14,15,Washington Wizards,1,80,83
+15,regular,NOP,2015,15,16,Oklahoma City Thunder,0,112,104
+16,regular,NOP,2015,16,17,Golden State Warriors,1,85,112
+17,regular,NOP,2015,17,18,Los Angeles Clippers,1,100,120
+18,regular,NOP,2015,18,19,Los Angeles Lakers,1,104,87
+19,regular,NOP,2015,19,20,New York Knicks,0,104,93
+20,regular,NOP,2015,21,21,Dallas Mavericks,1,107,112
+21,regular,NOP,2015,22,22,Cleveland Cavaliers,0,119,114
+22,regular,NOP,2015,23,23,Golden State Warriors,0,122,128
+23,regular,NOP,2015,24,24,Utah Jazz,0,119,111
+24,regular,NOP,2015,25,25,Houston Rockets,1,99,90
+25,regular,NOP,2015,26,26,Portland Trail Blazers,0,88,114
+26,regular,NOP,2015,27,27,Oklahoma City Thunder,1,101,99
+27,regular,NOP,2015,28,28,Indiana Pacers,1,84,96
+28,regular,NOP,2015,29,29,San Antonio Spurs,0,97,90
+29,regular,NOP,2015,30,30,Chicago Bulls,1,100,107
+30,regular,NOP,2015,31,31,Phoenix Suns,0,110,106
+31,regular,NOP,2015,32,32,San Antonio Spurs,1,93,95
+32,regular,NOP,2015,33,33,Houston Rockets,0,111,83
+33,regular,NOP,2015,34,34,Washington Wizards,0,85,92
+34,regular,NOP,2015,35,35,Charlotte Hornets,1,94,98
+35,regular,NOP,2015,36,36,Memphis Grizzlies,0,106,95
+36,regular,NOP,2015,37,37,Boston Celtics,1,100,108
+37,regular,NOP,2015,38,38,Detroit Pistons,1,105,94
+38,regular,NOP,2015,39,39,Philadelphia 76ers,1,81,96
+39,regular,NOP,2015,40,40,Toronto Raptors,1,95,93
+40,regular,NOP,2015,42,41,New York Knicks,1,92,99
+41,regular,NOP,2015,43,42,Los Angeles Lakers,0,96,80
+42,regular,NOP,2015,44,43,Minnesota Timberwolves,1,92,84
+43,regular,NOP,2015,45,44,Dallas Mavericks,0,109,106
+44,regular,NOP,2015,46,45,Philadelphia 76ers,0,99,74
+45,regular,NOP,2015,47,46,Denver Nuggets,0,85,93
+46,regular,NOP,2015,48,47,Los Angeles Clippers,0,108,103
+47,regular,NOP,2015,49,48,Atlanta Hawks,0,115,100
+48,regular,NOP,2015,50,49,Oklahoma City Thunder,0,91,102
+49,regular,NOP,2015,51,50,Oklahoma City Thunder,1,116,113
+50,regular,NOP,2015,52,51,Chicago Bulls,0,72,107
+51,regular,NOP,2015,53,52,Utah Jazz,0,96,100
+52,regular,NOP,2015,54,53,Indiana Pacers,0,93,106
+53,regular,NOP,2015,55,54,Orlando Magic,1,84,95
+54,regular,NOP,2015,56,55,Miami Heat,1,105,91
+55,regular,NOP,2015,57,56,Toronto Raptors,0,100,97
+56,regular,NOP,2015,58,57,Brooklyn Nets,0,102,96
+57,regular,NOP,2015,59,58,Miami Heat,0,104,102
+58,regular,NOP,2015,60,59,Denver Nuggets,1,99,92
+59,regular,NOP,2015,61,60,Dallas Mavericks,1,93,102
+60,regular,NOP,2015,63,61,Detroit Pistons,0,88,85
+61,regular,NOP,2015,64,62,Boston Celtics,0,98,104
+62,regular,NOP,2015,65,63,Memphis Grizzlies,0,95,89
+63,regular,NOP,2015,66,64,Milwaukee Bucks,1,114,103
+64,regular,NOP,2015,67,65,Brooklyn Nets,1,111,91
+65,regular,NOP,2015,68,66,Denver Nuggets,0,111,118
+66,regular,NOP,2015,69,67,Milwaukee Bucks,0,85,84
+67,regular,NOP,2015,70,68,Phoenix Suns,1,72,74
+68,regular,NOP,2015,71,69,Golden State Warriors,1,96,112
+69,regular,NOP,2015,72,70,Los Angeles Clippers,1,100,107
+70,regular,NOP,2015,73,71,Houston Rockets,0,93,95
+71,regular,NOP,2015,74,72,Sacramento Kings,0,102,88
+72,regular,NOP,2015,75,73,Minnesota Timberwolves,0,110,88
+73,regular,NOP,2015,76,74,Los Angeles Lakers,1,113,92
+74,regular,NOP,2015,77,75,Sacramento Kings,1,101,95
+75,regular,NOP,2015,78,76,Portland Trail Blazers,1,90,99
+76,regular,NOP,2015,79,77,Golden State Warriors,0,103,100
+77,regular,NOP,2015,80,78,Memphis Grizzlies,1,74,110
+78,regular,NOP,2015,81,79,Phoenix Suns,0,90,75
+79,regular,NOP,2015,82,80,Houston Rockets,1,114,121
+80,regular,NOP,2015,84,81,Minnesota Timberwolves,1,100,88
+81,regular,NOP,2015,85,82,San Antonio Spurs,0,108,103
+0,regular,NOP,2016,0,1,Golden State Warriors,1,95,111
+1,regular,NOP,2016,1,2,Portland Trail Blazers,1,94,112
+2,regular,NOP,2016,2,3,Golden State Warriors,0,120,134
+3,regular,NOP,2016,3,4,Orlando Magic,0,94,103
+4,regular,NOP,2016,4,5,Atlanta Hawks,0,115,121
+5,regular,NOP,2016,5,6,Dallas Mavericks,1,98,107
+6,regular,NOP,2016,6,7,Dallas Mavericks,0,120,105
+7,regular,NOP,2016,7,8,Atlanta Hawks,1,98,106
+8,regular,NOP,2016,8,9,Toronto Raptors,1,81,100
+9,regular,NOP,2016,9,10,New York Knicks,1,87,95
+10,regular,NOP,2016,10,11,Denver Nuggets,0,98,115
+11,regular,NOP,2016,11,12,Oklahoma City Thunder,1,103,110
+12,regular,NOP,2016,12,13,San Antonio Spurs,0,104,90
+13,regular,NOP,2016,13,14,Phoenix Suns,0,122,116
+14,regular,NOP,2016,14,15,Phoenix Suns,1,120,114
+15,regular,NOP,2016,15,16,Los Angeles Clippers,1,90,111
+16,regular,NOP,2016,16,17,Utah Jazz,1,87,101
+17,regular,NOP,2016,17,18,Memphis Grizzlies,0,104,113
+18,regular,NOP,2016,18,19,Houston Rockets,1,101,108
+19,regular,NOP,2016,19,20,Cleveland Cavaliers,0,114,108
+20,regular,NOP,2016,21,21,Boston Celtics,0,93,111
+21,regular,NOP,2016,22,22,Washington Wizards,0,107,105
+22,regular,NOP,2016,23,23,Chicago Bulls,1,94,98
+23,regular,NOP,2016,24,24,Portland Trail Blazers,1,101,105
+24,regular,NOP,2016,25,25,Utah Jazz,1,104,94
+25,regular,NOP,2016,26,26,Phoenix Suns,1,88,104
+26,regular,NOP,2016,27,27,Denver Nuggets,1,130,125
+27,regular,NOP,2016,28,28,Portland Trail Blazers,0,115,89
+28,regular,NOP,2016,29,29,Miami Heat,1,88,94
+29,regular,NOP,2016,30,30,Houston Rockets,0,110,108
+30,regular,NOP,2016,31,31,Orlando Magic,1,89,104
+31,regular,NOP,2016,32,32,Los Angeles Clippers,0,89,95
+32,regular,NOP,2016,33,33,Dallas Mavericks,1,105,98
+33,regular,NOP,2016,34,34,Dallas Mavericks,0,91,100
+34,regular,NOP,2016,35,35,Indiana Pacers,0,86,91
+35,regular,NOP,2016,36,36,Los Angeles Clippers,1,111,114
+36,regular,NOP,2016,37,37,Los Angeles Lakers,1,91,95
+37,regular,NOP,2016,38,38,Sacramento Kings,1,109,97
+38,regular,NOP,2016,39,39,Charlotte Hornets,0,109,107
+39,regular,NOP,2016,40,40,Memphis Grizzlies,1,99,101
+40,regular,NOP,2016,42,41,Minnesota Timberwolves,0,114,99
+41,regular,NOP,2016,43,42,Detroit Pistons,0,115,99
+42,regular,NOP,2016,44,43,Milwaukee Bucks,0,116,99
+43,regular,NOP,2016,45,44,Houston Rockets,0,111,112
+44,regular,NOP,2016,46,45,Sacramento Kings,0,114,105
+45,regular,NOP,2016,47,46,Brooklyn Nets,0,105,103
+46,regular,NOP,2016,48,47,Memphis Grizzlies,0,95,110
+47,regular,NOP,2016,49,48,San Antonio Spurs,1,97,110
+48,regular,NOP,2016,50,49,Los Angeles Lakers,0,96,99
+49,regular,NOP,2016,51,50,Cleveland Cavaliers,1,84,99
+50,regular,NOP,2016,52,51,Minnesota Timberwolves,1,116,102
+51,regular,NOP,2016,53,52,Utah Jazz,0,100,96
+52,regular,NOP,2016,54,53,Oklahoma City Thunder,1,95,121
+53,regular,NOP,2016,55,54,Philadelphia 76ers,0,121,114
+54,regular,NOP,2016,56,55,Detroit Pistons,1,111,106
+55,regular,NOP,2016,57,56,Washington Wizards,1,89,109
+56,regular,NOP,2016,58,57,Oklahoma City Thunder,0,123,119
+57,regular,NOP,2016,59,58,Minnesota Timberwolves,0,110,112
+58,regular,NOP,2016,60,59,Houston Rockets,1,95,100
+59,regular,NOP,2016,61,60,San Antonio Spurs,0,86,94
+60,regular,NOP,2016,63,61,Utah Jazz,0,94,106
+61,regular,NOP,2016,64,62,Sacramento Kings,0,115,112
+62,regular,NOP,2016,65,63,Charlotte Hornets,1,113,122
+63,regular,NOP,2016,66,64,Memphis Grizzlies,1,114,121
+64,regular,NOP,2016,67,65,Milwaukee Bucks,1,92,103
+65,regular,NOP,2016,68,66,Golden State Warriors,1,107,125
+66,regular,NOP,2016,69,67,Sacramento Kings,1,123,108
+67,regular,NOP,2016,70,68,Portland Trail Blazers,0,112,117
+68,regular,NOP,2016,71,69,Los Angeles Clippers,0,109,105
+69,regular,NOP,2016,72,70,Miami Heat,0,99,113
+70,regular,NOP,2016,73,71,Indiana Pacers,1,84,92
+71,regular,NOP,2016,74,72,Toronto Raptors,0,91,115
+72,regular,NOP,2016,75,73,New York Knicks,0,99,91
+73,regular,NOP,2016,76,74,San Antonio Spurs,1,92,100
+74,regular,NOP,2016,77,75,Denver Nuggets,0,101,95
+75,regular,NOP,2016,78,76,Brooklyn Nets,1,106,87
+76,regular,NOP,2016,79,77,Philadelphia 76ers,1,93,107
+77,regular,NOP,2016,80,78,Boston Celtics,1,97,104
+78,regular,NOP,2016,81,79,Los Angeles Lakers,0,110,102
+79,regular,NOP,2016,82,80,Phoenix Suns,0,100,121
+80,regular,NOP,2016,84,81,Chicago Bulls,0,116,121
+81,regular,NOP,2016,85,82,Minnesota Timberwolves,1,109,144
+0,regular,NOP,2017,0,1,Denver Nuggets,0,102,107
+1,regular,NOP,2017,1,2,Golden State Warriors,0,114,122
+2,regular,NOP,2017,2,3,San Antonio Spurs,1,79,98
+3,regular,NOP,2017,3,4,Milwaukee Bucks,0,113,117
+4,regular,NOP,2017,4,5,Memphis Grizzlies,1,83,89
+5,regular,NOP,2017,5,6,Phoenix Suns,0,111,112
+6,regular,NOP,2017,6,7,Golden State Warriors,1,106,116
+7,regular,NOP,2017,7,8,Sacramento Kings,1,94,102
+8,regular,NOP,2017,8,9,Milwaukee Bucks,1,112,106
+9,regular,NOP,2017,9,10,Los Angeles Lakers,0,99,126
+10,regular,NOP,2017,10,11,Boston Celtics,0,106,105
+11,regular,NOP,2017,11,12,Orlando Magic,1,82,89
+12,regular,NOP,2017,12,13,Portland Trail Blazers,0,113,101
+13,regular,NOP,2017,13,14,Charlotte Hornets,0,121,116
+14,regular,NOP,2017,14,15,Atlanta Hawks,1,112,94
+15,regular,NOP,2017,15,16,Minnesota Timberwolves,0,117,96
+16,regular,NOP,2017,16,17,Portland Trail Blazers,1,104,119
+17,regular,NOP,2017,17,18,Dallas Mavericks,1,81,91
+18,regular,NOP,2017,18,19,Los Angeles Lakers,0,105,88
+19,regular,NOP,2017,19,20,Los Angeles Clippers,0,96,114
+20,regular,NOP,2017,21,21,Oklahoma City Thunder,1,92,101
+21,regular,NOP,2017,22,22,Memphis Grizzlies,0,108,110
+22,regular,NOP,2017,23,23,Philadelphia 76ers,0,88,99
+23,regular,NOP,2017,24,24,Los Angeles Clippers,1,105,133
+24,regular,NOP,2017,25,25,Phoenix Suns,1,120,119
+25,regular,NOP,2017,26,26,Golden State Warriors,0,109,113
+26,regular,NOP,2017,27,27,Indiana Pacers,0,102,95
+27,regular,NOP,2017,28,28,Houston Rockets,1,100,122
+28,regular,NOP,2017,29,29,San Antonio Spurs,1,100,113
+29,regular,NOP,2017,30,30,Philadelphia 76ers,1,108,93
+30,regular,NOP,2017,31,31,Oklahoma City Thunder,0,110,121
+31,regular,NOP,2017,32,32,Miami Heat,0,91,87
+32,regular,NOP,2017,33,33,Dallas Mavericks,0,111,104
+33,regular,NOP,2017,34,34,Los Angeles Clippers,0,102,98
+34,regular,NOP,2017,35,35,New York Knicks,0,104,92
+35,regular,NOP,2017,36,36,Cleveland Cavaliers,1,82,90
+36,regular,NOP,2017,37,37,Atlanta Hawks,0,94,99
+37,regular,NOP,2017,38,38,Boston Celtics,1,108,117
+38,regular,NOP,2017,39,39,New York Knicks,1,110,96
+39,regular,NOP,2017,40,40,Brooklyn Nets,1,104,95
+40,regular,NOP,2017,42,41,Chicago Bulls,1,99,107
+41,regular,NOP,2017,43,42,Indiana Pacers,1,95,98
+42,regular,NOP,2017,44,43,Orlando Magic,0,118,98
+43,regular,NOP,2017,45,44,Brooklyn Nets,0,114,143
+44,regular,NOP,2017,46,45,Cleveland Cavaliers,0,124,122
+45,regular,NOP,2017,47,46,Oklahoma City Thunder,0,105,114
+46,regular,NOP,2017,48,47,San Antonio Spurs,0,119,103
+47,regular,NOP,2017,49,48,Washington Wizards,0,94,107
+48,regular,NOP,2017,50,49,Toronto Raptors,1,106,108
+49,regular,NOP,2017,51,50,Detroit Pistons,1,98,118
+50,regular,NOP,2017,52,51,Washington Wizards,1,91,105
+51,regular,NOP,2017,53,52,Phoenix Suns,0,111,106
+52,regular,NOP,2017,54,53,Utah Jazz,0,94,127
+53,regular,NOP,2017,55,54,Minnesota Timberwolves,1,122,106
+54,regular,NOP,2017,56,55,Sacramento Kings,1,99,105
+55,regular,NOP,2017,57,56,Phoenix Suns,1,110,108
+56,regular,NOP,2017,58,57,Memphis Grizzlies,1,95,91
+57,regular,NOP,2017,59,58,Houston Rockets,0,99,129
+58,regular,NOP,2017,60,59,Dallas Mavericks,1,83,96
+59,regular,NOP,2017,61,60,Oklahoma City Thunder,1,110,118
+60,regular,NOP,2017,63,61,Detroit Pistons,0,109,86
+61,regular,NOP,2017,64,62,San Antonio Spurs,0,98,101
+62,regular,NOP,2017,65,63,Los Angeles Lakers,1,105,97
+63,regular,NOP,2017,66,64,Utah Jazz,1,83,88
+64,regular,NOP,2017,67,65,Toronto Raptors,0,87,94
+65,regular,NOP,2017,68,66,Charlotte Hornets,1,125,122
+66,regular,NOP,2017,69,67,Portland Trail Blazers,0,100,77
+67,regular,NOP,2017,70,68,Miami Heat,1,112,120
+68,regular,NOP,2017,71,69,Houston Rockets,0,128,112
+69,regular,NOP,2017,72,70,Minnesota Timberwolves,0,123,109
+70,regular,NOP,2017,73,71,Memphis Grizzlies,0,95,82
+71,regular,NOP,2017,74,72,Houston Rockets,1,107,117
+72,regular,NOP,2017,75,73,Denver Nuggets,1,115,90
+73,regular,NOP,2017,76,74,Utah Jazz,1,100,108
+74,regular,NOP,2017,77,75,Dallas Mavericks,0,121,118
+75,regular,NOP,2017,78,76,Sacramento Kings,0,117,89
+76,regular,NOP,2017,79,77,Chicago Bulls,0,110,117
+77,regular,NOP,2017,80,78,Denver Nuggets,0,131,134
+78,regular,NOP,2017,81,79,Denver Nuggets,1,106,122
+79,regular,NOP,2017,82,80,Golden State Warriors,1,101,123
+80,regular,NOP,2017,84,81,Los Angeles Lakers,1,96,108
+81,regular,NOP,2017,85,82,Portland Trail Blazers,1,103,100
