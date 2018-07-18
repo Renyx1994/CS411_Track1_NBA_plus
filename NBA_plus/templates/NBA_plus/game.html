@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Player</title>
+    <title>Test</title>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
                 integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
@@ -27,6 +27,8 @@
             integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
             crossorigin="anonymous"></script>
 
+    <!-- Custom styles for this template -->
+    <link href="starter-template.css" rel="stylesheet">
 
     <style>
         table, th, td {
@@ -34,7 +36,7 @@
         border-collapse: collapse;
         }
     </style>
-
+      
   </head>
 
   <body>
@@ -51,7 +53,7 @@
             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu/player/insert">Insert</a>
+            <a class="nav-link" href="#">Link</a>
           </li>
           <li class="nav-item">
             <a class="nav-link disabled" href="#">Disabled</a>
@@ -65,50 +67,43 @@
             </div>
           </li>
         </ul>
-        <form method="get" class="form-inline my-2 my-lg-0">
-          <input id="search_box" name="search_box" class="form-control mr-sm-2" type="text" placeholder="Search for the player" aria-label="Search">
-          <button id="search_submit" class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
       </div>
     </nav>
-
 
     <main role="main" class="container">
 
       <div class="starter-template">
         <h1>Bootstrap starter template</h1>
-        <h1 class="lead"><br> Player data is here!</h1>
+        <h1 class="lead"><br> Game data is here!</h1>
 
         <table class="table">
           <thead class="thead-light">
             <tr>
-              <th scope="col">ID</th>
-              <th scope="col">Player</th>
-              <th scope="col">Start</th>
-              <th scope="col">Until</th>
-              <th scope="col">Pos</th>
-              <th scope="col">Ht</th>
-              <th scope="col">Wt</th>
-              <th scope="col">Birthday</th>
-              <th scope="col">Colleges</th>
-              <th scope="col">Update</th>
-              <th scope="col">Delete</th>
+              <th scope="col">Playoff_regular</th>
+              <th scope="col">Team</th>
+              <th scope="col">Year</th>
+              <th scope="col">G</th>
+              <th scope="col">Opponent</th>
+              <th scope="col">Home_away</th>
+              <th scope="col">Tm</th>
+              <th scope="col">Opp</th>
             </tr>
           </thead>
           <tbody>
-          {% for i in player %}
+          {% for i in game %}
             <tr>
-              <th scope="row">{{ i.id}}</th>
-              <td>{{ i.player}}</td>
-              <td>{{ i.start}}</td>
-              <td>{{ i.until}}</td>
-              <td>{{ i.pos}}</td>
-              <td>{{ i.ht}}</td>
-              <td>{{ i.wt}}</td>
-              <td>{{ i.birthday}}</td>
-              <td>{{ i.colleges}}</td>
-              <th scope="col"><a href="/player/update/{{ i.id }}/" >Edit</a></th>
-              <th scope="col"><a href="/player/delete/{{ i.id }}/"  onclick="return confirm('Sure to delete?')">Delete</a></th>
+              <th scope="row">{{ i.playoff_regular}}</th>
+              <td>{{ i.team}}</td>
+              <td>{{ i.year}}</td>
+              <td>{{ i.g}}</td>
+              <td>{{ i.opponent}}</td>
+              <td>{{ i.home_away}}</td>
+              <td>{{ i.tm}}</td>
+              <td>{{ i.opp}}</td>
             </tr>
           {% endfor %}
           </tbody>
@@ -125,6 +120,5 @@
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
   </body>
 </html>
-
 
 

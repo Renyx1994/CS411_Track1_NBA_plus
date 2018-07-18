@@ -1,6 +1,6 @@
 from django.shortcuts import render,redirect
 from django.http import HttpResponse
-from NBA_plus.models import PlayerBasic
+from NBA_plus.models import PlayerBasic,MatchRecords
 from NBA_plus.form import PlayerForm
 
 # Create your views here.
@@ -18,6 +18,10 @@ def player(request):
     else:
         player = PlayerBasic.objects.all()
     return render(request, 'NBA_plus/player.html', {'player':player})
+
+def game(request):
+    game = MatchRecords.objects.all()
+    return render(request, 'NBA_plus/game.html', {'game':game})
 
 def delplayer(request,pid):
     PlayerBasic.objects.get(id=pid).delete()
