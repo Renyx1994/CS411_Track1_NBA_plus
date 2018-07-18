@@ -28,8 +28,10 @@ def insertplayer(request):
 
 def updateplayer(request,pid):
     a = PlayerBasic.objects.get(id=pid)
-    uform = PlayerForm(request.POST, instance=a)
-    if uform.is_valid():
-        uform.save()
-        return redirect("/player/")
+    uform = PlayerForm(instance=a)
+    if request.method == 'POST':
+        uform = PlayerForm(request.POST, instance=a)
+        if uform.is_valid():
+            uform.save()
+            return redirect("/player/")
     return render(request, 'NBA_plus/player_update.html', {'uform':uform})
