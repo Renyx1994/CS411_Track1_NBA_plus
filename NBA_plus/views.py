@@ -25,3 +25,11 @@ def insertplayer(request):
         iform.save()
         return redirect("/player/")
     return render(request, 'NBA_plus/player_insert.html', {'iform':iform})
+
+def updateplayer(request,pid):
+    a = PlayerBasic.objects.get(id=pid)
+    uform = PlayerForm(request.POST, instance=a)
+    if uform.is_valid():
+        uform.save()
+        return redirect("/player/")
+    return render(request, 'NBA_plus/player_update.html', {'uform':uform})

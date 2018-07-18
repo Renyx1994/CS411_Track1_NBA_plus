@@ -40,7 +40,7 @@
   <body>
 
     <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-      <a class="navbar-brand" href="#">Navbar</a>
+      <a class="navbar-brand" href="http://su18-cs411-06.cs.illinois.edu">NBA++</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -107,8 +107,8 @@
               <td>{{ i.wt}}</td>
               <td>{{ i.birthday}}</td>
               <td>{{ i.colleges}}</td>
-              <th scope="col"><a href="#" >Edit</a></th>
-              <th scope="col"><a href="/delplayer/{{ i.id }}/"  onclick="return confirm('Sure to delete?')">Delete</a></th>
+              <th scope="col"><a href="/player/update/{{ i.id }}/" >Edit</a></th>
+              <th scope="col"><a href="/player/delete/{{ i.id }}/"  onclick="return confirm('Sure to delete?')">Delete</a></th>
             </tr>
           {% endfor %}
           </tbody>
