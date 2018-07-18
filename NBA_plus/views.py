@@ -1,6 +1,7 @@
 from django.shortcuts import render,redirect
 from django.http import HttpResponse
 from NBA_plus.models import PlayerBasic
+from NBA_plus.form import PlayerForm
 
 # Create your views here.
 def index(request):
@@ -17,3 +18,10 @@ def player(request):
 def delplayer(request,pid):
     PlayerBasic.objects.get(id=pid).delete()
     return redirect("/player/")
+
+def insertplayer(request):
+    iform = PlayerForm(request.POST)
+    if iform.is_valid():
+        iform.save()
+        return redirect("/player/")
+    return render(request, 'NBA_plus/player_insert.html', {'iform':iform})

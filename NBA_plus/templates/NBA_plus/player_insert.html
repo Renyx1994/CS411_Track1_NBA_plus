@@ -112,7 +112,7 @@
             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../NBA_plus/test.html">Return</a>
+            <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu/player">Return</a>
           </li>
           <li class="nav-item">
             <a class="nav-link disabled" href="#">Disabled</a>
@@ -144,16 +144,9 @@
   <section class = "main-container">
      <div class = "main_wrapper">
       <h2>Player </h2>
-       <form class = "addnews-form" action= "include/addnews.inc.php" method = "GET">
-         <input type="text" name="ID" placeholder="Insert ID">
-         <input type="text" name="Player" placeholder="Insert Player">
-         <input type="number" name="Start" placeholder="Insert Start">
-         <input type="text" name="Until" placeholder="Insert Until">
-         <input type="text" name="Pos" placeholder="Insert Pos">
-         <input type="text" name="Ht" placeholder="Insert Ht">
-         <input type="text" name="Wt" placeholder="Insert Wt">
-         <input type="text" name="Birthday" placeholder="Insert Birthday">
-         <input type="text" name="Colleges" placeholder="Insert Colleges">
+       <form method = "post">
+        {% csrf_token %}
+        {{ iform.as_ul }}
         <button type = "submit" name="submit">Submit</button>
        </form>
      </div>
