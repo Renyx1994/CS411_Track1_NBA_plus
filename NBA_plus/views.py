@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render,redirect
 from django.http import HttpResponse
 from NBA_plus.models import PlayerBasic
 
@@ -13,3 +13,7 @@ def test(request):
 def player(request):
     player = PlayerBasic.objects.all()
     return render(request, 'NBA_plus/player.html', {'player':player})
+
+def delplayer(request,pid):
+    PlayerBasic.objects.get(id=pid).delete()
+    return redirect("/player/")
