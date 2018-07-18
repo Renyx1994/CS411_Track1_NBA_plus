@@ -110,7 +110,7 @@
               <td>{{ i.birthday}}</td>
               <td>{{ i.colleges}}</td>
               <th scope="col"><a href="#" >Edit</a></th>
-              <th scope="col"><a href="{% url 'del_player' i.id %}"  onclick="return confirm('Sure to delete?')">Delete</a></th>
+              <th scope="col"><a href="/delplayer/{{ i.id }}/"  onclick="return confirm('Sure to delete?')">Delete</a></th>
             </tr>
           {% endfor %}
           </tbody>
