@@ -12,7 +12,11 @@ def test(request):
     return render(request, 'NBA_plus/test.html')
 
 def player(request):
-    player = PlayerBasic.objects.all()
+    var_get_search = request.GET.get('search_box')
+    if var_get_search is not None:
+        player = PlayerBasic.objects.filter(player__icontains=var_get_search)
+    else:
+        player = PlayerBasic.objects.all()
     return render(request, 'NBA_plus/player.html', {'player':player})
 
 def delplayer(request,pid):
