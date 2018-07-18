@@ -74,6 +74,29 @@ class AuthUserUserPermissions(models.Model):
         unique_together = (('user', 'permission'),)
 
 
+class CoachRecords(models.Model):
+    id = models.CharField(db_column='ID', primary_key=True, max_length=255)  # Field name made lowercase.
+    season = models.CharField(db_column='Season', max_length=255)  # Field name made lowercase.
+    age = models.IntegerField(db_column='Age', blank=True, null=True)  # Field name made lowercase.
+    lg = models.CharField(db_column='Lg', max_length=255, blank=True, null=True)  # Field name made lowercase.
+    tm = models.CharField(db_column='Tm', max_length=255)  # Field name made lowercase.
+    regular_g = models.IntegerField(db_column='regular_G', blank=True, null=True)  # Field name made lowercase.
+    regular_w = models.IntegerField(db_column='regular_W', blank=True, null=True)  # Field name made lowercase.
+    regular_l = models.IntegerField(db_column='regular_L', blank=True, null=True)  # Field name made lowercase.
+    regular_wl_ratio = models.FloatField(blank=True, null=True)
+    w_minus_l_over_2 = models.FloatField(blank=True, null=True)
+    finish = models.IntegerField(db_column='Finish', blank=True, null=True)  # Field name made lowercase.
+    playoff_g = models.IntegerField(db_column='playoff_G', blank=True, null=True)  # Field name made lowercase.
+    playoff_w = models.IntegerField(db_column='playoff_W', blank=True, null=True)  # Field name made lowercase.
+    playoff_l = models.IntegerField(db_column='playoff_L', blank=True, null=True)  # Field name made lowercase.
+    playoff_wl_ratio = models.FloatField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'coach_records'
+        unique_together = (('id', 'season', 'tm'),)
+
+
 class DjangoAdminLog(models.Model):
     action_time = models.DateTimeField()
     object_id = models.TextField(blank=True, null=True)
@@ -118,6 +141,22 @@ class DjangoSession(models.Model):
         db_table = 'django_session'
 
 
+class MatchRecords(models.Model):
+    playoff_regular = models.CharField(primary_key=True, max_length=120)
+    team = models.CharField(max_length=120)
+    year = models.IntegerField()
+    g = models.IntegerField(db_column='G')  # Field name made lowercase.
+    opponent = models.CharField(db_column='Opponent', max_length=120, blank=True, null=True)  # Field name made lowercase.
+    home_away = models.IntegerField(db_column='Home_away', blank=True, null=True)  # Field name made lowercase.
+    tm = models.IntegerField(db_column='Tm', blank=True, null=True)  # Field name made lowercase.
+    opp = models.IntegerField(db_column='Opp', blank=True, null=True)  # Field name made lowercase.
+
+    class Meta:
+        managed = False
+        db_table = 'match_records'
+        unique_together = (('playoff_regular', 'team', 'year', 'g'),)
+
+
 class PlayerAvgPerformance(models.Model):
     number_2p = models.IntegerField(db_column='2P', blank=True, null=True)  # Field name made lowercase. Field renamed because it wasn't a valid Python identifier.
     number_2p_percent = models.FloatField(db_column='2P_percent', blank=True, null=True)  # Field name made lowercase. Field renamed because it wasn't a valid Python identifier.
@@ -139,9 +178,10 @@ class PlayerAvgPerformance(models.Model):
     gs = models.IntegerField(db_column='GS', blank=True, null=True)  # Field name made lowercase.
     id = models.CharField(db_column='Id', primary_key=True, max_length=255)  # Field name made lowercase.
     lg = models.CharField(db_column='Lg', max_length=255, blank=True, null=True)  # Field name made lowercase.
-    mp = models.FloatField(db_column='MP', blank=True, null=True)  # Field name made lowercase.
+    mp = models.FloatField(db_column='MP')  # Field name made lowercase.
     orb = models.FloatField(db_column='ORB', blank=True, null=True)  # Field name made lowercase.
     pf = models.FloatField(db_column='PF', blank=True, null=True)  # Field name made lowercase.
+    pts = models.FloatField(db_column='PTS', blank=True, null=True)  # Field name made lowercase.
     pos = models.CharField(db_column='Pos', max_length=255, blank=True, null=True)  # Field name made lowercase.
     stl = models.FloatField(db_column='STL', blank=True, null=True)  # Field name made lowercase.
     season = models.CharField(db_column='Season', max_length=255)  # Field name made lowercase.
@@ -153,7 +193,7 @@ class PlayerAvgPerformance(models.Model):
     class Meta:
         managed = False
         db_table = 'player_avg_performance'
-        unique_together = (('id', 'season', 'tm'),)
+        unique_together = (('id', 'mp', 'season', 'tm'),)
 
 
 class PlayerBasic(models.Model):
@@ -172,40 +212,39 @@ class PlayerBasic(models.Model):
         db_table = 'player_basic'
 
 
-class PlayerPerformance(models.Model):
-    id = models.CharField(db_column='Id', primary_key=True, max_length=255)  # Field name made lowercase.
-    season = models.CharField(db_column='Season', max_length=255)  # Field name made lowercase.
-    age = models.IntegerField(db_column='Age', blank=True, null=True)  # Field name made lowercase.
-    tm = models.CharField(db_column='Tm', max_length=255)  # Field name made lowercase.
-    lg = models.CharField(db_column='Lg', max_length=255, blank=True, null=True)  # Field name made lowercase.
-    pos = models.CharField(db_column='Pos', max_length=255, blank=True, null=True)  # Field name made lowercase.
-    g = models.IntegerField(db_column='G', blank=True, null=True)  # Field name made lowercase.
-    gs = models.IntegerField(db_column='GS', blank=True, null=True)  # Field name made lowercase.
-    mp = models.FloatField(db_column='MP', blank=True, null=True)  # Field name made lowercase.
-    fg = models.FloatField(db_column='FG', blank=True, null=True)  # Field name made lowercase.
-    fga = models.FloatField(db_column='FGA', blank=True, null=True)  # Field name made lowercase.
-    fg_percent = models.FloatField(db_column='FG_percent', blank=True, null=True)  # Field name made lowercase.
+class PlayerRegPerformance(models.Model):
     number_3p = models.IntegerField(db_column='3P', blank=True, null=True)  # Field name made lowercase. Field renamed because it wasn't a valid Python identifier.
-    number_3pa = models.FloatField(db_column='3PA', blank=True, null=True)  # Field name made lowercase. Field renamed because it wasn't a valid Python identifier.
     number_3p_percent = models.FloatField(db_column='3P_percent', blank=True, null=True)  # Field name made lowercase. Field renamed because it wasn't a valid Python identifier.
-    number_2p = models.FloatField(db_column='2P', blank=True, null=True)  # Field name made lowercase. Field renamed because it wasn't a valid Python identifier.
-    number_2pa = models.FloatField(db_column='2PA', blank=True, null=True)  # Field name made lowercase. Field renamed because it wasn't a valid Python identifier.
-    number_2p_percent = models.FloatField(db_column='2P_percent', blank=True, null=True)  # Field name made lowercase. Field renamed because it wasn't a valid Python identifier.
-    efg_percent = models.FloatField(db_column='eFG_percent', blank=True, null=True)  # Field name made lowercase.
-    ft = models.FloatField(db_column='FT', blank=True, null=True)  # Field name made lowercase.
-    fta = models.FloatField(db_column='FTA', blank=True, null=True)  # Field name made lowercase.
+    number_3pa = models.IntegerField(db_column='3PA', blank=True, null=True)  # Field name made lowercase. Field renamed because it wasn't a valid Python identifier.
+    ast = models.IntegerField(db_column='AST', blank=True, null=True)  # Field name made lowercase.
+    age = models.CharField(db_column='Age', primary_key=True, max_length=120)  # Field name made lowercase.
+    blk = models.IntegerField(db_column='BLK', blank=True, null=True)  # Field name made lowercase.
+    drb = models.IntegerField(db_column='DRB', blank=True, null=True)  # Field name made lowercase.
+    date = models.CharField(db_column='Date', max_length=120, blank=True, null=True)  # Field name made lowercase.
+    fg = models.IntegerField(db_column='FG', blank=True, null=True)  # Field name made lowercase.
+    fg_percent = models.FloatField(db_column='FG_percent', blank=True, null=True)  # Field name made lowercase.
+    fga = models.IntegerField(db_column='FGA', blank=True, null=True)  # Field name made lowercase.
+    ft = models.IntegerField(db_column='FT', blank=True, null=True)  # Field name made lowercase.
     ft_percent = models.FloatField(db_column='FT_percent', blank=True, null=True)  # Field name made lowercase.
-    orb = models.FloatField(db_column='ORB', blank=True, null=True)  # Field name made lowercase.
-    drb = models.FloatField(db_column='DRB', blank=True, null=True)  # Field name made lowercase.
-    trb = models.FloatField(db_column='TRB', blank=True, null=True)  # Field name made lowercase.
-    ast = models.FloatField(db_column='AST', blank=True, null=True)  # Field name made lowercase.
-    stl = models.FloatField(db_column='STL', blank=True, null=True)  # Field name made lowercase.
-    blk = models.FloatField(db_column='BLK', blank=True, null=True)  # Field name made lowercase.
-    tov = models.FloatField(db_column='TOV', blank=True, null=True)  # Field name made lowercase.
-    pf = models.FloatField(db_column='PF', blank=True, null=True)  # Field name made lowercase.
-    pts = models.FloatField(db_column='PTS', blank=True, null=True)  # Field name made lowercase.
+    fta = models.IntegerField(db_column='FTA', blank=True, null=True)  # Field name made lowercase.
+    g = models.IntegerField(db_column='G', blank=True, null=True)  # Field name made lowercase.
+    gs = models.CharField(db_column='GS', max_length=255, blank=True, null=True)  # Field name made lowercase.
+    gmsc = models.FloatField(db_column='GmSc', blank=True, null=True)  # Field name made lowercase.
+    id = models.CharField(db_column='Id', max_length=120)  # Field name made lowercase.
+    mp = models.CharField(db_column='MP', max_length=255)  # Field name made lowercase.
+    orb = models.IntegerField(db_column='ORB', blank=True, null=True)  # Field name made lowercase.
+    opp = models.CharField(db_column='Opp', max_length=120)  # Field name made lowercase.
+    pf = models.IntegerField(db_column='PF', blank=True, null=True)  # Field name made lowercase.
+    pts = models.IntegerField(db_column='PTS', blank=True, null=True)  # Field name made lowercase.
+    rk = models.IntegerField(db_column='Rk', blank=True, null=True)  # Field name made lowercase.
+    stl = models.IntegerField(db_column='STL', blank=True, null=True)  # Field name made lowercase.
+    tov = models.IntegerField(db_column='TOV', blank=True, null=True)  # Field name made lowercase.
+    trb = models.IntegerField(db_column='TRB', blank=True, null=True)  # Field name made lowercase.
+    tm = models.CharField(db_column='Tm', max_length=120)  # Field name made lowercase.
+    home_or_awar = models.CharField(db_column='Home_or_Awar', max_length=255, blank=True, null=True)  # Field name made lowercase.
+    wl = models.CharField(db_column='WL', max_length=255, blank=True, null=True)  # Field name made lowercase.
 
     class Meta:
         managed = False
-        db_table = 'player_performance'
-        unique_together = (('id', 'season', 'tm'),)
+        db_table = 'player_reg_performance'
+        unique_together = (('age', 'id', 'mp', 'opp', 'tm'),)
