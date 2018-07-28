@@ -79,7 +79,7 @@
       <div class="starter-template">
         <h1>Bootstrap starter template</h1>
         <h1 class="lead"><br> NBA data is here!</h1>
-      
+
 
 
         <table>
@@ -90,15 +90,9 @@
             <th>W</th>
             <th>L</th>
         </tr>
-        {% for i in sk %}
         <tr>
-            <td>{{ i.id}}</td>
-            <td>{{ i.lg}}</td>
-            <td>{{ i.g}}</td>
-            <td>{{ i.w}}</td>
-            <td>{{ i.l}}</td>
+        {% sk %}
         </tr>
-        {% endfor %}
         </table>
 
       </div>
