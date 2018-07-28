@@ -80,9 +80,20 @@
         <h1>Bootstrap starter template</h1>
         <h1 class="lead"><br> NBA data is here!</h1>
 
-
-
-          <h1>{% sk %}</h1>
+      <table class="table">
+          <thead class="thead-light">
+            <tr>
+              <th scope="col">VIEW</th>
+            </tr>
+          </thead>
+          <tbody>
+          {% for i in sk %}
+            <tr>
+              <th scope="row">{{ i }}</th>
+            </tr>
+          {% endfor %}
+          </tbody>
+        </table>
 
       </div>
 
