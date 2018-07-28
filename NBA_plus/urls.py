@@ -10,4 +10,9 @@ urlpatterns = [
     path('player/insert/', views.insertplayer, name='insert_player'),
     path('player/update/<pid>/', views.updateplayer, name='update_player'),
     path('game/', views.game, name='game'),
+    path('game/insert/', views.insertgame, name='insert_game'),
+    path('team/', views.team, name='team'),
+    path('team/delete/<tid>/', views.delteam, name='del_team'),
+    path('team/insert/', views.insertteam, name='insert_team'),
+    path('team/update/<tid>/', views.updateteam, name='update_team'),
 ]
