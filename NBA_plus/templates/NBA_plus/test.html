@@ -113,19 +113,19 @@
 
         <table>
         <tr>
+            <th>ID</th>
+            <th>Lg</th>
             <th>G</th>
-            <th>OPP</th>
-            <th>H_A</th>
-            <th>SC</th>
-            <th>SC2</th>
+            <th>W</th>
+            <th>L</th>
         </tr>
-        {% for i in nbadata %}
+        {% for i in sking %}
         <tr>
             <td>{{ i.id}}</td>
-            <td>{{ i.opp}}</td>
-            <td>{{ i.h_a}}</td>
-            <td>{{ i.sc}}</td>
-            <td>{{ i.sc2}}</td>
+            <td>{{ i.lg}}</td>
+            <td>{{ i.g}}</td>
+            <td>{{ i.w}}</td>
+            <td>{{ i.l}}</td>
         </tr>
         {% endfor %}
         </table>

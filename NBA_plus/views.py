@@ -2,14 +2,17 @@ from django.shortcuts import render,redirect
 from django.http import HttpResponse
 from NBA_plus.models import PlayerBasic,MatchRecords
 from NBA_plus.form import PlayerForm
+from django.db import connection
 
 # Create your views here.
 def index(request):
     return render(request, 'NBA_plus/index.html')
 
 def test(request):
-    # nbadata = Nba.objects.raw('SELECT G AS id, Opp, H_A, Sc, Sc2 FROM nba')
-    return render(request, 'NBA_plus/test.html')
+    cursor = connection.cursor()
+    cursor.execute('SELECT * FROM SKing')
+    sking = cursor.fetchall()
+    return render(request, 'NBA_plus/test.html',  {'sk':sking})
 
 def player(request):
     var_get_search = request.GET.get('search_box')
