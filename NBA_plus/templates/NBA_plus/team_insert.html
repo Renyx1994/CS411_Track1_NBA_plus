@@ -1,0 +1,167 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Team</title>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+                integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+                crossorigin="anonymous"></script>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+                integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+                crossorigin="anonymous"></script>
+
+      <link rel="stylesheet"
+              href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+              integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+              crossorigin="anonymous">
+
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+            integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+            crossorigin="anonymous"></script>
+
+
+    <style>
+        table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        }
+        .main_wrapper{
+    margin: 0 auto;
+    width: 1000px;
+   }
+        .main-container h2{
+    font-family: arial；
+    font-size: 40px;
+    color: #111;
+    line-height: 50px;
+    text-align: center;
+   }
+      .addnews-form{
+    width: 450px;
+    margin: 0 auto;
+    padding-top: 30px;
+   }
+   .addnews-form input{
+    width: 90%;
+    height: 40px;
+    padding: 0px 5%;
+    margin-bottom: 4px;
+    border: none;
+    background-color: #fff;
+    font-family: arial；
+    font-size: 16px;
+    color: #111;
+    line-height: 40px;
+   }
+   .addnews-form .input_content input{
+    width: 90%;
+    height: 40px;
+    padding: 0px 5%;
+    margin-bottom: 4px;
+    border: none;
+    background-color: #fff;
+    font-family: arial；
+    font-size: 16px;
+    color: #111;
+    line-height: 200px;
+   }
+   .addnews-form button{
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: 40px;
+    border: none;
+    background-color: #222;
+    font-family: arial；
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+   }
+   .addnews-form button: hover{
+    background-color: #111;
+   }
+    </style>
+
+
+
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+      <a class="navbar-brand" href="http://su18-cs411-06.cs.illinois.edu">NBA++</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu/team">Return</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="https://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown01">
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </li>
+        </ul>
+        <!--<form method="get" class="form-inline my-2 my-lg-0">
+          <input id="search_box" name="search_box" class="form-control mr-sm-2" type="text" placeholder="Search for the player" aria-label="Search">
+          <button id="search_submit" class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>-->
+      </div>
+    </nav>
+
+
+
+    <main role="main" class="container">
+
+      <div class="starter-template">
+        <h1>Bootstrap starter template</h1>
+        <h1 class="lead"><br> Please insert your records</h1>
+
+  <section class = "main-container">
+     <div class = "main_wrapper">
+      <h2>Team </h2>
+       <form method = "post">
+        {% csrf_token %}
+        <table>
+        {{ iform.as_table }}
+        </table>
+        <button type = "submit" name="submit">Submit</button>
+       </form>
+     </div>
+    </section>
+
+
+
+
+
+
+
+      </div>
+
+    </main><!-- /.container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+  </body>
+</html>
+
+
