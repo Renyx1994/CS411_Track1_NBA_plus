@@ -73,6 +73,14 @@
         <h1>Bootstrap starter template</h1>
         <h1 class="lead"><br> Similar Player</h1>
 
+        <form method = "post">
+        {% csrf_token %}
+        <table>
+        {{ simform.as_p }}
+        </table>
+        <button type = "submit" name="submit">Search</button>
+       </form>
+
         <table class="table">
           <thead class="thead-light">
             <tr>

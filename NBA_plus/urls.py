@@ -15,4 +15,5 @@ urlpatterns = [
     path('team/delete/<tid>/', views.delteam, name='del_team'),
     path('team/insert/', views.insertteam, name='insert_team'),
     path('team/update/<tid>/', views.updateteam, name='update_team'),
+    path('similarity/', views.similarplayer, name='similar_player'),
 ]

@@ -1,7 +1,7 @@
 from django.shortcuts import render,redirect
 from django.http import HttpResponse
 from NBA_plus.models import PlayerBasic,MatchRecords,TeamBasic,PlayerSimilarity
-from NBA_plus.form import PlayerForm, TeamForm, GameForm
+from NBA_plus.form import PlayerForm, TeamForm, GameForm, SimilarplayerForm
 from django.db import connection
 
 # Create your views here.
@@ -65,8 +65,12 @@ def updateplayer(request,pid):
     return render(request, 'NBA_plus/player_update.html', {'uform':uform})
 
 def similarplayer(request,pid):
-    sim = PlayerSimilarity.objects.get(id=pid)
-    return render(request, 'NBA_plus/similarity.html', {'sim':sim})
+    simform = SimilarplayerForm(request.POST)
+    name = ''
+    if simform.is_valid():
+        name = simform.cleaned_data['post']
+    sim = PlayerSimilarity.objects.get(name__icontains=name)
+    return render(request, 'NBA_plus/similarity.html', {'simform':simform,'sim':sim})
 
 def delteam(request,tid):
     TeamBasic.objects.get(id=tid).delete()
