@@ -75,9 +75,7 @@
 
         <form method = "post">
         {% csrf_token %}
-        <table>
         {{ simform.as_p }}
-        </table>
         <button type = "submit" name="submit">Search</button>
        </form>
 
