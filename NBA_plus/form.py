@@ -18,3 +18,6 @@ class GameForm(ModelForm):
 
 class SimilarplayerForm(Form):
     player_name = CharField(label='Player name', max_length=100)
+
+class PredictForm(Form):
+    team_name = CharField(label='Team name', max_length=100)

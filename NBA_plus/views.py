@@ -1,7 +1,7 @@
 from django.shortcuts import render,redirect
 from django.http import HttpResponse
-from NBA_plus.models import PlayerBasic,MatchRecords,TeamBasic,PlayerSimilarity
-from NBA_plus.form import PlayerForm, TeamForm, GameForm, SimilarplayerForm
+from NBA_plus.models import PlayerBasic,MatchRecords,TeamBasic,PlayerSimilarity,Prediction
+from NBA_plus.form import PlayerForm, TeamForm, GameForm, SimilarplayerForm, PredictForm
 from django.db import connection
 
 # Create your views here.
@@ -71,6 +71,14 @@ def similarplayer(request):
         name = simform.cleaned_data['player_name']
         sim = PlayerSimilarity.objects.filter(name__icontains=name)
     return render(request, 'NBA_plus/similarity.html', {'simform':simform,'sim':sim})
+
+def predict(request):
+    predictform = PredictForm(request.POST)
+    pred = ''
+    if predictform.is_valid():
+        name = predictform.cleaned_data['team_name']
+        pred = Prediction.objects.filter(name__icontains=name)
+    return render(request, 'NBA_plus/prediction.html', {'predictform':predictform,'pred':pred})
 
 def delteam(request,tid):
     TeamBasic.objects.get(id=tid).delete()
