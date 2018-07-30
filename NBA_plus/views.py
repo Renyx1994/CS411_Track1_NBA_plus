@@ -77,7 +77,7 @@ def predict(request):
     pred = ''
     if predictform.is_valid():
         name = predictform.cleaned_data['team_name']
-        pred = Prediction.objects.filter(name__icontains=name)
+        pred = Prediction.objects.filter(team__icontains=name)
     return render(request, 'NBA_plus/prediction.html', {'predictform':predictform,'pred':pred})
 
 def delteam(request,tid):
