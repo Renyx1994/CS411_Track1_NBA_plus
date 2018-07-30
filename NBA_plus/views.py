@@ -64,7 +64,7 @@ def updateplayer(request,pid):
             return redirect("/player/")
     return render(request, 'NBA_plus/player_update.html', {'uform':uform})
 
-def similarplayer(request,pid):
+def similarplayer(request):
     simform = SimilarplayerForm(request.POST)
     name = ''
     if simform.is_valid():
