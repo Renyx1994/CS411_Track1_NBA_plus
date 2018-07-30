@@ -97,8 +97,17 @@
           {% for i in player %}
             <tr>
               <th scope="row">{{ i.id}}</th>
-              <td>{{ i.name}}</td>
-              <td>{{ i.sim_plyr}}</td>
+              <td>{{ i.player}}</td>
+              <td>{{ i.start}}</td>
+              <td>{{ i.until}}</td>
+              <td>{{ i.pos}}</td>
+              <td>{{ i.ht}}</td>
+              <td>{{ i.wt}}</td>
+              <td>{{ i.birthday}}</td>
+              <td>{{ i.colleges}}</td>
+              <th scope="col"><a href="/player/update/{{ i.id }}/" >Edit</a></th>
+              <th scope="col"><a href="/player/delete/{{ i.id }}/"  onclick="return confirm('Sure to delete?')">Delete</a></th>
+              <th scope="col"><a href="/player/similarity/{{ i.id }}/" >Explore</a></th>
             </tr>
           {% endfor %}
           </tbody>
