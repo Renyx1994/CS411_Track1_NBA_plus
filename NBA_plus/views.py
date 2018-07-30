@@ -1,6 +1,6 @@
 from django.shortcuts import render,redirect
 from django.http import HttpResponse
-from NBA_plus.models import PlayerBasic,MatchRecords,TeamBasic
+from NBA_plus.models import PlayerBasic,MatchRecords,TeamBasic,PlayerSimilarity
 from NBA_plus.form import PlayerForm, TeamForm, GameForm
 from django.db import connection
 
@@ -63,6 +63,10 @@ def updateplayer(request,pid):
             uform.save()
             return redirect("/player/")
     return render(request, 'NBA_plus/player_update.html', {'uform':uform})
+
+def similarplayer(request,pid):
+    sim = PlayerSimilarity.objects.get(id=pid)
+    return render(request, 'NBA_plus/similarity.html', {'sim':sim})
 
 def delteam(request,tid):
     TeamBasic.objects.get(id=tid).delete()
