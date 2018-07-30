@@ -66,7 +66,6 @@ def updateplayer(request,pid):
 
 def similarplayer(request):
     simform = SimilarplayerForm(request.POST)
-    name = ''
     if simform.is_valid():
         name = simform.cleaned_data['post']
     sim = PlayerSimilarity.objects.get(name__icontains=name)
