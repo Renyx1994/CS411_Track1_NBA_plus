@@ -69,7 +69,7 @@ def similarplayer(request):
     sim = ''
     if simform.is_valid():
         name = simform.cleaned_data['player_name']
-        sim = PlayerSimilarity.objects.get(name__icontains=name)
+        sim = PlayerSimilarity.objects.filter(name__icontains=name)
     return render(request, 'NBA_plus/similarity.html', {'simform':simform,'sim':sim})
 
 def delteam(request,tid):
