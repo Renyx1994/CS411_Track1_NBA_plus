@@ -173,6 +173,7 @@ def WL(request):
         elif 'update' in request.POST:
             cursor = connection.cursor()
             cursor.execute("CALL update_team_WL(%s, %s);", [team1, team2])
+            result = cursor.fetchall()
     return render(request, 'NBA_plus/WL.html', {'wlform':wlform,'result':result})
 
 def abbr(request):
