@@ -141,11 +141,20 @@
         {{ predictform.as_p }}
         <button type = "submit" name="submit">Search</button>
        </form>
+     </div>
+    </section>
+
+
+     <section class = "main-container">
+     <div class = "main_wrapper">
+       </form>
        <form method="get">
+         {% csrf_token %}
          <button type="submit" name="update">Update</button>
        </form>
      </div>
     </section>
+
 
 
     <table class="table">
