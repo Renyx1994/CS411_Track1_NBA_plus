@@ -1,6 +1,6 @@
 from django.shortcuts import render,redirect
 from django.http import HttpResponse
-from NBA_plus.models import PlayerBasic,MatchRecords,TeamBasic,PlayerSimilarity,Prediction
+from NBA_plus.models import *
 from NBA_plus.form import *
 from django.db import connection
 
@@ -77,7 +77,17 @@ def predict(request):
     pred = ''
     if predictform.is_valid():
         name = predictform.cleaned_data['team_name']
-        pred = Prediction.objects.filter(team__icontains=name)
+        p = predictform.cleaned_data['p']
+        if p == 1:
+            pred = PredictionRelyRecent1.objects.filter(team=name)
+        elif p == 2:
+            pred = PredictionRelyRecent2.objects.filter(team=name)
+        elif p == 3:
+            pred = PredictionRelyRecent3.objects.filter(teams=name)
+        elif p == 4:
+            pred = PredictionRelyRecent4.objects.filter(team=name)
+        else:
+            pred = PredictionRelyRecent5.objects.filter(team=name)
     return render(request, 'NBA_plus/prediction.html', {'predictform':predictform,'pred':pred})
 
 def delteam(request,tid):
