@@ -163,19 +163,17 @@ def HASS(request):
     return render(request, 'NBA_plus/HASS.html', {'seasonform':seasonform,'result':result})
 
 def WL(request):
-    wlform1 = WLForm(request.POST['search'])
-    wlform2 = WLForm(request.POST['update'])
-    result = ''
-    if wlform1.is_valid():
-        team1 = wlform1.cleaned_data['team1']
-        team2 = wlform1.cleaned_data['team2']
-        result = [TeamBasic.objects.get(franchise=team1),TeamBasic.objects.get(franchise=team2)]
-    if wlform2.is_valid():
-        team1 = wlform2.cleaned_data['team1']
-        team2 = wlform2.cleaned_data['team2']
-        cursor = connection.cursor()
-        cursor.execute("CALL update_team_WL(%s, %s);", [team1, team2])
-    return render(request, 'NBA_plus/WL.html', {'wlform1':wlform1,'wlform2':wlform2,'result':result})
+    wlform = WLForm(request.POST)
+    result =''
+    if wlform.is_valid():
+        team1 = wlform.cleaned_data['team1']
+        team2 = wlform.cleaned_data['team2']
+        if 'search' in request.POST:
+            result = [TeamBasic.objects.get(franchise=team1), TeamBasic.objects.get(franchise=team2)]
+        elif 'update' in request.POST:
+            cursor = connection.cursor()
+            cursor.execute("CALL update_team_WL(%s, %s);", [team1, team2])
+    return render(request, 'NBA_plus/WL.html', {'wlform':wlform,'result':result})
 
 def abbr(request):
     return render(request, 'NBA_plus/abbr.html')

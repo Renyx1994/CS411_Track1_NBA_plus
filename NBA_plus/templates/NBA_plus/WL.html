@@ -135,21 +135,11 @@
 
   <section class = "main-container">
      <div class = "main_wrapper">
-      <h2>Query</h2>
+      <h2>Transaction</h2>
        <form method = "post">
         {% csrf_token %}
-        {{ wlform1.as_p }}
+        {{ wlform.as_p }}
         <button type = "submit" name="search">Search</button>
-       </form>
-     </div>
-    </section>
-
-    <section class = "main-container">
-     <div class = "main_wrapper">
-      <h2>Update</h2>
-       <form method = "post">
-        {% csrf_token %}
-        {{ wlform2.as_p }}
         <button type = "submit" name="update">Update</button>
        </form>
      </div>
