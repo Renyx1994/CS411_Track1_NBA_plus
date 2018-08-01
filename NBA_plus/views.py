@@ -69,8 +69,8 @@ def similarplayer(request):
     sim = ''
     if simform.is_valid():
         name = simform.cleaned_data['player_name']
-        #sim = PlayerSimilarity.objects.filter(name__icontains=name)
-        sim = PlayerSimilarity.objects.raw('SELECT Name,Sim_plyr FROM player_similarity WHERE Name LIKE %s', [name])
+        sim = PlayerSimilarity2.objects.filter(name__icontains=name)
+        #sim = PlayerSimilarity2.objects.raw('SELECT Name,Sim_plyr FROM player_similarity WHERE Name LIKE %s', [name])
     return render(request, 'NBA_plus/similarity.html', {'simform':simform,'sim':sim})
 
 def predict(request):
