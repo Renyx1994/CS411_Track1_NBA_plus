@@ -135,22 +135,25 @@
 
   <section class = "main-container">
      <div class = "main_wrapper">
-      <h2>Teams </h2>
+      <h2>Query</h2>
        <form method = "post">
         {% csrf_token %}
-        {{ wlform.as_p }}
-        <button type = "submit" name="submit">Search</button>
+        {{ wlform1.as_p }}
+        <button type = "submit" name="search">Search</button>
        </form>
      </div>
     </section>
 
-     <section class = "main-container"> 
-         <div class = "main_wrapper"> 
-             <form method="get"> 
-                 <button type="submit" name="update">Update</button> 
-             </form> 
-         </div> 
-     </section>
+    <section class = "main-container">
+     <div class = "main_wrapper">
+      <h2>Update</h2>
+       <form method = "post">
+        {% csrf_token %}
+        {{ wlform2.as_p }}
+        <button type = "submit" name="update">Update</button>
+       </form>
+     </div>
+    </section>
 
 
     <table class="table">
