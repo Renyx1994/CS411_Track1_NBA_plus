@@ -108,13 +108,7 @@
             <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu/team">Return</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu/allrank">All Rank</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu/abbr">Team Abbreviation</a>
+            <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu/prediction">Return</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="https://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
@@ -138,38 +132,36 @@
 
       <div class="starter-template">
         <h1>Bootstrap starter template</h1>
+        <h1 class="lead"><br>Predict ranks for all the teams</h1>
 
   <section class = "main-container">
      <div class = "main_wrapper">
-      <h2>Prediction </h2>
+      <h2>Parameter</h2>
        <form method = "post">
         {% csrf_token %}
-        {{ predictform.as_p }}
+        {{ pform.as_p }}
         <button type = "submit" name="submit">Search</button>
        </form>
      </div>
     </section>
 
 
-    <table class="table">
+  <table class="table">
           <thead class="thead-light">
             <tr>
+              <th scope="col">Rank</th>
               <th scope="col">Team</th>
-              <th scope="col">Rank Prediction</th>
             </tr>
           </thead>
           <tbody>
-          {% for i in pred %}
+          {% for i in result %}
             <tr>
-              <th scope="row">{{ i.team}}</th>
-              <td>{{ i.team_rank}}</td>
+              <th scope="row">{{ i.1}}</th>
+              <td>{{ i.0}}</td>
             </tr>
           {% endfor %}
           </tbody>
         </table>
-
-
-
 
 
       </div>

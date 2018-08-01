@@ -191,6 +191,7 @@ def WL(request):
                 cursor = connection.cursor()
                 #cursor.callproc('update_team_WL', [team1, team2])
                 cursor.execute("call update_team_WL(%s, %s);", [team1, team2])
+                transaction.commit()
             except:
                 transaction.rollback()
     return render(request, 'NBA_plus/WL.html', {'wlform':wlform,'result':result})
@@ -198,3 +199,22 @@ def WL(request):
 
 def abbr(request):
     return render(request, 'NBA_plus/abbr.html')
+
+def allrank(request):
+    pform = pForm(request.POST)
+    result = ''
+    if pform.is_valid():
+        p = pform.cleaned_data['p']
+        cursor = connection.cursor()
+        if p == 1:
+            cursor.execute("SELECT * FROM prediction_rely_recent_1 ORDER BY team_rank ASC")
+        elif p == 2:
+            cursor.execute("SELECT * FROM prediction_rely_recent_2 ORDER BY team_rank ASC")
+        elif p == 3:
+            cursor.execute("SELECT * FROM prediction_rely_recent_3 ORDER BY team_rank ASC")
+        elif p == 4:
+            cursor.execute("SELECT * FROM prediction_rely_recent_4 ORDER BY team_rank ASC")
+        else:
+            cursor.execute("SELECT * FROM prediction_rely_recent_5 ORDER BY team_rank ASC")
+        result = cursor.fetchall()
+    return render(request, 'NBA_plus/allrank.html', {'pform':pform,'result':result})

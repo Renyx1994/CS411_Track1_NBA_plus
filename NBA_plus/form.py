@@ -32,3 +32,6 @@ class SeasonForm(Form):
 class WLForm(Form):
     team1 = CharField(label='First team name', max_length=100)
     team2 = CharField(label='Second team name', max_length=100)
+
+class pForm(Form):
+    p = IntegerField(label='Parameter for learning')

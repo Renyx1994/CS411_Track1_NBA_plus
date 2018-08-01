@@ -24,4 +24,5 @@ urlpatterns = [
     path('HASS/', views.HASS, name='HASS'),
     path('WL/', views.WL, name='WL'),
     path('abbr/', views.abbr, name='abbr'),
+    path('allrank/', views.allrank, name='allrank'),
 ]
