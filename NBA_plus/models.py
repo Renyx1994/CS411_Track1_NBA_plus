@@ -251,7 +251,6 @@ class PlayerRegPerformance(models.Model):
 
 
 class PlayerSimilarity(models.Model):
-    id = models.CharField(db_column='ID', primary_key=True, max_length=255)  # Field name made lowercase.
     name = models.CharField(db_column='Name', max_length=255, blank=True, null=True)  # Field name made lowercase.
     sim_plyr = models.TextField(db_column='Sim_plyr', blank=True, null=True)  # Field name made lowercase.
 
@@ -260,13 +259,49 @@ class PlayerSimilarity(models.Model):
         db_table = 'player_similarity'
 
 
-class Prediction(models.Model):
+class PredictionRelyRecent1(models.Model):
     team = models.CharField(primary_key=True, max_length=255)
-    rank_pre = models.IntegerField(blank=True, null=True)
+    team_rank = models.IntegerField(blank=True, null=True)
 
     class Meta:
         managed = False
-        db_table = 'prediction'
+        db_table = 'prediction_rely_recent_1'
+
+
+class PredictionRelyRecent2(models.Model):
+    team = models.CharField(primary_key=True, max_length=255)
+    team_rank = models.IntegerField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'prediction_rely_recent_2'
+
+
+class PredictionRelyRecent3(models.Model):
+    team = models.CharField(primary_key=True, max_length=255)
+    team_rank = models.IntegerField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'prediction_rely_recent_3'
+
+
+class PredictionRelyRecent4(models.Model):
+    team = models.CharField(primary_key=True, max_length=255)
+    team_rank = models.IntegerField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'prediction_rely_recent_4'
+
+
+class PredictionRelyRecent5(models.Model):
+    team = models.CharField(primary_key=True, max_length=255)
+    team_rank = models.IntegerField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'prediction_rely_recent_5'
 
 
 class TeamBasic(models.Model):
