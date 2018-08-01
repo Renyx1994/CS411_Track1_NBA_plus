@@ -169,9 +169,9 @@ def WL(request):
         team1 = wlform.cleaned_data['team1']
         team2 = wlform.cleaned_data['team2']
         result = [TeamBasic.objects.get(franchise=team1),TeamBasic.objects.get(franchise=team2)]
-    # if (request.GET.get('update')):
-    #     cursor = connection.cursor()
-    #     cursor.execute("CALL update_team_WL(%s, %s);",[team1, team2])
+    if (request.GET.get('update')):
+        cursor = connection.cursor()
+        cursor.execute("CALL update_team_WL(%s, %s);",[team1, team2])
     return render(request, 'NBA_plus/WL.html', {'wlform':wlform,'result':result})
 
 def abbr(request):
