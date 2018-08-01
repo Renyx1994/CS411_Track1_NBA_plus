@@ -178,7 +178,7 @@ def HASS(request):
     return render(request, 'NBA_plus/HASS.html', {'seasonform':seasonform,'result':result})
 
 
-@transaction.atomic
+
 def WL(request):
     wlform = WLForm(request.POST)
     result =''
@@ -188,10 +188,10 @@ def WL(request):
         if 'search' in request.POST:
             result = [TeamBasic.objects.get(franchise=team1), TeamBasic.objects.get(franchise=team2)]
         elif 'update' in request.POST:
-            cursor = connection.cursor()
-            #cursor.callproc('update_team_WL', [team1, team2])
-            cursor.execute("call update_team_WL(%s, %s);", [team1, team2])
-            transaction.commit()
+            with transaction.atomic():
+                cursor = connection.cursor()
+                #cursor.callproc('update_team_WL', [team1, team2])
+                cursor.execute("call update_team_WL(%s, %s);", [team1, team2])
     return render(request, 'NBA_plus/WL.html', {'wlform':wlform,'result':result})
 
 def abbr(request):
