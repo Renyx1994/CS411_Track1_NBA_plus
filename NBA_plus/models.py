@@ -259,6 +259,16 @@ class PlayerSimilarity(models.Model):
         db_table = 'player_similarity'
 
 
+class PlayerSimilarity3(models.Model):
+    pid = models.IntegerField(primary_key=True)
+    name = models.CharField(db_column='Name', max_length=255, blank=True, null=True)  # Field name made lowercase.
+    sim_plyr = models.TextField(db_column='Sim_plyr', blank=True, null=True)  # Field name made lowercase.
+
+    class Meta:
+        managed = False
+        db_table = 'player_similarity3'
+
+
 class PlayerSimilarity2(models.Model):
     name = models.CharField(db_column='Name', max_length=255, blank=True, null=True)  # Field name made lowercase.
     sim_plyr = models.TextField(db_column='Sim_plyr', blank=True, null=True)  # Field name made lowercase.
