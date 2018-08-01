@@ -2,7 +2,7 @@ from django.shortcuts import render,redirect
 from django.http import HttpResponse
 from NBA_plus.models import *
 from NBA_plus.form import *
-from django.db import connection
+from django.db import connection,transaction
 
 # Create your views here.
 def index(request):
@@ -172,8 +172,9 @@ def WL(request):
             result = [TeamBasic.objects.get(franchise=team1), TeamBasic.objects.get(franchise=team2)]
         elif 'update' in request.POST:
             cursor = connection.cursor()
-            cursor.execute("CALL update_team_WL(%s, %s);", [team1, team2])
-            result = cursor.fetchall()
+            cursor.execute("call update_team_WL(%s, %s);", [team1, team2])
+            transaction.set_dirty()
+            transaction.commit()
     return render(request, 'NBA_plus/WL.html', {'wlform':wlform,'result':result})
 
 def abbr(request):
