@@ -1,7 +1,7 @@
 from django.shortcuts import render,redirect
 from django.http import HttpResponse
 from NBA_plus.models import PlayerBasic,MatchRecords,TeamBasic,PlayerSimilarity,Prediction
-from NBA_plus.form import PlayerForm, TeamForm, GameForm, SimilarplayerForm, PredictForm
+from NBA_plus.form import *
 from django.db import connection
 
 # Create your views here.
@@ -108,3 +108,60 @@ def insertgame(request):
         iform.save()
         return redirect("/game/")
     return render(request, 'NBA_plus/game_insert.html', {'iform':iform})
+
+def year(request):
+    yearform = yearForm(request.POST)
+    result = ''
+    if yearform.is_valid():
+        year = yearform.cleaned_data['year']
+        cursor = connection.cursor()
+        cursor.execute("SELECT DISTINCT B.player, P1.Tm FROM player_avg_performance P1, player_avg_performance P2, player_basic B WHERE P1.Id = P2.Id AND P1.Tm = P2.Tm AND (SELECT COUNT(*) FROM player_avg_performance WHERE Id = P2.Id AND Tm = P2.Tm) > %s AND P1.Id > P1.Tm AND B.Id = P1.Id",[year])
+        result = cursor.fetchall()
+    return render(request, 'NBA_plus/year.html', {'yearform':yearform,'result':result})
+
+def Hall_of_Fame(request):
+    cursor = connection.cursor()
+    cursor.execute('SELECT * FROM Hall_of_Fame')
+    result = cursor.fetchall()
+    return render(request, 'NBA_plus/Hall_of_Fame.html',  {'result':result})
+
+def Championship(request):
+    cursor = connection.cursor()
+    cursor.execute('SELECT * FROM Championship')
+    result = cursor.fetchall()
+    return render(request, 'NBA_plus/Championship.html',  {'result':result})
+
+def HSM(request):
+    seasonform = SeasonForm(request.POST)
+    result = ''
+    if seasonform.is_valid():
+        season = seasonform.cleaned_data['season']
+        cursor = connection.cursor()
+        cursor.execute("CALL Search_highest_score_match(%s);",[season])
+        result = cursor.fetchall()
+    return render(request, 'NBA_plus/HSM.html', {'seasonform':seasonform,'result':result})
+
+def HASS(request):
+    seasonform = SeasonForm(request.POST)
+    result = ''
+    if seasonform.is_valid():
+        season = seasonform.cleaned_data['season']
+        cursor = connection.cursor()
+        cursor.execute("CALL Search_highest_score_season(%s);",[season])
+        result = cursor.fetchall()
+    return render(request, 'NBA_plus/HASS.html', {'seasonform':seasonform,'result':result})
+
+def WL(request):
+    wlform = WLForm(request.POST)
+    result = ''
+    if wlform.is_valid():
+        team1 = wlform.cleaned_data['team1']
+        team2 = wlform.cleaned_data['team2']
+        result = [TeamBasic.objects.get(franchise=team1),TeamBasic.objects.get(franchise=team2)]
+    if (request.GET.get('update')):
+        cursor = connection.cursor()
+        cursor.execute("CALL update_team_WL(%s, %s);",[team1, team2])
+    return render(request, 'NBA_plus/WL.html', {'wlform':wlform,'result':result})
+
+def abbr(request):
+    return render(request, 'NBA_plus/abbr.html')

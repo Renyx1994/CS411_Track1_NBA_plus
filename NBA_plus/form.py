@@ -1,4 +1,4 @@
-from django.forms import Form,ModelForm,CharField
+from django.forms import Form,ModelForm,CharField,IntegerField
 from NBA_plus.models import PlayerBasic, TeamBasic, MatchRecords
 
 class PlayerForm(ModelForm):
@@ -21,3 +21,14 @@ class SimilarplayerForm(Form):
 
 class PredictForm(Form):
     team_name = CharField(label='Team name', max_length=100)
+    p = IntegerField(label='Parameter for learning')
+
+class yearForm(Form):
+    year = IntegerField(label='Years in the team')
+
+class SeasonForm(Form):
+    season = CharField(label='Specify the Season', max_length=100)
+
+class WLForm(Form):
+    team1 = CharField(label='First team name', max_length=100)
+    team2 = CharField(label='Second team name', max_length=100)

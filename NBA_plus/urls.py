@@ -17,4 +17,11 @@ urlpatterns = [
     path('team/update/<tid>/', views.updateteam, name='update_team'),
     path('similarity/', views.similarplayer, name='similar_player'),
     path('prediction/', views.predict, name='predict'),
+    path('year/', views.year, name='year'),
+    path('Hall_of_Fame/', views.Hall_of_Fame, name='Hall_of_Fame'),
+    path('Championship/', views.Championship, name='Championship'),
+    path('HSM/', views.HSM, name='HSM'),
+    path('HASS/', views.HASS, name='HASS'),
+    path('WL/', views.WL, name='WL'),
+    path('abbr/', views.abbr, name='abbr'),
 ]
