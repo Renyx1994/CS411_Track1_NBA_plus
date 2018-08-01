@@ -70,6 +70,7 @@ def similarplayer(request):
     if simform.is_valid():
         name = simform.cleaned_data['player_name']
         sim = PlayerSimilarity.objects.filter(name__icontains=name)
+        # sim = PlayerSimilarity.objects.raw('SELECT Name,Sim_plyr FROM player_similarity WHERE Name LIKE %s', [name])
     return render(request, 'NBA_plus/similarity.html', {'simform':simform,'sim':sim})
 
 def predict(request):
@@ -83,7 +84,7 @@ def predict(request):
         elif p == 2:
             pred = PredictionRelyRecent2.objects.filter(team=name)
         elif p == 3:
-            pred = PredictionRelyRecent3.objects.filter(teams=name)
+            pred = PredictionRelyRecent3.objects.filter(team=name)
         elif p == 4:
             pred = PredictionRelyRecent4.objects.filter(team=name)
         else:
