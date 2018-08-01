@@ -89,6 +89,7 @@ DATABASES = {
         'PASSWORD': 'YTdTQe9-k,f',
         'HOST': 'localhost',
         'PORT': '',
+        'ATOMIC_REQUESTS': True,
         'OPTIONS': {
           'autocommit': True,
         },
