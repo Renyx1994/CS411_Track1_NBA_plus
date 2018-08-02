@@ -226,7 +226,7 @@ def performance(request):
     if var_get_search is not None:
         cursor = connection.cursor()
         cursor.execute(
-            "SELECT B.player, P.2P_percent, P.3P_percent, P.FG_percent, P.FT_percent, P.eFG_percent FROM player_avg_performance P, player_basic B WHERE B.Id = P.Id AND B.player LIKE concat(concat('%',%s),'%') LIMIT 1",
+            "SELECT B.player, P.2P_percent, P.3P_percent, P.FG_percent, P.FT_percent, P.eFG_percent FROM player_avg_performance P, player_basic B WHERE B.Id = P.Id AND B.player LIKE '%%%s%%' LIMIT 1",
             [var_get_search])
         result = cursor.fetchall()
     return render(request, 'NBA_plus/radar_plot.html', {'result':result})
