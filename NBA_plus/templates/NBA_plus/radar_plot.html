@@ -90,12 +90,12 @@
           </thead>
           <tbody>
             <tr>
-              <th scope="row">{{ result.0}}</th>
-              <td>{{ result.1}}</td>
-              <td>{{ result.2}}</td>
-              <td>{{ result.3}}</td>
-              <td>{{ result.4}}</td>
-              <td>{{ result.5}}</td>
+              <th scope="row">{{ result.0.0}}</th>
+              <td>{{ result.0.1}}</td>
+              <td>{{ result.0.2}}</td>
+              <td>{{ result.0.3}}</td>
+              <td>{{ result.0.4}}</td>
+              <td>{{ result.0.5}}</td>
             </tr>
           </tbody>
         </table>
@@ -121,7 +121,7 @@
       // polt
       var data = [{
       type: 'scatterpolar',
-      r: [{{ result.1}}, {{ result.2}}, {{ result.3}}, {{ result.4}}, {{ result.5}}],
+      r: [{{ result.0.1}}, {{ result.0.2}}, {{ result.0.3}}, {{ result.0.4}}, {{ result.0.5}}],
 //          r:[i.Number_2p_percent,i.Number_3p_percent,i.fg_percent,i.ft_percent,i.efg_percent]
       theta: ['2P_Percent','3P_Percent','FG_Percent', 'FT_Percent', 'eFG_Percent'],
       fill: 'toself'
