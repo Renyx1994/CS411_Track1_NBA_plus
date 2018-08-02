@@ -7,8 +7,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
-
-    <title>Player</title>
+    <!--including plotlyjs library-->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <title>Radar_PLot</title>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
                 integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
@@ -34,8 +35,8 @@
         border-collapse: collapse;
         }
     </style>
+    </head>
 
-  </head>
 
   <body>
 
@@ -121,7 +122,7 @@
       // polt
       var data = [{
       type: 'scatterpolar',
-      r: [1,2,3,4,5],
+      r: [{{ result.0.1}}, {{ result.0.2}}, {{ result.0.3}}, {{ result.0.4}}, {{ result.0.5}}],
 //          r:[i.Number_2p_percent,i.Number_3p_percent,i.fg_percent,i.ft_percent,i.efg_percent]
       theta: ['2P_Percent','3P_Percent','FG_Percent', 'FT_Percent', 'eFG_Percent'],
       fill: 'toself'
