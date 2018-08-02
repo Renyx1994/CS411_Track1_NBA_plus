@@ -25,4 +25,5 @@ urlpatterns = [
     path('WL/', views.WL, name='WL'),
     path('abbr/', views.abbr, name='abbr'),
     path('allrank/', views.allrank, name='allrank'),
+    path('performance/', views.performance, name='performance'),
 ]
