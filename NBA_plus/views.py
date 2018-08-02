@@ -222,6 +222,7 @@ def allrank(request):
 
 def performance(request):
     var_get_search = request.GET.get('search_box4')
+    result = ''
     if var_get_search is not None:
         cursor = connection.cursor()
         cursor.execute(
