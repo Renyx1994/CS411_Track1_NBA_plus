@@ -9,7 +9,7 @@
     <link rel="icon" href="../../../../favicon.ico">
     <!--including plotlyjs library-->
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <title>Radar_PLot</title>
+    <title>Performance</title>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
                 integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
@@ -54,12 +54,11 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="https://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Explore</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/year">Years in Team</a>
+              <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/year">Loyal Player</a>
               <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/Hall_of_Fame">Hall of Fame</a>
               <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/Championship">Championship</a>
               <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/HSM">Highest Score in a Single Match</a>
               <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/HASS">Highest Average Score in a Season</a>
-              <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/WL">Update Win/Lose</a>
             </div>
           </li>
         </ul>
@@ -82,11 +81,11 @@
           <thead class="thead-light">
             <tr>
               <th scope="col">Name</th>
-              <th scope="col">2P_percent</th>
-              <th scope="col">3P_percent</th>
-              <th scope="col">FG_percent</th>
-              <th scope="col">FT_percent</th>
-              <th scope="col">eFG_percent</th>
+              <th scope="col">2 Point Percentage</th>
+              <th scope="col">3 Point Percentage</th>
+              <th scope="col">Field Goal</th>
+              <th scope="col">Free Throw</th>
+              <th scope="col">Effective Field Goal Percentage</th>
             </tr>
           </thead>
           <tbody>
@@ -124,7 +123,7 @@
       type: 'scatterpolar',
       r: [100*{{ result.0.1}}, 100*{{ result.0.2}}, 100*{{ result.0.3}}, 100*{{ result.0.4}}, 100*{{ result.0.5}}],
 //          r:[i.Number_2p_percent,i.Number_3p_percent,i.fg_percent,i.ft_percent,i.efg_percent]
-      theta: ['2P_Percent','3P_Percent','FG_Percent', 'FT_Percent', 'eFG_Percent'],
+      theta: ['2 Point Percentage','3 Point Percentage','Field Goal', 'Free Throw', 'Effective Field Goal Percentage'],
       fill: 'toself'
         }]
 

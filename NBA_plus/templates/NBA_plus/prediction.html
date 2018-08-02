@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Test</title>
+    <title>Prediction</title>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
                 integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
@@ -119,12 +119,11 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="https://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Explore</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/year">Years in Team</a>
+              <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/year">Loyal Player</a>
               <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/Hall_of_Fame">Hall of Fame</a>
               <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/Championship">Championship</a>
               <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/HSM">Highest Score in a Single Match</a>
               <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/HASS">Highest Average Score in a Season</a>
-              <a class="dropdown-item" href="http://su18-cs411-06.cs.illinois.edu/WL">Update Win/Lose</a>
             </div>
           </li>
         </ul>
@@ -145,6 +144,7 @@
   <section class = "main-container">
      <div class = "main_wrapper">
       <h2>Prediction </h2>
+         <h1 class="lead"><br>The prediction function will give the prediction for all teams based on the previous performance. One parameter with value from 1 to 5 is needed, which related to the stability of the team performance over different seasons (smaller value infers lower stability).</h1>
        <form method = "post">
         {% csrf_token %}
         {{ predictform.as_p }}

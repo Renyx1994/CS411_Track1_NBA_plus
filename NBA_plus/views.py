@@ -33,7 +33,7 @@ def game(request):
     if var_get_search is not None:
         game = MatchRecords.objects.filter(year=int(var_get_search))
     else:
-        game = MatchRecords.objects.all()
+        game = MatchRecords.objects.all()[:1000]
     return render(request, 'NBA_plus/game.html', {'game':game})
 
 
@@ -137,7 +137,7 @@ def year(request):
     if yearform.is_valid():
         year = yearform.cleaned_data['year']
         cursor = connection.cursor()
-        cursor.execute("SELECT DISTINCT B.player, P1.Tm FROM player_avg_performance P1, player_avg_performance P2, player_basic B WHERE P1.Id = P2.Id AND P1.Tm = P2.Tm AND (SELECT COUNT(*) FROM player_avg_performance WHERE Id = P2.Id AND Tm = P2.Tm) > %s AND P1.Id > P1.Tm AND B.Id = P1.Id",[year])
+        cursor.execute("SELECT DISTINCT B.player, P1.Tm FROM player_avg_performance P1, player_avg_performance P2, player_basic B WHERE P1.Id = P2.Id AND P1.Tm = P2.Tm AND (SELECT COUNT(*) FROM player_avg_performance WHERE Id = P2.Id AND Tm = P2.Tm) > %s AND P1.Id > P1.Tm AND P1.Tm <> 'Did Not Play' AND B.Id = P1.Id",[year])
         result = cursor.fetchall()
     return render(request, 'NBA_plus/year.html', {'yearform':yearform,'result':result})
 
@@ -178,23 +178,23 @@ def HASS(request):
     return render(request, 'NBA_plus/HASS.html', {'seasonform':seasonform,'result':result})
 
 
-def WL(request):
-    wlform = WLForm(request.POST)
-    result =''
-    if wlform.is_valid():
-        team1 = wlform.cleaned_data['team1']
-        team2 = wlform.cleaned_data['team2']
-        if 'search' in request.POST:
-            result = [TeamBasic.objects.get(franchise=team1), TeamBasic.objects.get(franchise=team2)]
-        elif 'update' in request.POST:
-            try:
-                cursor = connection.cursor()
-                #cursor.callproc('update_team_WL', [team1, team2])
-                cursor.execute("call update_team_WL(%s, %s);", [team1, team2])
-                transaction.commit()
-            except:
-                transaction.rollback()
-    return render(request, 'NBA_plus/WL.html', {'wlform':wlform,'result':result})
+# def WL(request):
+#     wlform = WLForm(request.POST)
+#     result =''
+#     if wlform.is_valid():
+#         team1 = wlform.cleaned_data['team1']
+#         team2 = wlform.cleaned_data['team2']
+#         if 'search' in request.POST:
+#             result = [TeamBasic.objects.get(franchise=team1), TeamBasic.objects.get(franchise=team2)]
+#         elif 'update' in request.POST:
+#             try:
+#                 cursor = connection.cursor()
+#                 #cursor.callproc('update_team_WL', [team1, team2])
+#                 cursor.execute("call update_team_WL(%s, %s);", [team1, team2])
+#                 transaction.commit()
+#             except:
+#                 transaction.rollback()
+#     return render(request, 'NBA_plus/WL.html', {'wlform':wlform,'result':result})
 
 
 def abbr(request):
