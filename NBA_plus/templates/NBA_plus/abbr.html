@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Games</title>
+    <title>Abbreviation</title>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
                 integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
@@ -53,7 +53,7 @@
             <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu/game/insert">Insert</a>
+            <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu/prediction">Return</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="https://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Explore</a>
@@ -66,10 +66,6 @@
             </div>
           </li>
         </ul>
-        <form method="get" class="form-inline my-2 my-lg-0">
-          <input id="search_box2" name="search_box2" class="form-control mr-sm-2" type="text" placeholder="Search for the year of games" aria-label="Search">
-          <button id="search_submit" class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
       </div>
     </nav>
 
@@ -77,37 +73,138 @@
 
       <div class="starter-template">
         <h1>Bootstrap starter template</h1>
-        <h1 class="lead"><br> Game data is here!</h1>
+        <h1 class="lead"><br> Abbreviations of NBA teams are listed here!</h1>
 
-        <table class="table">
+      <table class="table">
           <thead class="thead-light">
             <tr>
-              <th scope="col">Playoff_regular</th>
               <th scope="col">Team</th>
-              <th scope="col">Year</th>
-              <th scope="col">G</th>
-              <th scope="col">Opponent</th>
-              <th scope="col">Home_away</th>
-              <th scope="col">Tm</th>
-              <th scope="col">Opp</th>
+              <th scope="col">Abbreviation</th>
             </tr>
           </thead>
           <tbody>
-          {% for i in game %}
             <tr>
-              <th scope="row">{{ i.playoff_regular}}</th>
-              <td>{{ i.team}}</td>
-              <td>{{ i.year}}</td>
-              <td>{{ i.g}}</td>
-              <td>{{ i.opponent}}</td>
-              <td>{{ i.home_away}}</td>
-              <td>{{ i.tm}}</td>
-              <td>{{ i.opp}}</td>
+              <th scope="row">Atlanta Hawks</th>
+              <td>ATL</td>
             </tr>
-          {% endfor %}
+            <tr>
+              <th scope="row">Brooklyn Nets</th>
+              <td>BKN</td>
+            </tr>
+            <tr>
+              <th scope="row">Boston Celtics</th>
+              <td>BOS</td>
+            </tr>
+            <tr>
+              <th scope="row">Charlotte Hornets</th>
+              <td>CHA</td>
+            </tr>
+            <tr>
+              <th scope="row">Chicago Bulls</th>
+              <td>CHI</td>
+            </tr>
+            <tr>
+              <th scope="row">Cleveland Cavaliers</th>
+              <td>CLE</td>
+            </tr>
+            <tr>
+              <th scope="row">Dallas Mavericks</th>
+              <td>DAL</td>
+            </tr>
+            <tr>
+              <th scope="row">Denver Nuggets</th>
+              <td>DEN</td>
+            </tr>
+            <tr>
+              <th scope="row">Detroit Pistons</th>
+              <td>DET</td>
+            </tr>
+            <tr>
+              <th scope="row">Golden State Warriors</th>
+              <td>GSW</td>
+            </tr>
+            <tr>
+              <th scope="row">Houston Rockets</th>
+              <td>HOU</td>
+            </tr>
+            <tr>
+              <th scope="row">Indiana Pacers</th>
+              <td>IND</td>
+            </tr>
+            <tr>
+              <th scope="row">Los Angeles Clippers</th>
+              <td>LAC</td>
+            </tr>
+            <tr>
+              <th scope="row">Los Angeles Lakers</th>
+              <td>LAL</td>
+            </tr>
+            <tr>
+              <th scope="row">Memphis Grizzlies</th>
+              <td>MEM</td>
+            </tr>
+            <tr>
+              <th scope="row">Miami Heat</th>
+              <td>MIA</td>
+            </tr>
+            <tr>
+              <th scope="row">Milwaukee Bucks</th>
+              <td>MIL</td>
+            </tr>
+            <tr>
+              <th scope="row">Minnesota Timberwolves</th>
+              <td>MIN</td>
+            </tr>
+            <tr>
+              <th scope="row">New Orleans Pelicans</th>
+              <td>NOP</td>
+            </tr>
+            <tr>
+              <th scope="row">New York Knicks</th>
+              <td>NYK</td>
+            </tr>
+            <tr>
+              <th scope="row">Oklahoma City Thunder</th>
+              <td>OKC</td>
+            </tr>
+            <tr>
+              <th scope="row">Orlando Magic</th>
+              <td>ORL</td>
+            </tr>
+            <tr>
+              <th scope="row">Philadelphia 76ers</th>
+              <td>PHI</td>
+            </tr>
+            <tr>
+              <th scope="row">Phoenix Suns</th>
+              <td>PHX</td>
+            </tr>
+            <tr>
+              <th scope="row">Portland Trail Blazers</th>
+              <td>POR</td>
+            </tr>
+            <tr>
+              <th scope="row">Sacramento Kings</th>
+              <td>SAC</td>
+            </tr>
+            <tr>
+              <th scope="row">San Antonio Spurs</th>
+              <td>SAS</td>
+            </tr>
+            <tr>
+              <th scope="row">Toronto Raptors</th>
+              <td>TOR</td>
+            </tr>
+            <tr>
+              <th scope="row">Utah Jazz</th>
+              <td>UTA</td>
+            </tr>
+            <tr>
+              <th scope="row">Washington Wizards</th>
+              <td>WAS</td>
+            </tr>
           </tbody>
         </table>
-
 
       </div>
 

@@ -7,8 +7,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
-
-    <title>Player</title>
+    <!--including plotlyjs library-->
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <title>Performance</title>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
                 integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
@@ -34,8 +35,8 @@
         border-collapse: collapse;
         }
     </style>
+    </head>
 
-  </head>
 
   <body>
 
@@ -50,9 +51,6 @@
           <li class="nav-item active">
             <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu">Home <span class="sr-only">(current)</span></a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu/player/insert">Insert</a>
-          </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="https://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Explore</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
@@ -65,11 +63,12 @@
           </li>
         </ul>
         <form method="get" class="form-inline my-2 my-lg-0">
-          <input id="search_box" name="search_box" class="form-control mr-sm-2" type="text" placeholder="Search for the player" aria-label="Search">
+          <input id="search_box4" name="search_box4" class="form-control mr-sm-2" type="text" placeholder="Search for the player" aria-label="Search">
           <button id="search_submit" class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
       </div>
     </nav>
+
 
 
     <main role="main" class="container">
@@ -81,37 +80,30 @@
         <table class="table">
           <thead class="thead-light">
             <tr>
-              <th scope="col">ID</th>
-              <th scope="col">Player</th>
-              <th scope="col">Start</th>
-              <th scope="col">Until</th>
-              <th scope="col">Pos</th>
-              <th scope="col">Ht</th>
-              <th scope="col">Wt</th>
-              <th scope="col">Birthday</th>
-              <th scope="col">Colleges</th>
-              <th scope="col">Update</th>
-              <th scope="col">Delete</th>
+              <th scope="col">Name</th>
+              <th scope="col">2 Point Percentage</th>
+              <th scope="col">3 Point Percentage</th>
+              <th scope="col">Field Goal</th>
+              <th scope="col">Free Throw</th>
+              <th scope="col">Effective Field Goal Percentage</th>
             </tr>
           </thead>
           <tbody>
-          {% for i in player %}
             <tr>
-              <th scope="row">{{ i.id}}</th>
-              <td>{{ i.player}}</td>
-              <td>{{ i.start}}</td>
-              <td>{{ i.until}}</td>
-              <td>{{ i.pos}}</td>
-              <td>{{ i.ht}}</td>
-              <td>{{ i.wt}}</td>
-              <td>{{ i.birthday}}</td>
-              <td>{{ i.colleges}}</td>
-              <th scope="col"><a href="/player/update/{{ i.id }}/" >Edit</a></th>
-              <th scope="col"><a href="/player/delete/{{ i.id }}/"  onclick="return confirm('Sure to delete?')">Delete</a></th>
+              <th scope="row">{{ result.0.0}}</th>
+              <td>{{ result.0.1}}</td>
+              <td>{{ result.0.2}}</td>
+              <td>{{ result.0.3}}</td>
+              <td>{{ result.0.4}}</td>
+              <td>{{ result.0.5}}</td>
             </tr>
-          {% endfor %}
           </tbody>
         </table>
+
+        <div id = "graph" style="height: 1000px">
+          Average Player Performance Plot
+        </div>
+
 
 
       </div>
@@ -121,8 +113,37 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script>
+        window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')
+
+
+
+      // polt
+      var data = [{
+      type: 'scatterpolar',
+      r: [100*{{ result.0.1}}, 100*{{ result.0.2}}, 100*{{ result.0.3}}, 100*{{ result.0.4}}, 100*{{ result.0.5}}],
+//          r:[i.Number_2p_percent,i.Number_3p_percent,i.fg_percent,i.ft_percent,i.efg_percent]
+      theta: ['2 Point Percentage','3 Point Percentage','Field Goal', 'Free Throw', 'Effective Field Goal Percentage'],
+      fill: 'toself'
+        }]
+
+      var layout = {
+        polar: {
+        radialaxis: {
+        visible: true,
+        range: [0, 100]
+           }
+          },
+          showlegend: true
+      }
+
+      Plotly.plot("graph", data, layout)
+     </script>
   </body>
+
+
+
+
 </html>
 
 

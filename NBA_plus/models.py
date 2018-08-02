@@ -193,7 +193,7 @@ class PlayerAvgPerformance(models.Model):
     class Meta:
         managed = False
         db_table = 'player_avg_performance'
-        unique_together = (('id', 'season', 'tm', 'mp'),)
+        unique_together = (('id', 'mp', 'season', 'tm'),)
 
 
 class PlayerBasic(models.Model):
@@ -217,7 +217,7 @@ class PlayerRegPerformance(models.Model):
     number_3p_percent = models.FloatField(db_column='3P_percent', blank=True, null=True)  # Field name made lowercase. Field renamed because it wasn't a valid Python identifier.
     number_3pa = models.IntegerField(db_column='3PA', blank=True, null=True)  # Field name made lowercase. Field renamed because it wasn't a valid Python identifier.
     ast = models.IntegerField(db_column='AST', blank=True, null=True)  # Field name made lowercase.
-    age = models.CharField(db_column='Age', max_length=120)  # Field name made lowercase.
+    age = models.CharField(db_column='Age', primary_key=True, max_length=120)  # Field name made lowercase.
     blk = models.IntegerField(db_column='BLK', blank=True, null=True)  # Field name made lowercase.
     drb = models.IntegerField(db_column='DRB', blank=True, null=True)  # Field name made lowercase.
     date = models.CharField(db_column='Date', max_length=120, blank=True, null=True)  # Field name made lowercase.
@@ -230,7 +230,7 @@ class PlayerRegPerformance(models.Model):
     g = models.IntegerField(db_column='G', blank=True, null=True)  # Field name made lowercase.
     gs = models.CharField(db_column='GS', max_length=255, blank=True, null=True)  # Field name made lowercase.
     gmsc = models.FloatField(db_column='GmSc', blank=True, null=True)  # Field name made lowercase.
-    id = models.CharField(db_column='Id', primary_key=True, max_length=120)  # Field name made lowercase.
+    id = models.CharField(db_column='Id', max_length=120)  # Field name made lowercase.
     mp = models.CharField(db_column='MP', max_length=255)  # Field name made lowercase.
     orb = models.IntegerField(db_column='ORB', blank=True, null=True)  # Field name made lowercase.
     opp = models.CharField(db_column='Opp', max_length=120)  # Field name made lowercase.
@@ -247,7 +247,90 @@ class PlayerRegPerformance(models.Model):
     class Meta:
         managed = False
         db_table = 'player_reg_performance'
-        unique_together = (('id', 'age', 'mp', 'tm', 'opp'),)
+        unique_together = (('age', 'id', 'mp', 'opp', 'tm'),)
+
+
+class PlayerSimilarity(models.Model):
+    name = models.CharField(db_column='Name', max_length=255, blank=True, null=True)  # Field name made lowercase.
+    sim_plyr = models.TextField(db_column='Sim_plyr', blank=True, null=True)  # Field name made lowercase.
+
+    class Meta:
+        managed = False
+        db_table = 'player_similarity'
+
+
+class PlayerSimilarity3(models.Model):
+    pid = models.IntegerField(primary_key=True)
+    name = models.CharField(db_column='Name', max_length=255, blank=True, null=True)  # Field name made lowercase.
+    sim_plyr = models.TextField(db_column='Sim_plyr', blank=True, null=True)  # Field name made lowercase.
+
+    class Meta:
+        managed = False
+        db_table = 'player_similarity3'
+
+
+class PlayerSimilarity4(models.Model):
+    id = models.IntegerField(db_column='ID', primary_key=True)  # Field name made lowercase.
+    name = models.CharField(db_column='Name', max_length=255, blank=True, null=True)  # Field name made lowercase.
+    sim_plyr = models.TextField(db_column='Sim_plyr', blank=True, null=True)  # Field name made lowercase.
+
+    class Meta:
+        managed = False
+        db_table = 'player_similarity4'
+
+
+class PlayerSimilarity2(models.Model):
+    name = models.CharField(db_column='Name', max_length=255, blank=True, null=True)  # Field name made lowercase.
+    sim_plyr = models.TextField(db_column='Sim_plyr', blank=True, null=True)  # Field name made lowercase.
+
+    class Meta:
+        managed = False
+        db_table = 'player_similarity_2'
+
+
+class PredictionRelyRecent1(models.Model):
+    team = models.CharField(primary_key=True, max_length=255)
+    team_rank = models.IntegerField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'prediction_rely_recent_1'
+
+
+class PredictionRelyRecent2(models.Model):
+    team = models.CharField(primary_key=True, max_length=255)
+    team_rank = models.IntegerField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'prediction_rely_recent_2'
+
+
+class PredictionRelyRecent3(models.Model):
+    team = models.CharField(primary_key=True, max_length=255)
+    team_rank = models.IntegerField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'prediction_rely_recent_3'
+
+
+class PredictionRelyRecent4(models.Model):
+    team = models.CharField(primary_key=True, max_length=255)
+    team_rank = models.IntegerField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'prediction_rely_recent_4'
+
+
+class PredictionRelyRecent5(models.Model):
+    team = models.CharField(primary_key=True, max_length=255)
+    team_rank = models.IntegerField(blank=True, null=True)
+
+    class Meta:
+        managed = False
+        db_table = 'prediction_rely_recent_5'
 
 
 class TeamBasic(models.Model):

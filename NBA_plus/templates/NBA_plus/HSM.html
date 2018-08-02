@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Player</title>
+    <title>HSM</title>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
                 integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
@@ -33,7 +33,64 @@
         border: 1px solid black;
         border-collapse: collapse;
         }
+        .main_wrapper{
+    margin: 0 auto;
+    width: 1000px;
+   }
+        .main-container h2{
+    font-family: arial；
+    font-size: 40px;
+    color: #111;
+    line-height: 50px;
+    text-align: center;
+   }
+      .addnews-form{
+    width: 450px;
+    margin: 0 auto;
+    padding-top: 30px;
+   }
+   .addnews-form input{
+    width: 90%;
+    height: 40px;
+    padding: 0px 5%;
+    margin-bottom: 4px;
+    border: none;
+    background-color: #fff;
+    font-family: arial；
+    font-size: 16px;
+    color: #111;
+    line-height: 40px;
+   }
+   .addnews-form .input_content input{
+    width: 90%;
+    height: 40px;
+    padding: 0px 5%;
+    margin-bottom: 4px;
+    border: none;
+    background-color: #fff;
+    font-family: arial；
+    font-size: 16px;
+    color: #111;
+    line-height: 200px;
+   }
+   .addnews-form button{
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: 40px;
+    border: none;
+    background-color: #222;
+    font-family: arial；
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+   }
+   .addnews-form button: hover{
+    background-color: #111;
+   }
     </style>
+
+
 
   </head>
 
@@ -51,7 +108,7 @@
             <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu">Home <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu/player/insert">Insert</a>
+            <a class="nav-link" href="http://su18-cs411-06.cs.illinois.edu/player">Return</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="https://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Explore</a>
@@ -64,50 +121,45 @@
             </div>
           </li>
         </ul>
-        <form method="get" class="form-inline my-2 my-lg-0">
+        <!--<form method="get" class="form-inline my-2 my-lg-0">
           <input id="search_box" name="search_box" class="form-control mr-sm-2" type="text" placeholder="Search for the player" aria-label="Search">
           <button id="search_submit" class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-        </form>
+        </form>-->
       </div>
     </nav>
+
 
 
     <main role="main" class="container">
 
       <div class="starter-template">
         <h1>Bootstrap starter template</h1>
-        <h1 class="lead"><br> Player data is here!</h1>
+        <h1 class="lead"><br> Find the player that got the highest score in a single game in the specified season</h1>
 
-        <table class="table">
+  <section class = "main-container">
+     <div class = "main_wrapper">
+      <h2>Season</h2>
+       <form method = "post">
+        {% csrf_token %}
+        {{ seasonform.as_p }}
+        <button type = "submit" name="submit">Search</button>
+       </form>
+     </div>
+    </section>
+
+
+  <table class="table">
           <thead class="thead-light">
             <tr>
-              <th scope="col">ID</th>
               <th scope="col">Player</th>
-              <th scope="col">Start</th>
-              <th scope="col">Until</th>
-              <th scope="col">Pos</th>
-              <th scope="col">Ht</th>
-              <th scope="col">Wt</th>
-              <th scope="col">Birthday</th>
-              <th scope="col">Colleges</th>
-              <th scope="col">Update</th>
-              <th scope="col">Delete</th>
+              <th scope="col">PTS</th>
             </tr>
           </thead>
           <tbody>
-          {% for i in player %}
+          {% for i in result %}
             <tr>
-              <th scope="row">{{ i.id}}</th>
-              <td>{{ i.player}}</td>
-              <td>{{ i.start}}</td>
-              <td>{{ i.until}}</td>
-              <td>{{ i.pos}}</td>
-              <td>{{ i.ht}}</td>
-              <td>{{ i.wt}}</td>
-              <td>{{ i.birthday}}</td>
-              <td>{{ i.colleges}}</td>
-              <th scope="col"><a href="/player/update/{{ i.id }}/" >Edit</a></th>
-              <th scope="col"><a href="/player/delete/{{ i.id }}/"  onclick="return confirm('Sure to delete?')">Delete</a></th>
+              <th scope="row">{{ i.0}}</th>
+              <td>{{ i.1}}</td>
             </tr>
           {% endfor %}
           </tbody>
@@ -124,6 +176,5 @@
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
   </body>
 </html>
-
 
 
